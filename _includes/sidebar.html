@@ -1,0 +1,74 @@
+<!-- The Side Bar -->
+
+<div id="sidebar" class="d-flex flex-column align-items-end">
+  <div class="profile-wrapper">
+    <div class="site-title">
+      <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    </div>
+    <div class="site-subtitle fst-italic">{{ site.tagline }}</div>
+  </div>
+  <!-- .profile-wrapper -->
+
+  
+  <ul class="nav flex-column flex-grow-1 w-100 ps-0">
+    <!-- the page_features_tabs -->   
+     <span class="nav-section-header">Get Started</span> 
+    {% for tab in site.data.locales[include.lang].get_started_tabs %}
+    <li class="nav-item{% if tab[0] == page.url %}{{ " active" }}{% endif %}">
+      <a href="{{ site.baseurl }}/posts/{{ tab[0] }}" class="nav-link">
+        {% capture tab_name %}{{ tab[0] | split: '/' }}{% endcapture %}
+        <span>{{relative_url}}</span>
+        <span>{{ tab[1] }}</span> 
+      </a>
+    </li>
+    <!-- .nav-item -->
+  {% endfor %}
+    <span class="nav-section-header">Pages/Features</span> 
+    {% for tab in site.data.locales[include.lang].pages_features_tabs %}
+      <li class="nav-item{% if tab[0] == page.url %}{{ " active" }}{% endif %}">
+        <a href="{{ site.baseurl }}/posts/{{ tab[0] }}" class="nav-link">
+          {% capture tab_name %}{{ tab[0] | split: '/' }}{% endcapture %}
+          <span>{{ tab[1] }}</span> 
+        </a>
+      </li>
+      <!-- .nav-item -->
+      
+    {% endfor %}
+    </ul>
+
+  <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100">
+    {% for entry in site.data.contact %}
+      {% case entry.type %}
+        {% when 'github' %}
+          {%- capture url -%}
+            https://{{ entry.type }}.com/{{ site[entry.type].username }}
+          {%- endcapture -%}
+      {% endcase %}
+
+      {% if url %}
+        <a
+          href="{{ url }}"
+          aria-label="{{ entry.type }}"
+          {% assign link_types = '' %}
+
+          {% unless entry.noblank %}
+            target="_blank"
+            {% assign link_types = 'noopener noreferrer' %}
+          {% endunless %}
+
+          {% if entry.type == 'mastodon' %}
+            {% assign link_types = link_types | append: ' me' | strip %}
+          {% endif %}
+
+          {% unless link_types == empty %}
+            rel="{{ link_types }}"
+          {% endunless %}
+        >
+          <i class="{{ entry.icon }}"></i>
+        </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+  <!-- .sidebar-bottom -->
+</div>
+<!-- #sidebar -->
