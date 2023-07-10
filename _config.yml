@@ -149,7 +149,7 @@ defaults:
       comments: false
   - scope:
       path: ""
-      type: get_started_tabs # see `site.collections`
+      type: tabs # see `site.collections`
     values:
       layout: page
       permalink: /:title/

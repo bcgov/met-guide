@@ -8,6 +8,14 @@ layout:
   tag: Tag
 
 # The tabs of sidebar
+
+tabs:
+  home: Home
+  get_started: Get Started
+  pages: Pages/Features
+  faq: FAQ
+  categories: Categories
+
 get_started_tabs:
   # format: <filename_without_extension>: <value>
   faq: Read the FAQ

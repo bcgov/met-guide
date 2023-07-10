@@ -4,6 +4,8 @@ source "https://rubygems.org"
 
 gemspec
 
+gem "jekyll-spaceship"
+
 group :test do
   gem "html-proofer", "~> 4.4.3"
 end
