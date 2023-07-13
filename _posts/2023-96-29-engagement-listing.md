@@ -22,9 +22,7 @@ The second column is the Date Created for the engagement. This is the date that 
 
 The third column is the Date Published for the engagement. This is the date that a Superuser publishes the engagement for public viewing.  
 
-The fourth column is the Status of the engagement. 
-
-
+The fourth column is the Status of the engagement. Engagements can either be Open, Closed, or in a Draft state.  
 
 
 
