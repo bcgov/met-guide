@@ -11,8 +11,8 @@ pin: true
 ### Write from scratch - MA + Taya
 
 After clicking **Engagements** on the left side panel, you will be directed to the engagement listing page. 
+
 **insert photo of page**
 
 Each engagement and its properties are grouped together by row. You can filter engagements in various ways through the top row: alphabetically by name, chronologically by date created and date published, and according to engagement status.
-
 ### Comments Column ###
