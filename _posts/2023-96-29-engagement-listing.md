@@ -10,9 +10,14 @@ pin: true
 ## Prerequisites
 ### Write from scratch - MA + Taya
 
-After clicking **Engagements** on the left side panel, you will be directed to the engagement listing page. 
+After clicking **Engagements** on the left side panel, you will be directed to the engagement listing page.  
 
 **insert photo of page**
 
-Each engagement and its properties are grouped together by row. You can filter engagements in various ways through the top row: alphabetically by name, chronologically by date created and date published, and according to engagement status.
+Each engagement and its properties are grouped together by row. You can filter engagements alphabetically by Engagement Name, chronologically by Date Created and Date Published, and by Status.
+
+The first column is the Engagement Name. Clicking that link will open a preview of the engagement. For more information on the Engagement Preview page, go to [link] (link to preview engagement page in user guide).
+
+
+
 ### Comments Column ###
