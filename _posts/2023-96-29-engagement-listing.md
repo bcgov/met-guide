@@ -7,8 +7,7 @@ tags: [pages/features, engagement, listing, pages]
 pin: true
 ---
 
-## Prerequisites
-### Write from scratch - MA + Taya
+## Write from scratch - MA + Taya
 
 After clicking **Engagements** on the left side panel, you will be directed to the engagement listing page.  
 
