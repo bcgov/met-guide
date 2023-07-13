@@ -18,6 +18,14 @@ Each engagement and its properties are grouped together by row. You can filter e
 
 The first column is the Engagement Name. Clicking that link will open a preview of the engagement. For more information on the Engagement Preview page, go to [link] (link to preview engagement page in user guide).
 
+The second column is the Date Created for the engagement. This is the date that a Superuser created an engagement prior to publishing it.  
+
+The third column is the Date Published for the engagement. This is the date that a Superuser publishes the engagement for public viewing.  
+
+The fourth column is the Status of the engagement. 
+
+
+
 
 
 ### Comments Column ###
