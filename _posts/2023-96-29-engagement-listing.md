@@ -31,4 +31,6 @@ The fifth column shows the comments within an engagement. There are four colour-
 
 **insert photo of comment column** 
 
+Clicking any of the four options will open a page for reviewing comments. For more information on the Comment Review page, go to [link] (link to comment review page in user guide).
+
 ### Comments Column ###
