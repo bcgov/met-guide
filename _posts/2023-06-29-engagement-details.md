@@ -8,7 +8,7 @@ pin: true
 ---
 
 
-The **Engagement Details** tab allows you to build your engagement from scratch. The fields involved include:
+The **Engagement Details** tab allows you to build your engagement from scratch. The fields in this tab include:
 1. Engagement name
 2. Engagement dates
 3. Header image
