@@ -17,6 +17,8 @@ At the top of the page you can search for engagements by name or through the adv
 
 **insert photo of advanced search drop down**
 
+At the top right of the page you can select + Create Engagement. For more information on engagement creation, go to [link] (link to engagement creation page(s) in user guide).
+
 Each engagement and its properties are grouped together by row. You can filter engagements alphabetically by Engagement Name, chronologically by Date Created and Date Published, and by Status.
 
 The first column is the Engagement Name. Clicking that link will open a preview of the engagement. For more information on the Engagement Preview page, go to [link] (link to preview engagement page in user guide).
