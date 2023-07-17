@@ -13,6 +13,10 @@ After clicking **Engagements** on the left side panel, you will be directed to t
 
 **insert photo of page**
 
+At the top of the page you can search for engagements by name or through the advanced search option. The advanced search allows you to filter results based on different engagement characteristics (metadata).  
+
+**insert photo of advanced search drop down**
+
 Each engagement and its properties are grouped together by row. You can filter engagements alphabetically by Engagement Name, chronologically by Date Created and Date Published, and by Status.
 
 The first column is the Engagement Name. Clicking that link will open a preview of the engagement. For more information on the Engagement Preview page, go to [link] (link to preview engagement page in user guide).
