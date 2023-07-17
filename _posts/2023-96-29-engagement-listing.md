@@ -37,3 +37,12 @@ The fifth column shows the comments within an engagement. There are four colour-
 
 Clicking any of the four options will open a page for reviewing comments. For more information on the Comment Review page, go to [link] (link to comment review page in user guide).
 
+The fifth column allows you to apply an action on an engagement. The drop-down action items will vary according to the engagement status:
+- For open or closed engagements, you can either select View Survey or View Report. 
+- For draft engagements, you can either select Edit Engagement or View Survey.
+
+For more information on the View Survey page, go to [link] (link to view survey page in user guide).
+For more information on the View Report page, go to [link] (link to view report page in user guide).
+For more information on the Edit Engagement page, go to [link] (link to edit engagement page in user guide). *this will include engagement details, engagement UM, and settings*
+
+
