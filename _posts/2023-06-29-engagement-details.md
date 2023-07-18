@@ -15,13 +15,14 @@ The **Engagement Details** tab allows you to build your engagement from scratch.
 The fields in this tab include:
 1. Engagement name: Name or title of your engagement.
    
-3. Engagement dates: You can either manually select the date range or use the day calculator function on the right side.
+2. Engagement dates: You can either manually select the date range or use the day calculator function on the right side.
    
-5. Header image: This image should be representative of the project or specific engagement.
+3. Header image: This image should be representative of the project or specific engagement.
    
-7. Engagement description: The engagement description is intended to be a short summary of the engagement that will be displayed on the main engagement page.
+4. Engagement description: The engagement description is intended to be a short summary of the engagement that will be displayed on the main engagement page.
    
-9. Engagement content: The engagement content provides more detail about the engagement. This is viewable once a particular engagement has been opened by the external user.
+5. Engagement content: The engagement content provides more detail about the engagement. This is viewable once a particular engagement has been opened by the external user.
     
-11. Survey block: The survey block has three (customizable) options with a default text. This is what an external user would see at the bottom of an engagement when a survey is either upcoming, open, or closed.
-    
+6. Survey block: The survey block has three (customizable) options with a default text. This is what an external user would see at the bottom of an engagement when a survey is either upcoming, open, or closed.
+
+
