@@ -13,11 +13,11 @@ The **Engagement Details** tab allows you to build your engagement from scratch.
 **insert image of engagement details page**  
 
 The fields in this tab include:
-1. Engagement name:
+1. Engagement name: Name or title of your engagement.
    
 3. Engagement dates: You can either manually select the date range or use the day calculator function on the right side.
    
-5. Header image:
+5. Header image: This image should be representative of the project or specific engagement.
    
 7. Engagement description: The engagement description is intended to be a short summary of the engagement that will be displayed on the main engagement page.
    
