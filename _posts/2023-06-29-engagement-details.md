@@ -26,7 +26,8 @@ The fields in this tab include:
 6. Survey block: The survey block has three (customizable) options with a default text. This is what an external user would see at the bottom of an engagement when a survey is either upcoming, open, or closed.
 
 
-At the top of the page you will see tabs for User Management and Settings.
+At the top of the page you will see tabs for User Management and Settings.  
+
 For more information on the User Management page, go to [link] (link to UM page in user guide).
 For more information on the Settings page, go to [link] (link to Settings page in user guide).
 
