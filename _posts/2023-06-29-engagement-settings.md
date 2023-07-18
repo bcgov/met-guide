@@ -1,9 +1,9 @@
 ---
-title: Manage an Engagement
+title: Engagement Settings
 author: cotes
 date: 2023-06-29 20:55:00 +0800
-categories: [engagement, manage, getting started]
-tags: [engagement, manage ,getting started]
+categories: [engagement, getting started]
+tags: [engagement, getting started]
 pin: true
 ---
 
