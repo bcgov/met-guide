@@ -28,6 +28,8 @@ The fields in this tab include:
 
 At the top of the page you will see tabs for User Management and Settings.  
 For more information on the User Management page, go to [link] (link to UM page in user guide).  
-For more information on the Settings page, go to [link] (link to Settings page in user guide).
+For more information on the Settings page, go to [link] (link to Settings page in user guide).  
 
 
+Once an engagement has been created you can add various widgets to your engagement. At the top right of the page you will see a Widget box.  
+For more information on the Widget features, go to [link] (link to widget page in user guide).
