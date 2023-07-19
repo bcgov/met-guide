@@ -9,7 +9,7 @@ pin: true
 
 The Engagement Settings tab allows you to add more data and specify your engagement futher.  
 #### Engagement Information  
-The fields within Engagement Information add more metadata to your engagement, making it easily categorized and searchable.  
+The fields within Engagement Information add more metadata to your engagement, making categorized and easily searchable.  
 **add photo of engagement information box**  
 
 #### Enagement Settings  
