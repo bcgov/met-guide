@@ -8,7 +8,7 @@ pin: true
 ---
 ## MA + TAYA from scratch  
 
-The Engagement Settings tab allows you to add more data and specify your engagement futher.  
+The Engagement Settings tab allows you to add more data to specify your engagement futher.  
 #### Engagement Information  
 The fields within Engagement Information add more metadata to your engagement, making categorized and easily searchable.  
 **add photo of engagement information box**  
