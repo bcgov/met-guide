@@ -10,11 +10,21 @@ layout:
 # The tabs of sidebar
 
 tabs:
-  home: Home
-  get_started: Get Started
-  pages: Pages/Features
-  faq: FAQ
-  categories: Categories
+  home: 
+    title: Home
+    description: Welcome to our homepage, where you can find the latest information...
+  get_started: 
+    title: Get Started
+    description: Your journey begins here! Discover how you can get started...
+  pages: 
+    title: Pages/Features
+    description: Explore our various pages and features...
+  faq: 
+    title: FAQ
+    description: Find answers to the most frequently asked questions...
+  categories: 
+    title: Categories
+    description: Browse through our different categories...
 
 get_started_tabs:
   # format: <filename_without_extension>: <value>
