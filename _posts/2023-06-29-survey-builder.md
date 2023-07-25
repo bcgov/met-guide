@@ -28,7 +28,9 @@ The left panel includes all the draggable survey components that you can choose 
 
 ### Survey Components ###  
 
-Each survey component will include settings respective to their function. Some components such as the Header will only have Display settings, while the Category Comment will have Display, Data, Validation, API, Conditional, Logic and Layout settings.
-Survey components are entirely customizable depending on your survey type. Some surveys may only use a couple components, while others may choose to use all of them. 
+Each survey component will include settings respective to their function. Some components such as the Header will only have Display settings, while the Category Comment will have Display, Data, Validation, API, Conditional, Logic and Layout settings.  
+
+Survey components are entirely customizable depending on your survey type. Some surveys may only use a couple components, while others may choose to use all of them.  
+
 Below are examples of the survey components available in MET.
 
