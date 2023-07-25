@@ -7,7 +7,7 @@ tags: [pages/features, survey, creation, pages]
 pin: true
 ---
 
-The Survey Builder allows you to create and customize surveys from scratch, or clone an existing survey.  
+The **Survey Builder** allows you to create and customize surveys from scratch, or clone an existing survey.  
 
 Once you are on the Survey Listing page {link to survey listing page}, you can click **+ Create Survey** on the top right corner. 
 **insert image of survey listing page with create survey circled**  
