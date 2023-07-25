@@ -21,3 +21,13 @@ You can choose to either:
 
 Whether you choose to **Create a new survey** or **Clone an existing survey/template**, you will have to enter a survey name, indicate if it will be multi-page, and agree to the disclaimer and statement of responsibility for Survey Designers. 
 
+After clicking Save and Continue, you will be directed to the **Survey Builder** page.  
+
+The left panel includes all the draggable survey components that you can choose to add to your survey. All survey components are powered by forms.io. For more information on forms.io, visit {link to forms.io page}.  
+
+### Survey Components ###  
+
+Each survey component will include settings respective to their function. Some components such as the Header will only have Display settings, while the Category Comment will have Display, Data, Validation, API, Conditional, Logic and Layout settings.
+Survey components are entirely customizable depending on your survey type. Some surveys may only use a couple components, while others may choose to use all of them. 
+Below are examples of the survey components available in MET.
+
