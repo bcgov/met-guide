@@ -17,7 +17,7 @@ You can choose to either:
    
 2. **Clone an existing survey/template:** This will allow you to duplicate the survey components from an already existing survey. This can be useful for when an engagement requires the same questions/information at a different phase in the engagement. If **Clone an existing survey/template** is selected, the same questions, layout and survey components will carry over to the new survey. However, all survey components are still editable, and can be deleted or added as needed.  
 
+**insert image of page that appears once create survey is clicked**  
 
-
-
+Whether you choose to **Create a new survey** or **Clone an existing survey/template**, you will have to enter a survey name, indicate if it will be multi-page, and agree to the disclaimer and statement of responsibility for Survey Designers. 
 
