@@ -37,9 +37,11 @@ Below are examples of the survey components available in MET.
 - **Header**
 
   **insert image of header component**
+  
 After dragging and dropping the Header component, a customizable pop-up will appear. You can add the header text in the content box and see a preview of the header before saving it.
 
 - **Paragraph**
   
   **insert image of paragraph component**
+  
 After dragging and dropping the Paragraph component, a customizable pop-up will appear. You can add paragraph text in the content box and see a preview of the paragraph before saving it. 
