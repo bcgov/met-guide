@@ -48,24 +48,26 @@ Each survey component will include settings respective to their function. Some c
   
 - Logic: The Logic feature provides a more robust rules engine to conditionally control and manipulate field settings, JSON schema, data values, and custom events. 
   
-- Layout: These settings can apply HTML Attributes/Properties and programmatically reposition PDF fields. 
+- Layout: These settings can apply HTML Attributes/Properties and programmatically reposition PDF fields.
+
+For more information on the component settings, please visit {https://help.form.io/userguide/form-building/component-settings}.
 
 #### Survey Components ####  
 
 Below are examples of the survey components available in MET.
 
-- **Header**
+- **Header**:
 
   **insert image of header component**
 
-- **Paragraph**
+- **Paragraph**:
   
   **insert image of paragraph component**
 
-- **Single Line Answer**
+- **Single Line Answer**:
 
   **insert image of single line answer component**
 
-- **Multiple Lines Answer**
+- **Multiple Lines Answer**:
 
   **insert image of multiple lines answer**
