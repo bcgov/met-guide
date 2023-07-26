@@ -70,4 +70,35 @@ Below are examples of the survey components available in MET.
 
 - **Multiple Lines Answer**:
 
-  **insert image of multiple lines answer**
+  **insert image of multiple lines answer component**
+
+- **Postal Code**:
+
+  **insert image of postal code component**
+
+- **Content**:
+
+  **insert image of content component**  
+  
+- **Radio Button**:
+
+  **insert image of radio button component**
+
+- **Checkbox**:
+
+  **insert image of checkbox component**
+
+- **Category Checkbox**:
+
+  **insert image of category checkbox component**
+
+- **Category Comment**:  
+
+  **insert image of category comment component**
+
+- **HTML Element**
+
+  **insert image of HTML element component**  
+
+
+  
