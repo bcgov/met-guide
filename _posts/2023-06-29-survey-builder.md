@@ -50,6 +50,8 @@ Each survey component will include settings respective to their function. Some c
   
 - Layout: These settings can apply HTML Attributes/Properties and programmatically reposition PDF fields. 
 
+#### Survey Components ####  
+
 Below are examples of the survey components available in MET.
 
 - **Header**
