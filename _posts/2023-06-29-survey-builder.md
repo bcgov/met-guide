@@ -36,52 +36,34 @@ Each survey component will include settings respective to their function. Some c
 
 #### Settings ####  
 
-- Display
-- Data
-- Validation
-- API
-- Conditional
-- Logic
-- Layout
+- Display: These are settings that modify the front-end UI of a component. The Display setting tab will be the first tab open when editing the component settings.
+  
+- Data: Data settings mostly relate to how data is set or how data is interacted with between fields. Use Data Settings to set a default value or set up data calculation.
+  
+- Validation: Settings found in the Validation Tab relate directly to the configurable Front-End and Back-End validations for the field. Validation cover settings such as required fields, unique data, min/max requirements, custom validations, and custom error messages.
+  
+- API: Component settings found in the API Tab contain Back-End settings such as the field's Property Name as well as custom properties that can be set such as HTML and Tags.
+  
+- Conditional: The simple conditional option triggers a condition based on the data input of a single field on a form.
+  
+- Logic: The Logic feature provides a more robust rules engine to conditionally control and manipulate field settings, JSON schema, data values, and custom events. 
+  
+- Layout: These settings can apply HTML Attributes/Properties and programmatically reposition PDF fields. 
 
 Below are examples of the survey components available in MET.
 
 - **Header**
 
   **insert image of header component**
-  
-After dragging and dropping the Header component, a customizable pop-up will appear. You can add the header text in the content box and see a preview of the header before saving it.
 
 - **Paragraph**
   
   **insert image of paragraph component**
-  
-After dragging and dropping the Paragraph component, a customizable pop-up will appear. You can add paragraph text in the content box and see a preview of the paragraph before saving it.  
 
 - **Single Line Answer**
 
-  **insert image of single line answer component on display tab**
-
-On the Display tab, after dragging and dropping the Single Line Answer component, a customizable pop-up will appear. You can add a label, placeholder, description, and tooltip if you choose.  
-
-  **insert image of single line answer on validation tab**  
-
-On the Validation tab, you can optionally create a custom error message, and/or require both a minimum and maximum character length.  
-
-  **insert image of single line answer on conditional tab**  
-
-On the Conditional tab, you can optionally set the answer to be true/false upon a certain character value.  
+  **insert image of single line answer component**
 
 - **Multiple Lines Answer**
 
-  **insert image of multiple lines answer on display tab**
-
-On the Display tab, after dragging and dropping the Multiple Lines Answer component, a customizable pop-up will appear. You can add a label, placeholder, description, edit the number of rows, and include tooltip if you choose.  
-
-  **insert image of multiple lines answer on validation tab**  
-  
-On the Validation tab, you can optionally create a custom error message, and/or require both a minimum and maximum character or word length. 
-  
-  **insert image of multiple lines answer on conditional tab**  
-
-On the Conditional tab, you can optionally set the answer to be true/false upon a certain character value.
+  **insert image of multiple lines answer**
