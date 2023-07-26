@@ -64,4 +64,12 @@ On the Conditional tab, you can optionally set the answer to be true/false upon 
 
   **insert image of multiple lines answer on display tab**
 
-On the Display tab, after dragging and dropping the Multiple Lines Answer component, a customizable pop-up will appear. You can add a label, placeholder, description, edit the number of rows, and include tooltip if you choose.
+On the Display tab, after dragging and dropping the Multiple Lines Answer component, a customizable pop-up will appear. You can add a label, placeholder, description, edit the number of rows, and include tooltip if you choose.  
+
+  **insert image of multiple lines answer on validation tab**  
+  
+On the Validation tab, you can optionally create a custom error message, and/or require both a minimum and maximum character or word length. 
+  
+  **insert image of multiple lines answer on conditional tab**  
+
+On the Conditional tab, you can optionally set the answer to be true/false upon a certain character value.
