@@ -58,4 +58,10 @@ On the Validation tab, you can optionally create a custom error message, and/or 
 
   **insert image of single line answer on conditional tab**  
 
-On the Conditional tab, you can optionally set the answer to be true/false upon a certain character value. 
+On the Conditional tab, you can optionally set the answer to be true/false upon a certain character value.  
+
+- **Multiple Lines Answer**
+
+  **insert image of multiple lines answer on display tab**
+
+On the Display tab, after dragging and dropping the Multiple Lines Answer component, a customizable pop-up will appear. You can add a label, placeholder, description, edit the number of rows, and include tooltip if you choose.
