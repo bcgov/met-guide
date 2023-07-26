@@ -1,23 +1,23 @@
 ---
 title: Engagement Settings
-author: cotes
 date: 2023-07-19 20:55:00 +0800
 categories: [pages/features, engagement, creation, pages]
-tags: [pages/features, engagement, creation, pages]
+tags: [metadata, project, Internal Engagement, Report]
 pin: true
 ---
-## MA check over / add
+## Add images & link to Eng. URL tab page
 
-The Engagement Settings tab allows you to add more data to further specify your engagement.
+The Engagement Settings tab can be found on the top of the Engagement Details page and is specific to each Engagement.
+
+The Engagement Settings tab allows you to add more data to specify your engagement, such as linking it to a project. This might be useful to help see all the engagements associated with the lifetime of a project. It will also be used to send automated updates to people who subscribe to the project associated with this engagement.  
 #### Engagement Information  
 The fields within Engagement Information will add more metadata to your engagement. This helps categorize your engagement and make it more searchable.  
 **add photo of engagement information box**  
-Including this information is not mandatory and can be added as seen fit.  
+Including this information is not mandatory and can be added as seen fit. We recommend adding the project # to ensure that subscribers to automated updates for this project get notified.
 
-#### Enagement Settings  
-Engagements can be set to internal only. Toggling this button will make the engagement only available to people requesting access from a @gov.bc.ca email address and will not show on the engagement home page.  
+#### Engagement Settings  
+Engagements can be set to internal only. Toggling this button will make the engagement only available to people requesting access from a @gov.bc.ca email address and will not show on the engagement home page. You will have to share the engagement link manually. The engagement link is customizable and can be found on the engagement ULRs (links) tab. **(Add link to engagement URL tab page)**
 **add photo of engagement settings box**  
 
-#### Engagement Link  
-The engagement link will be accessible once the engagement is published. It can be copied from the settings tab once the engagement is saved.  
-**add photo of engagement link box**  
+#### Send(?) Report
+You can select the option to hide the Report/Report from public view and not send a link to the Report automatically at the end of the engagement period. The email sent to access the survey won't include a link to access the survey. The Comments/Report will only be accessible internally through the Action drop-down on the Engagement and Survey Listing pages, or with the direct link found on the engagement ULRs (links) tab. **(Add link to engagement URL tab page)**
