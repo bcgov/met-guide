@@ -36,19 +36,19 @@ Each survey component will include settings respective to their function. Some c
 
 #### Settings ####  
 
-- Display: These are settings that modify the front-end UI of a component. The Display setting tab will be the first tab open when editing the component settings.
+- **Display**: These are settings that modify the front-end UI of a component. The Display setting tab will be the first tab open when editing the component settings.
   
-- Data: Data settings mostly relate to how data is set or how data is interacted with between fields. Use Data Settings to set a default value or set up data calculation.
+- **Data**: Data settings mostly relate to how data is set or how data is interacted with between fields. Use Data Settings to set a default value or set up data calculation.
   
-- Validation: Settings found in the Validation Tab relate directly to the configurable Front-End and Back-End validations for the field. Validation cover settings such as required fields, unique data, min/max requirements, custom validations, and custom error messages.
+- **Validation**: Settings found in the Validation Tab relate directly to the configurable Front-End and Back-End validations for the field. Validation cover settings such as required fields, unique data, min/max requirements, custom validations, and custom error messages.
   
-- API: Component settings found in the API Tab contain Back-End settings such as the field's Property Name as well as custom properties that can be set such as HTML and Tags.
+- **API**: Component settings found in the API Tab contain Back-End settings such as the field's Property Name as well as custom properties that can be set such as HTML and Tags.
   
-- Conditional: The simple conditional option triggers a condition based on the data input of a single field on a form.
+- **Conditional**: The simple conditional option triggers a condition based on the data input of a single field on a form.
   
-- Logic: The Logic feature provides a more robust rules engine to conditionally control and manipulate field settings, JSON schema, data values, and custom events. 
+- **Logic**: The Logic feature provides a more robust rules engine to conditionally control and manipulate field settings, JSON schema, data values, and custom events. 
   
-- Layout: These settings can apply HTML Attributes/Properties and programmatically reposition PDF fields.
+- **Layout**: These settings can apply HTML Attributes/Properties and programmatically reposition PDF fields.
 
 For more information on the component settings, please visit {https://help.form.io/userguide/form-building/component-settings}.
 
