@@ -44,4 +44,18 @@ After dragging and dropping the Header component, a customizable pop-up will app
   
   **insert image of paragraph component**
   
-After dragging and dropping the Paragraph component, a customizable pop-up will appear. You can add paragraph text in the content box and see a preview of the paragraph before saving it. 
+After dragging and dropping the Paragraph component, a customizable pop-up will appear. You can add paragraph text in the content box and see a preview of the paragraph before saving it.  
+
+- **Single Line Answer**
+
+  **insert image of single line answer component on display tab**
+
+On the Display tab, after dragging and dropping the Single Line Answer component, a customizable pop-up will appear. You can add a label, placeholder, description, and tooltip if you choose.  
+
+  **insert image of single line answer on validation tab**  
+
+On the Validation tab, you can optionally create a custom error message, and/or require both a minimum and maximum character length.  
+
+  **insert image of single line answer on conditional tab**  
+
+On the Conditional tab, you can optionally set the answer to be true/false upon a certain character value. 
