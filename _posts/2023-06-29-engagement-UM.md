@@ -16,4 +16,4 @@ The Engagement User Management tab is where you can add a Team Member directly t
 As a Superuser, you can add a Team Member to any engagement.  
 As a Team Member, you can add another Team Member to engagements that you are already assigned to.  
 
-The person creating the engagement and the date that it was created will be displayed at the top of this page. The Team Members assigned to the engagement will be listed on below. 
+The person creating the engagement and the date that it was created will be displayed at the top of this page. The Team Members assigned to the engagement will be listed below. 
