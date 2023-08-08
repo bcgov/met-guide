@@ -6,7 +6,7 @@ categories: [pages/features, survey, creation, pages]
 tags: [pages/features, survey, creation, pages]
 pin: true
 ---
-## MA check over/add ##  
+## MA check over/add 
 
 The **Survey Builder** allows you to create and customize surveys from scratch, or clone an existing survey.  
 
