@@ -30,10 +30,10 @@ The third column is the Date Published for the engagement. This is the date that
 The fourth column is the Status of the engagement. Engagements can either be Open, Closed, or in a Draft state.  
 
 The fifth column shows the comments within an engagement. There are four colour-coded options that a comment can fall under:
-1. Approved (Green)
-2. Need further review (Orange)
-3. Rejected (Red)
-4. New (White)
+- Approved (Green)
+- Need further review (Orange)
+- Rejected (Red)
+- New (White)
 
 **insert photo of comment column** 
 
