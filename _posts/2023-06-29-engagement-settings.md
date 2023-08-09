@@ -7,7 +7,7 @@ pin: true
 ---
 ## Add images & link to Eng. URL tab page
 
-The Engagement Settings tab can be found on the top of the Engagement Details page and is specific to each Engagement.
+The **Engagement Settings** tab can be found on the top of the Engagement Details page and is specific to each Engagement.
 
 The Engagement Settings tab allows you to add more data to specify your engagement, such as linking it to a project. This might be useful to help see all the engagements associated with the lifetime of a project. It will also be used to send automated updates to people who subscribe to the project associated with this engagement.  
 #### Engagement Information  
