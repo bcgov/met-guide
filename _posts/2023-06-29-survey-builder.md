@@ -27,7 +27,7 @@ After clicking Save and Continue, you will be directed to the **Survey Builder**
 
 The left panel includes all the draggable survey components that you can choose to add to your survey. All survey components are powered by forms.io. For more information on forms.io, visit {link to forms.io page}.  
 
-### Survey Components ###  
+#### Survey Components  
 
 Survey components are entirely customizable depending on your survey type. Some surveys may only use a couple components, while others may choose to use all of them.  
 
@@ -35,7 +35,7 @@ Each survey component will include settings respective to their function. Some c
 
 **insert photo of a component with only one tab of settings vs. one with all of them**  
 
-#### Settings ####  
+#### Settings   
 
 - **Display**: These are settings that modify the front-end UI of a component. The Display setting tab will be the first tab open when editing the component settings.
   
@@ -53,7 +53,7 @@ Each survey component will include settings respective to their function. Some c
 
 For more information on the component settings, please visit {https://help.form.io/userguide/form-building/component-settings}.
 
-#### Survey Components ####  
+#### Survey Components 
 
 Below are examples of the survey components available in MET.
 
