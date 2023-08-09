@@ -9,6 +9,8 @@ pin: true
 
 ## MA check over/add
 
-After clicking **User Management** on the left side panel, you will see the user listing (?) page.
+After clicking **User Management** on the left side panel, you will see the user listing (?) page.  
 
-MET has various roles with different access and authentication levels. The User Management panel allows existing MET users to assign roles to other people within the application. 
+There are various roles within the application that have different access and authentication levels. The User Management panel allows existing users to see a full list of users, their roles, the date they were added and their status.
+
+This page is where users can assign roles to other people within the application through the action drop down. 
