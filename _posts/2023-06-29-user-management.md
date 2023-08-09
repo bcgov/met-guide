@@ -30,5 +30,5 @@ The fourth column is the Status of the user. Users can either be Active, or Deac
 The fifth column has an action drop down. There are **three options** that are conditionally displayed, depending on your role and the user's role.
 
 - Assign a Role
-- Reassgin a Role
+- Reassign a Role
 - Add to an Engagement
