@@ -9,7 +9,7 @@ pin: true
 
 ## MA check over/add
 
-The Engagement User Management tab is where you can add a Team Member directly to an engagement.  
+The **Engagement User Management** tab is where you can add a Team Member directly to an engagement.  
 
 **insert image of engagement UM page**
 
