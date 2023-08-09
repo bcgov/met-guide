@@ -29,6 +29,8 @@ The fourth column is the Status of the user. Users can either be Active, or Deac
 
 The fifth column has an action drop down. There are **three options** that are conditionally displayed, depending on your role and the user's role.
 
-- Assign a Role
-- Reassign a Role
-- Add to an Engagement
+- Assign a Role: This will be the only option in the action drop down if a user does not have a current role. Only Superusers can assign a role (?).
+- Reassign a Role: Users can be reassgined to a different role from the action drop down. Only Superusers can reassign a role.
+- Add to an Engagement: Users can be added to engagements from the action drop down. Superusers can add any user to any engagement. Team Members assigned to (an) engagement(s) can add other Team Members to those specific engagements. **add info about reviewer/viewer**
+
+  
