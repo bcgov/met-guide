@@ -11,6 +11,24 @@ pin: true
 
 After clicking **User Management** on the left side panel, you will see the user listing (?) page.  
 
-There are various roles within the application that have different access and authentication levels. The User Management panel allows existing users to see a full list of users, their roles, the date they were added and their status.
+**insert photo of page**  
+
+There are various roles within the application that have different access and authentication levels. The User Management panel allows existing users to see a full list of users, their roles, the date they were added and their status. At the top of the page you can search for specific users by name. 
 
 This page is where users can assign roles to other people within the application through the action drop down. 
+
+Each user and their properties are grouped together by row. 
+
+The first column is the User Name. Clicking the name will open the User Details page for that particular user. For more information on the User Details page, go to [link] (link to user details page in user guide).
+
+The second column is the Role of the user. Users can be assigned as a Superuser, Team Member, Reviewer, or Viewer.
+
+The third column is the Date that the user was added to the application.
+
+The fourth column is the Status of the user. Users can either be Active, or Deactivated.
+
+The fifth column has an action drop down. There are **three options** that are conditionally displayed, depending on your role and the user's role.
+
+- Assign a Role
+- Reassgin a Role
+- Add to an Engagement
