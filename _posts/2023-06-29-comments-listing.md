@@ -9,6 +9,11 @@ pin: true
 
 ## MA check over/add
 
-The **Comment Listing** page is where all the comments from an engagement's survey can be reviewed. 
+The **Comment Listing** page is where all the comments from an engagement's survey can be reviewed.  
 
-As a Superuser, you will be able to review all comments regardless of their status
+**insert image of comment listing page**  
+
+The top of the page will provide various ways to filter comments, whether that is by it's status, who has reviewed it, or a date range.  
+Depending on your role in the system, you will have different authorizations for reviewing comments.  
+
+As a Superuser, you will be able to review all comments on all engagements. 
