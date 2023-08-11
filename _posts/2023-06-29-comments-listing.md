@@ -9,5 +9,5 @@ pin: true
 
 ## MA check over/add
 
-The **Comment Listing** page 
+The **Comment Listing** page is where all the comments from a survey can be reviewed. 
 
