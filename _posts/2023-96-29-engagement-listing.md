@@ -17,7 +17,7 @@ At the top of the page you can search for engagements by name or through the adv
 
 **insert photo of advanced search drop down**
 
-At the top right of the page you can select the + Create Engagement button. For more information on engagement creation, go to [link] (link to engagement creation page(s) in user guide).
+At the top right of the page you can select the + Create Engagement button as a Superuser. For more information on engagement creation, go to [link] (link to engagement creation page(s) in user guide).
 
 Each engagement and its properties are grouped together by row. You can filter engagements alphabetically by Engagement Name, chronologically by Date Created and Date Published, and by Status.
 
@@ -43,7 +43,7 @@ The fifth column allows you to apply an action on an engagement. The drop-down a
 - For open or closed engagements, you can either select View Survey or View Report. 
 - For draft engagements, you can either select Edit Engagement or View Survey.
 
-For more information on the View Survey page, go to [link] (link to view survey page in user guide).  
+For more information on the Survey Preview page, go to [link] (link to survey preview page in user guide).  
 
 For more information on the View Report page, go to [link] (link to view report page in user guide).  
 
