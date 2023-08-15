@@ -33,7 +33,7 @@ The fourth column is the Status of the survey. Surveys can be:
 - Template: This is a survey template that can be easily cloned and edited.
 - Hidden: This is a survey that is only visible to specified internal users. 
 
-The fifth column shows the comments within a survey There are four colour-coded options that a comment can fall under:
+The fifth column shows the comments within a survey. There are four colour-coded options that a comment can fall under:
 - Approved (Green)
 - Need further review (Orange)
 - Rejected (Red)
