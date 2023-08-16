@@ -16,7 +16,7 @@ At the top of the page, you can search for surveys by name or through the advanc
 
 **insert photo of survey advanced search drop-down**
 
-At the top right of the page, you can select the *Create Survey* button as a Superuser. For more information on survey creation, go to [Survey Builder] (/met-guide/posts/survey-builder/).
+At the top right of the page, you can select the **+Create Survey** button as a Superuser. For more information on survey creation, go to [Survey Builder] (/met-guide/posts/survey-builder/).
 
 Each survey and its properties are grouped together by row. You can filter surveys alphabetically by Survey Name, chronologically by Date Created and Date Published, by their Status, and alphabetically by their corresponding engagement.
 
