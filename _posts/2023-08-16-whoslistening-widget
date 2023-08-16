@@ -1,1 +1,22 @@
+---
+title: Who is Listening Widget
+author: cotes
+date: 2023-06-29 20:55:00 +0800
+categories: [pages/features, widgets, features]
+tags: [pages/features, widgets, features]
+pin: true
+---
 
+## MA + TAYA from scratch
+
+The **Who is Listening Widget** allows you to add contact peron(s) to an engagement.  
+
+As a Superuser, after creating an engagement, you can choose to add widgets from the right side module.  
+
+**insert image of widget side module**
+
+After selecting **Who is Listening**, you can either:
+- Add an existing contact from the drop down and click "Add This Contact"
+- Click "Create New Contact" where a pop-up will appear to add the contact's information.  
+
+**insert create new contact pop-up**
