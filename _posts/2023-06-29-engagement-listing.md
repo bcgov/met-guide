@@ -14,7 +14,7 @@ At the top of the page, you can search for engagements by name or through the ad
 
 **insert photo of advanced search drop-down**
 
-At the top right of the page, you can select the **+ Create Engagement button** as a Superuser. For more information on engagement creation, go to [Create An Engagement ](https://bcgov.github.io/met-guide/posts/create-engagement/)].
+At the top right of the page, you can select the **+ Create Engagement button** (Superuser only). For more information on engagement creation, go to [Create An Engagement](/met-guide/posts/create-engagement/).
 
 Each engagement and its properties are grouped together by row. You can filter engagements alphabetically by Engagement Name, chronologically by Date Created and Date Published, and by Status.
 
