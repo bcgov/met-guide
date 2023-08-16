@@ -1,23 +1,20 @@
 ---
 title: Engagement Listing
-author: cotes
 date: 2023-08-15 20:55:00 +0800
-categories: [pages/features, engagement, listing, pages]
-tags: [pages/features, engagement, listing, pages]
+categories: [pages/features, engagement, listing,]
+tags: [create, comments, review,preview, actions]
 pin: true
 ---
-
-## MA Check over / add
 
 After clicking **Engagements** on the left side panel, you will be directed to the engagement listing page.  
 
 **insert photo of page**
 
-At the top of the page you can search for engagements by name or through the advanced search option. The advanced search allows you to filter results based on different engagement characteristics (metadata).  
+At the top of the page, you can search for engagements by name or through the advanced search option. The advanced search allows you to filter results based on different engagement characteristics (metadata) and by date range.  
 
-**insert photo of advanced search drop down**
+**insert photo of advanced search drop-down**
 
-At the top right of the page you can select the + Create Engagement button as a Superuser. For more information on engagement creation, go to [link] (link to engagement creation page(s) in user guide).
+At the top right of the page, you can select the **+ Create Engagement button** as a Superuser. For more information on engagement creation, go to [Create An Engagement ](https://bcgov.github.io/met-guide/posts/create-engagement/)].
 
 Each engagement and its properties are grouped together by row. You can filter engagements alphabetically by Engagement Name, chronologically by Date Created and Date Published, and by Status.
 
