@@ -2,7 +2,7 @@
 title: Survey Listing
 date: 2023-08-15 20:55:00 +0800
 categories: [pages/features, survey, listing, pages]
-tags: [pages/features, survey, listing, pages]
+tags: [create, comments, review, preview, actions]
 pin: true
 ---
 
