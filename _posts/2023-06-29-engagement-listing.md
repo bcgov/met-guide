@@ -6,8 +6,8 @@ tags: [create, comments, review,preview, actions]
 pin: true
 ---
 
-##Missing Preview Survey & Edit Engagement links at the bottom
-
+# Missing Preview Survey & Edit Engagement links at the bottom
+ 
 After clicking **Engagements** on the left side panel, you will be directed to the engagement listing page.  
 
 **insert photo of page**
