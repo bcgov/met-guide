@@ -11,7 +11,7 @@ pin: true
 
 The **Who is Listening Widget** allows you to add contact peron(s) to an engagement.  
 
-As a Superuser, after creating an engagement, you can choose to add widgets from the right side module. For more information on widgets, 
+As a Superuser, after creating an engagement, you can choose to add widgets from the right side module. For more information on widgets, please go to [link] (link to widget page). 
 
 **insert image of widget side module**
 
