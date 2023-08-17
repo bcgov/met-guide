@@ -21,9 +21,11 @@ Creating folder(s) helps to organize documents into categories, but are not nece
 
 When adding a document, you can either link to a page or add a document that has been uploaded to the application. 
 - Linking to a document
+  
   **insert image of link to document**
   
 - Uploading a document
+  
   **insert image of upload document**
 
   
