@@ -28,4 +28,6 @@ When adding a document, you can either link to a page where the document exists,
   
   **insert image of upload document**
 
+After adding a document, you can select which folder (if any) to put it into. Folders and documents are draggable by the dotted toggle (?) on the left side of each component. You can switch the order of folders through this toggle, and/or change the folder that a document lives by clicking the edit symbol on the right side of the component.  
+
   
