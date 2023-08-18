@@ -9,8 +9,10 @@ pin: true
 
 ## MA check over/add  
 
-The **Events Widget** allows users to either sign up to an email list, or sign up through a form.
+The **Events Widget** allows you to add the details of an in-person or virtual event for an engagement. 
 
-  **insert image of Sign Up for Updates widget**  
+  **insert image of Events widget**  
 
 As a Superuser, after creating an engagement, you can choose to add widgets from the right side module. For more information on widgets, please go to [link] (link to widget page).  
+
+After selecting **Events**, 
