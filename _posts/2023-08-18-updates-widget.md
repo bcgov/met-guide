@@ -15,7 +15,7 @@ The **Sign Up for Updates Widget** allows users to either sign up to an email li
 
 As a Superuser, after creating an engagement, you can choose to add widgets from the right side module. For more information on widgets, please go to [link] (link to widget page).  
 
-After 
+After selecting Sign Up for Updates, you can either:
   
 - Email List: A way for participants to voluntarily sign up to get updates on the engagement through email.
 
