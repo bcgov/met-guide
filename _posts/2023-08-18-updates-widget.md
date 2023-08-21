@@ -13,7 +13,7 @@ The **Sign Up for Updates Widget** allows users to either sign up to an email li
 
   **insert image of Sign Up for Updates widget**  
 
-As a Superuser, after creating an engagement, you can choose to add widgets from the right side module. For more information on widgets, please go to [link] (link to widget page).  
+After a Superuser creates an engagement, Superusers and Team Members can add widgets to display on the engagement page from the right side module. For more information on widgets, please go to [link] (link to widget page). 
 
 After selecting **Sign Up for Updates**, you can either select:
   
