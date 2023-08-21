@@ -9,7 +9,7 @@ pin: true
 
 ## MA check over/add  
 
-The **Video Widget** allows you to add videos to an engagement.
+The **Video Widget** allows you to add a video link and preview to your engagement.
 
   **insert image of Video widget**  
   
