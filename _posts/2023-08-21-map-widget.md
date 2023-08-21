@@ -19,4 +19,4 @@ After selecting **Map**, you can either:
 - Upload a Shapefile: A shapefile will show where the project spans geographically. This will store the location, shape, and attributes of the project's features.
 - Input Lat/Long Coordinates: Inputting the latitude and longitude will drop a pin on the specific geographic point.
 
-  
+You can preview the map's display through the 'Preview Map' button on the bottom right.
