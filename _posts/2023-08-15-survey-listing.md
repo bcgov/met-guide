@@ -6,7 +6,7 @@ tags: [create, comments, review, preview, actions]
 pin: true
 ---
 
-## Missing link to Preview Survey
+## Add images and link to Preview Survey
 
 After clicking **Surveys** on the left side panel, you will be directed to the survey listing page.  
 
