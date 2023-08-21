@@ -13,7 +13,7 @@ The **Events Widget** allows you to add the details of an in-person or virtual e
 
   **insert image of Events widget**  
 
-After a Superuser creates an engagement, Superusers and Team Members can add widgets to display on the engagement page from the right side module. For more information on widgets, please go to [link] (link to widget page).
+After a Superuser creates an engagement, Superusers and Team Members can add widgets to display on the engagement page. For more information on widgets, please go to [link] (link to widget page).
 
 After selecting **Events**, you can either add an in-person event, or a virtual session. There is no limit to the number or combinations of events added to the engagement.  
 
