@@ -13,7 +13,7 @@ The **Environmental Assessment Process Widget** shows which phase of the Environ
 
 **insert image of EA Phase widget**
 
-As a Superuser, after creating an engagement, you can choose to add widgets from the right side module. For more information on widgets, please go to [link] (link to widget page).  
+After a Superuser creates an engagement, Superusers and Team Members can add widgets to display on the engagement page. For more information on widgets, please go to [link] (link to widget page).
 
 After selecting **Environmental Assessment Process** you can select which phase this engagement is currently in.
 
