@@ -15,4 +15,7 @@ The **Video Widget** allows you to add a video link to your engagement.
   
 After a Superuser creates an engagement, Superusers and Team Members can add widgets to display on the engagement page. For more information on widgets, please go to [link] (link to widget page).
 
-After selecting **Video**, 
+After selecting **Video**, you can add a description and insert the video link. Please note that the video must be hosted on one of the compatible platforms: Youtube or Vimeo.  
+
+
+
