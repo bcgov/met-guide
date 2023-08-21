@@ -13,7 +13,7 @@ The **Documents Widget** allows you to add document(s) and folders to your engag
 
 **insert image of documents widget**
 
-As a Superuser, after creating an engagement, you can choose to add widgets from the right side module. For more information on widgets, please go to [link] (link to widget page).  
+After a Superuser creates an engagement, Superusers and Team Members can add widgets to display on the engagement page. For more information on widgets, please go to [link] (link to widget page).
 
 After selecting **Documents**, you can either create a Folder or add a Document.  
 
