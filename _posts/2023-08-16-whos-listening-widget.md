@@ -13,7 +13,7 @@ The **Who is Listening Widget** allows you to add contact peron(s) to an engagem
 
 **insert image of whos listening widget**
 
-As a Superuser, after creating an engagement, you can choose to add widgets from the right side module. For more information on widgets, please go to [link] (link to widget page). 
+After a Superuser creates an engagement, Superusers and Team Members can add widgets to display on the engagement page. For more information on widgets, please go to [link] (link to widget page).
 
 After selecting **Who is Listening**, you can either:
 - Add an existing contact from the drop down and click "Add This Contact"
