@@ -9,6 +9,6 @@ pin: true
 
 ## MA check over/add  
 
-The **Map Widget** allows 
+The **Map Widget** allows you to add the project's location on a map. 
 
   **insert image of Map widget**  
