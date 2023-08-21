@@ -12,3 +12,5 @@ pin: true
 The **Map Widget** allows you to add the project's location on a map. 
 
   **insert image of Map widget**  
+  
+As a Superuser, after creating an engagement, you can choose to add widgets from the right side module. For more information on widgets, please go to [link] (link to widget page).
