@@ -7,7 +7,7 @@ tags: [pages/features, engagement, creation, pages]
 pin: true
 ---
 
-## Taya: We will need to add Revoke/Reinstate feature. 
+## MA check over/add **Taya revised
 
 The **Engagement User Management** tab is where you can add, revoke, and reinstate Team Members directly to/from an engagement.  
 
