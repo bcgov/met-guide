@@ -1,15 +1,16 @@
 ---
 title: Read All Comments
-author: cotes
 date: 2023-08-22 20:55:00 +0800
-categories: [comments, review, pages/features]
-tags: [comments, review, pages/features]
+categories: [comments, review, pages/features, pages]
+tags: [read comments, review]
 pin: true
 ---
 
-## MA check over/add
+## Add image
 
 The **Read All Comments** page shows an expanded view of all comment submissions on an engagement/survey. 
+
+**Insert image full page**
 
 You will be directed to this page after clicking 'Read All Comments' from the Comment Listing page. From this page, each row will include the comment ID, the question and response, the comment date, and details on the review process such as who last reviewed it and its current status. 
 
