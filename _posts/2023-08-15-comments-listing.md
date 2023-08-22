@@ -14,7 +14,8 @@ The **Comment Listing** page is where all the comments from an engagement survey
 
 The top of the page will provide various ways to filter comments: by Status, Reviewer, or date range.  
 
-At the top right, you can click the 'Read All Comments' button which expands each submission so you can read all the comments at once. For more information on the read all comments page, go to [Read All Comments page] (/met-guide/posts/read-all-comments-page/).
+At the top right, you can click the 'Read All Comments' button which expands each submission so you can read all the comments at once. For more information on the read all comments page, go to [Read All Comments page] (/met-guide/posts/read-all-comments-page/).  
+
 You can also click the 'Export to CSV' button which will open the comments and details into an external application (typically a spreadsheet).
 
 Depending on your role in the system, you will have different authorizations for reviewing comments.  
