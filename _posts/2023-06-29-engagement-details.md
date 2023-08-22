@@ -25,7 +25,8 @@ The fields in this tab include:
     
 6. Survey block: The survey block has three (customizable) options for each status of the engagement with a default text that is editable. This is what an external user would see at the bottom of an engagement when a survey is either upcoming, open, or closed. The survey block (public view) will also display a button to access the survey when the survey is open, and a link to the survey report (dashboard and public comments) when the engagement is closed.
 
-7. Widget block:This block allows you to add widgets to your engagement and view the widgets you have added. The widget cards can be moved up and down (drag and drop) to reorganize their order on the page. You can also remove a widget from your engagement by clicking the X icon at the right of the card. To learn more about the widgets, go to [Widgets].
+7. Widget block: This block allows you to add widgets to your engagement (after the engagement has been created) and view the widgets you have added. The widget cards can be moved up and down (drag and drop) to reorganize their order on the page. You can also remove a widget from your engagement by clicking the X icon at the right of the card.
+8. For more information on the Widget features, go to [Widgets].
 
 
 
@@ -33,6 +34,3 @@ At the top of the page you will see tabs for User Management, Settings, and URLs
 For more information on User Management within an engagement, go to [User Management Tab] (/met-guide/posts/.../).  
 For more information on engagement Settings, go to [Settings tab] (/met-guide/posts/.../).  
 For more information on the engagement URLs (links), go to [URLs (links)] (/met-guide/posts/.../).
-
-Once an engagement has been created you can add various widgets to your engagement. At the top right of the page you will see a Widget box.  
-For more information on the Widget features, go to [link] (link to widget page in user guide).
