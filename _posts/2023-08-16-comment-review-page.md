@@ -5,7 +5,7 @@ categories: [pages/features, comment, review, pages]
 tags: [comment, review, pages]
 pin: true
 ---
-
+## MA check over/add
 The **Comment Review** page is where each individual comment from an engagement survey can be approved, rejected, or requiring further review.  
 
 After clicking on a Comment ID from the Comment Listing page, you will be directed to the Comment Review page.  
