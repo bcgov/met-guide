@@ -2,12 +2,12 @@
 title: Comment Review
 date: 2023-08-15 20:55:00 +0800
 categories: [pages/features, comment, review, pages]
-tags: [comment, review, pages]
+tags: [read comments, approve, reject, needs further review, email]
 pin: true
 ---
-## MA check over/add
+## Add images
 
-The **Comment Review** page is where each individual comment from an engagement survey can be approved, rejected, or requiring further review.  
+The **Comment Review** page is where each individual comment from an engagement survey can be approved, rejected, or in need of further review.  
 
 After clicking on a Comment ID from the Comment Listing page, you will be directed to the Comment Review page.  
 
@@ -24,9 +24,9 @@ The Comments Approval section has three options:
     2. Profanity or inappropriate language
     3. Threat/menace
     4. Other reasons not indicated
-Comments containing personal information, profanity, or other can be sent back to the respondant. They will have the option to edit and re-submit their comment for review.
+Comments containing personal information, profanity, or other can be sent back to the respondent. They will have the option to edit and re-submit their comment for review.
 
-**Comments containing threat/menace must be raised to the person indicated on the checkbox. No email will be sent to the respondant.**
+**Comments containing a threat/menace must be raised to the person indicated below that option. No email will be sent to the respondent.**
 
 - Needs further review: The comment needs to be reviewed by another staff member before it can be approved for public viewing.
 
