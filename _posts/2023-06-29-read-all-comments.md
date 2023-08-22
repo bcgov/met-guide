@@ -1,5 +1,5 @@
 ---
-title: Review Comments
+title: Read All Comments
 author: cotes
 date: 2023-06-29 20:55:00 +0800
 categories: [comments, review, pages/features]
