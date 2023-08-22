@@ -24,6 +24,7 @@ The Comments Approval section has three options:
     3. Threat/menace
     4. Other reasons not indicated
 Comments containing personal information, profanity, or other can be sent back to the respondant. They will have the option to edit and re-submit their comment for review.
+
 **Comments containing threat/menace must be raised to the person indicated on the checkbox. No email will be sent to the respondant.**
 
 - Needs further review: The comment needs to be reviewed by another staff member before it can be approved for public viewing.
