@@ -6,7 +6,7 @@ tags: [read comments, review, CSV,]
 pin: true
 ---
 
-## Taya: can you please add something about the Read all comments (with link) and Export CSV buttons?
+##MA check over/add **Taya revised
 
 The **Comment Listing** page is where all the comments from an engagement survey can be selected for review.  
 
