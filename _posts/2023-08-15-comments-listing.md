@@ -10,11 +10,11 @@ pin: true
 
 The **Comment Listing** page is where all the comments from an engagement survey can be selected for review.  
 
-![Comment Listing page](/assets/images/comment-listing.png)
+![Comment Listing page](/assets/images/comment-listing.png){: .light .w-75 .shadow .rounded-10 }
 
 The top of the page will provide various ways to filter comments: by Status, Reviewer, or date range.  
 
-At the top right, you can click the **Read All Comments** button which expands each submission so you can read all the comments at once. For more information on the read all comments page, go to the [Read All Comments page](/met-guide/posts/read-all-comments-page/).  
+At the top right, you can click the **Read All Comments** button which expands each submission so you can read all the comments at once. For more information on the Read All Comments page, go to the [Read All Comments page](/met-guide/posts/read-all-comments-page/).  
 
 You can also click the 'Export to CSV' button which will open the comments and details into an external application (typically a spreadsheet).
 
