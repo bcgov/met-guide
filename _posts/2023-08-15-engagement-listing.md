@@ -55,7 +55,7 @@ For more information on the Survey Preview page, go to [link] (link to survey pr
 
 For more information on the Edit Engagement page, go to [link] (link to edit engagement page in user guide). *this will include engagement details, engagement UM, and settings*
 
-For more information on the Report page, go to [Report] (/met-guide/posts/report/).  
+For more information on the Report page, go to [Report](/met-guide/posts/report/).  
 
 
 
