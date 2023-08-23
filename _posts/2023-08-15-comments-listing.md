@@ -2,7 +2,7 @@
 title: Comment Listing
 date: 2023-08-15 20:55:00 +0800
 categories: [pages/features, comments, review, pages]
-tags: [read comments, comment ID, CSV]
+tags: [read comments, comment ID, comment status, CSV]
 pin: true
 ---
 
