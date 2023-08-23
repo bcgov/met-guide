@@ -16,7 +16,7 @@ The fields within Engagement Information will add more metadata to your engageme
 Including this information is not mandatory and can be added as seen fit. We recommend adding the project # to ensure that subscribers to automated updates for this project get notified.
 
 #### Engagement Settings  
-Engagements can be set to internal only. Toggling this button will make the engagement only available to people requesting access from a @gov.bc.ca email address and will not show on the engagement home page. You will have to share the engagement link manually. The engagement link is customizable and can be found on the engagement ULRs (links) tab. **(Add link to engagement URL tab page)**
+Engagements can be set to internal only. Toggling this button will make the engagement only available to people requesting access from a @gov.bc.ca email address and will not show on the engagement home page. You will have to share the engagement link manually. The engagement link is customizable and can be found on the engagement URLs (links) tab. **(Add link to engagement URL tab page)**
 **add photo of engagement settings box**  
 
 #### Public Report
