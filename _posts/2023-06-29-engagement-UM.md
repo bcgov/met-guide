@@ -6,7 +6,7 @@ tags: [user roles, assign user, assign team member, revoke, reinstate]
 pin: true
 ---
 
-## MA check over/add **Taya revised
+## Add images
 
 The **Engagement User Management** tab is where you can add, revoke, and reinstate Team Members directly to/from an engagement.  
 
