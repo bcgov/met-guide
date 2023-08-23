@@ -10,7 +10,7 @@ pin: true
 
 The **Comment Listing** page is where all the comments from an engagement survey can be selected for review.  
 
-(/met-guide/assets/img/favicons/comment-listing.png)
+![Comment Listing page](/met-guide/assets/img/favicons/comment-listing.png)
 
 The top of the page will provide various ways to filter comments: by Status, Reviewer, or date range.  
 
