@@ -20,7 +20,7 @@ At the top right of the page, you can select the **+ Create Engagement** button 
 
 Each engagement and its properties are grouped together by row. You can filter engagements alphabetically by Engagement Name, chronologically by Date Created and Date Published, and by Status.
 
-The first column is the Engagement Name. Clicking that link will open a preview of the engagement. For more information on the Engagement Preview page, go to [Preview & Publish Engagement] (/met-guide/posts/preview-engagement/).
+The first column is the Engagement Name. Clicking that link will open a preview of the engagement. For more information on the Engagement Preview page, go to [Preview & Publish Engagement](/met-guide/posts/preview-engagement/).
 
 The second column is Date Created. This is the date that a Superuser originally created this engagement.  
 
