@@ -23,8 +23,11 @@ The Comments Approval section has three options:
     1. Personal information
     2. Profanity or inappropriate language
     3. Threat/menace
-    4. Other reasons not indicated
-Comments containing personal information, profanity, or other can be sent back to the respondent. They will have the option to edit and re-submit their comment for review.
+    4. Other (for any other reason than the pre-defined options above) You will have to enter some details if you select "other".
+       
+Comments containing personal information, profanity, or other can be sent back to the respondent. 
+
+An automated email containing the details of the reason(s) for rejection, more information as added in the Review Notes, and a link to access their comment to edit them will be sent to the respondent. They will have the option to edit and re-submit their comment for review. You can preview the email by clicking the **Preview Email** button.
 
 **Comments containing a threat/menace must be raised to the person indicated below that option. No email will be sent to the respondent.**
 
