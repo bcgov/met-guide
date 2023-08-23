@@ -2,7 +2,7 @@
 title: Survey Listing
 date: 2023-08-15 20:55:00 +0800
 categories: [pages/features, survey, listing, pages]
-tags: [create, comments, review, preview, actions]
+tags: [create, comments, review, preview, comment status, actions]
 pin: true
 ---
 
@@ -16,7 +16,7 @@ At the top of the page, you can search for surveys by name or through the advanc
 
 **insert photo of survey advanced search drop-down**
 
-At the top right of the page, you can select the **+Create Survey** button as a Superuser. For more information on survey creation, go to [Survey Builder] (/met-guide/posts/survey-builder/).
+At the top right of the page, you can select the **+Create Survey** button as a Superuser. For more information on survey creation, go to [Survey Builder](/met-guide/posts/survey-builder/).
 
 Each survey and its properties are grouped together by row. You can filter surveys alphabetically by Survey Name, chronologically by Date Created and Date Published, by their Status, and alphabetically by their corresponding engagement.
 
@@ -42,7 +42,7 @@ The fifth column shows the comments within a survey. There are four colour-coded
 
 **insert photo of comment column** 
 
-Clicking any of the four options will open a page for reviewing comments. For more information on the Comment Review page, go to [Review Comments] (/met-guide/posts/review-comments/).
+Clicking any of the four options will open a page for reviewing comments. For more information on the Comment Review page, go to [Review Comments](/met-guide/posts/review-comments/).
 
 The fifth column allows you to apply an action on an engagement. 
 These options might be available depending on your role and the engagement status:
