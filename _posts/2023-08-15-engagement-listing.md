@@ -42,7 +42,7 @@ The fifth column shows the comments within an engagement. There are four colour-
 
 **insert photo of comment column** 
 
-Clicking any of the four options will open a page for reviewing comments. For more information on the Comment Review page, go to [Review Comments] (/met-guide/posts/review-comments/).
+Clicking any of the four options will open a page for reviewing comments. For more information on the Comment Review page, go to [Review Comments](/met-guide/posts/review-comments/).
 
 The fifth column allows you to apply an action on an engagement. 
 These options might be available depending on your role and the engagement status:
