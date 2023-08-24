@@ -12,7 +12,7 @@ The **Map Widget** allows you to add the project's location on a map.
 
   **insert image of Map widget public side**  
   
-After a Superuser creates an engagement, Superusers and Team Members can add widgets to display on the engagement page. For more information on widgets in general, please go to the [Widget page](/met-guide/posts/widgets/).
+After a Superuser creates an engagement, Superusers and Team Members can add widgets to display on the engagement page. For more information on widgets in general, please go to the [Widgets' page](/met-guide/posts/widgets/).
 
 After selecting **Map**, you can either:
 - Upload a Shapefile: A shapefile will show where the project spans geographically. This will store the location, shape, and attributes of the project's features, and auto-calculate the latitude and longitude.
