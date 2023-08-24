@@ -1,8 +1,8 @@
 ---
 title: Who is Listening Widget
 date: 2023-06-29 20:55:00 +0800
-categories: [pages/features, widgets, features]
-tags: [pages/features, widgets, features]
+categories: [pages/features, engagement, widgets, features]
+tags: [who is listening, contact]
 pin: true
 ---
 
@@ -20,4 +20,4 @@ After selecting **Who is Listening**, you can either:
 
 
 
-Once you are satisfied with the added contact(s), you can click "Save and Close". The Who is Listening widget will now be listed on the right side module, where you can choose to edit or delete it if necessary.
+Once you are satisfied with the added contact(s), you can click "Save &amp; Close". The Who is Listening widget will now be listed on the right side module, where you can choose to edit or delete it if necessary.
