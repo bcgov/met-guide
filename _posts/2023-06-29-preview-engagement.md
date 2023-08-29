@@ -13,8 +13,6 @@ After creating an Engagement, you have the option to Save or Preview the engagem
 
 **insert image of the save and preview buttons**
 
-### Preview and Publish Engagement  
-
 After clicking 'Preview' at the bottom of your engagement, your content will be automatically saved and you will be navigated to the Preview Engagement page. This is how the engagement will be displayed once it is published.  
 
 From the Preview Engagement page, you can go back to editing your engagement by clicking 'Edit Engagement'. This will bring you back to the engagement creation screen.  
