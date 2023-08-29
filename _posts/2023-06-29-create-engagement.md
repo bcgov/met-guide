@@ -11,9 +11,9 @@ pin: true
 
 Engagements can only be created by Superusers. The steps to create an engagement are as follows:
 
-1. Click 'Engagements' on the left side panel. You will be directed to the Engagement Listing page. For more information on the Engagement Listing page, go to [].
+1. Click 'Engagements' on the left side panel. You will be directed to the Engagement Listing page. For more information on the Engagement Listing page, go to [Engagement Listing](/met-guide/posts/engagement-listing/).
 2. Click the '+ Create Engagement' button on the top right.
-3. Fill out all the necessary content within the Engagement Details tab, the Engagement User Management tab, the Settings tab, and the URL (links) tab.
+3. Fill out all the necessary content within the [Engagement Details](/met-guide/posts/engagement-details/) tab, the [Engagement User Management](/met-guide/posts/engagement-UM/) tab, the [Engagement Settings](/met-guide/posts/engagement-settings/) tab, and the [URL](/met-guide/posts/engagement-URL/) links tab.
 4. Add any widgets from the right side module.
 5. Add a survey to your engagement (if applicable). For more information on Creating a Survey, go to [].
 6. Click 'Save' or 'Preview' at the bottom of the Engagement Details page.
