@@ -22,4 +22,4 @@ Here you will see the options to *Clone an existing Survey/Template* or *Add an 
 
 Here you will see the options to *Create a new Survey* or *Clone an existing Survey/Template*. 
 
-After choosing your method for survey creation, you will be navigated to the survey builder screen. For more information on building your survey, go to [].
+After choosing your method for survey creation, you will be navigated to the survey builder screen. For more information on building your survey, go to [Survey Builder](/met-guide/posts/survey-builder/).
