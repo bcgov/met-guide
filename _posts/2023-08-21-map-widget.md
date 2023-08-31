@@ -23,3 +23,7 @@ After selecting **Map**, you can either:
 You can preview the map's display through the 'Preview Map' button on the bottom right.  
 
 **insert image of map preview** 
+
+This is an example of the Map Widget on the page as the public will see it.
+
+**insert image of public-side Map widget** 
