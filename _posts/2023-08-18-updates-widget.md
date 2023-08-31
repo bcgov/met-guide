@@ -27,3 +27,6 @@ After selecting **Sign Up for Updates**, you can either select:
 The Email List description and call to action are customizable.  
 The Form Sign-up will include predefined forms, but the call to action will remain customizable.  
   
+This is an example of the Sign Up for Updates Widget on the page as the public will see it.
+
+**insert image of public-side Sign Up widget**  
