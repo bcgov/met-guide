@@ -28,7 +28,7 @@ Creating folder(s) helps to organize documents into categories, but is not neces
 
 You can see the folders and documents as cards on the widget.  
 
-Folders and documents within a folder are draggable by clicking the six dots icon on the left side of each card. To move a document to another folder or outside a folder, you need to click the edit icon on the document card and change the folder option.
+Folders and documents within a folder can be reorganized by clicking the six dots icon on the left side of each card and dragging it up or down. To move a document to another folder or outside a folder, you need to click the edit icon on the document card and change the folder option.
 
 This is an example of the Documents Widget on the page as the public will see it.
 
