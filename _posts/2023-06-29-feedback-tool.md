@@ -6,12 +6,14 @@ tags: [issues, idea, rate my app]
 pin: true
 ---
 
-## MA check over/add
+## MA still needs updates
 
-After clicking **Feedback Tool** on the left side panel, you will see the Feedback Tool page where there is a listing of user feedback on the application. Internal or external users can submit their feedback with an emoticon and indicate if they have an issue or an idea. A textbox will appear which allows for an explanation on their selected feedback type.  
+Internal or external users can click the **Website Feedback** blue tab on the lower right side of the screen to submit their feedback on the EPIC.engage application with an emoticon and report an issue or share an idea (optional). A textbox will appear which allows for an explanation on their selected feedback type. 
 
-This page will show the feedback emoticon, date published, source, feedback type, and feedback message.   
+After clicking **Website Feedback** on the left side panel, you will see the Feedback Tool page where there is a listing of user feedback on the application.  
 
-**Add something about deleting feedback once it has been deployed**  
+This page will show the feedback emoticon, date published, source, feedback type, feedback message, and an action column.   
+
+The "Actions" column has a drop-down for each entry which allows you mark the issue as resolved.
 
 **insert image once this page has been developed fully**
