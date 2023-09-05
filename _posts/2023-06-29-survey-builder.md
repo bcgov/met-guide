@@ -6,11 +6,11 @@ categories: [pages/features, survey, creation, pages]
 tags: [pages/features, survey, creation, pages]
 pin: true
 ---
-## MA check over/add 
+## Add image/MA add info about each component
 
 The **Survey Builder** allows you to create and customize surveys from scratch, or clone an existing survey.  
 
-Once you are on the Survey Listing page {link to survey listing page}, you can click **+ Create Survey** on the top right corner.  
+Once you are on the [Survey Listing page](/met-guide/posts/survey-listing/), you can click **+ Create Survey** on the top right corner.  
 
 **insert image of survey listing page with create survey circled**  
 
@@ -23,15 +23,15 @@ You can choose to either:
 
 Whether you choose to **Create a new survey** or **Clone an existing survey/template**, you will have to enter a survey name, indicate if it will be multi-page, and agree to the disclaimer and statement of responsibility for Survey Designers. 
 
-After clicking Save and Continue, you will be directed to the **Survey Builder** page.  
+After clicking Save ;&amp Continue, you will be directed to the **Survey Builder** page.  
 
-The left panel includes all the draggable survey components that you can choose to add to your survey. All survey components are powered by forms.io. For more information on forms.io, visit {link to forms.io page}.  
+The left panel includes all the draggable survey components that you can choose to add to your survey. All survey components are powered by forms.io. For more information on forms.io, visit the [form.io help centre](https://help.form.io/). Please note, form.io has been customized to make it easier to use. The version you see on the website might differ from the one used in EPIC.engage.
 
 #### Survey Components  
 
-Survey components are entirely customizable depending on your survey type. Some surveys may only use a couple components, while others may choose to use all of them.  
+Survey components are entirely customizable depending on your survey type. Some surveys may only use one or two components, while others may choose to use all of them.  
 
-Each survey component will include settings respective to their function. Some components such as the Header will only have Display settings, while components such as the Category Comment will have Display, Data, Validation, API, Conditional, Logic and Layout settings.  
+Each survey component will include settings respective to their function. Some components such as the Header will only have Display settings, while components such as the Category Comment will have other sections offering more options for entering data and component customization.  
 
 **insert photo of a component with only one tab of settings vs. one with all of them**  
 
@@ -39,17 +39,11 @@ Each survey component will include settings respective to their function. Some c
 
 - **Display**: These are settings that modify the front-end UI of a component. The Display setting tab will be the first tab open when editing the component settings.
   
-- **Data**: Data settings mostly relate to how data is set or how data is interacted with between fields. Use Data Settings to set a default value or set up data calculation.
+- **Values**: Data settings mostly relate to how data is set or how data is interacted with between fields. Use Data Settings to set a default value or set up data calculation.
   
 - **Validation**: Settings found in the Validation Tab relate directly to the configurable Front-End and Back-End validations for the field. Validation cover settings such as required fields, unique data, min/max requirements, custom validations, and custom error messages.
   
-- **API**: Component settings found in the API Tab contain Back-End settings such as the field's Property Name as well as custom properties that can be set such as HTML and Tags.
-  
-- **Conditional**: The simple conditional option triggers a condition based on the data input of a single field on a form.
-  
-- **Logic**: The Logic feature provides a more robust rules engine to conditionally control and manipulate field settings, JSON schema, data values, and custom events. 
-  
-- **Layout**: These settings can apply HTML Attributes/Properties and programmatically reposition PDF fields.
+- **Conditions**: The simple conditional option triggers a condition based on the data input of a single field on a form.
 
 For more information on the component settings, please visit {https://help.form.io/userguide/form-building/component-settings}.
 
@@ -72,6 +66,14 @@ Below are examples of the survey components available in MET.
 - **Multiple Lines Answer**:
 
   **insert image of multiple lines answer component**
+
+- **Drop-down**:
+
+  **insert image of drop-down answer component**
+
+- **Likert**:
+
+**insert image of likert component**
 
 - **Postal Code**:
 
