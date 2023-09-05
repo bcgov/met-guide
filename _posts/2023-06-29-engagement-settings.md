@@ -1,5 +1,5 @@
 ---
-title: Engagement Settings
+title: Engagement Settings (tab)
 date: 2023-07-19 20:55:00 +0800
 categories: [pages/features, engagement, creation, pages]
 tags: [metadata, project, Internal Engagement, Report]
@@ -20,4 +20,4 @@ Engagements can be set to internal only. Toggling this button will make the enga
 **add photo of engagement settings box**  
 
 #### Public Report
-You can select the option to hide the Report from public view after the Engagement closes and not send a link to the Report automatically at the end of the engagement period. The email sent to access the survey won't include a link to access the survey. The Comments/Report will only be accessible internally through the Action drop-down on the Engagement and Survey Listing pages, or with the direct link found on the engagement ULRs (links) tab. **(Add link to engagement URL tab page)**
+You can select the option to hide the Report from public view after the Engagement closes and not send a link to the Report automatically at the end of the engagement period. The email sent to access the survey won't include a link to access the survey. The Comments/Report will only be accessible internally through the Action drop-down on the Engagement and Survey Listing pages, or with the direct link found on the engagement [ULRs (links) tab](). 
