@@ -23,7 +23,7 @@ You can choose to either:
 
 Whether you choose to **Create a new survey** or **Clone an existing survey/template**, you will have to enter a survey name, indicate if it will be multi-page, and agree to the disclaimer and statement of responsibility for Survey Designers. 
 
-After clicking Save & Continue, you will be directed to the **Survey Builder** page.  
+After clicking Save and Continue, you will be directed to the **Survey Builder** page.  
 
 The left panel includes all the draggable survey components that you can choose to add to your survey. All survey components are powered by forms.io. For more information on forms.io, visit the [form.io help centre](https://help.form.io/). Please note, form.io has been customized to make it easier to use. The version you see on the website might differ from the one used in EPIC.engage.
 
