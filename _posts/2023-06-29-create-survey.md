@@ -23,9 +23,9 @@ To clone an existing Survey/Template:
    
     a. From the Survey Listing page, click **+ Create Survey** and then **Clone an existing Survey/Template**
 
-  **insert image of clone survey through survey tab**  
-  
-  b. From the Engagement Details page, scroll to the Survey Block at the bottom of the page and click **Add Survey** and then **Clone an existing Survey/Template**
+   **insert image of clone survey through survey tab**  
+
+    b. From the Engagement Details page, scroll to the Survey Block at the bottom of the page and click **Add Survey** and then **Clone an existing Survey/Template**
 
   **insert image of clone survey from engagement details page**
 
