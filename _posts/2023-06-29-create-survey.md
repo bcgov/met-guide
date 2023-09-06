@@ -9,18 +9,27 @@ pin: true
 
 ## MA check over/add
 
-Surveys can only be created by Superusers. You can create a survey two ways:
+Surveys can only be created by Superusers.  
 
-1. Going to the Surveys tab on the left side panel and clicking **+ Create Survey**
+To create a new survey from scratch:
+1. Go to the [Survey Listing](/met-guide/posts/survey-listing/) page
+2. Click **+ Create Survey**
+3. Click on **Create a new survey** and follow the steps outlined in the [Survey Builder](/met-guide/posts/survey-builder/)
 
-**insert image of create survey through survey tab**  
+**insert image of create new survey through survey tab**  
 
-Here you will see the options to *Create a new Survey* or *Clone an existing Survey/Template*. 
+To clone an existing Survey/Template:
+1. Go to the [Survey Listing](/met-guide/posts/survey-listing/) page **OR** the [Engagement Details](/met-guide/posts/engagement-details/) page
+  a. From the Survey Listing page, click **+ Create Survey** and then **Clone an existing Survey/Template**
 
-2. Directly from the Engagement Details page
-
-**insert image of of add survey from engagement details page**
-
-Here you will see the options to *Clone an existing Survey/Template* or *Add an existing Survey to my engagement*. Adding an existing survey to your engagement will require no further steps after selecting that option. To create a new survey entirely, you must follow the first option described above.
+  **insert image of clone survey through survey tab**  
   
-After choosing your method for survey creation, you will be navigated to the survey builder screen. For more information on building your survey, go to [Survey Builder](/met-guide/posts/survey-builder/).
+  b. From the Engagement Details page, scroll to the Survey Block at the bottom of the page and click **Add Survey** and then **Clone an existing Survey/Template**
+
+  **insert image of clone survey from engagement details page**
+
+2. After selecting an existing Survey/Template to clone, you will be able to edit/customize the survey content. For more information on survey customization, go to [Survey Builder](/met-guide/posts/survey-builder/)
+
+To add an existing Survey to your Engagement:
+1. Go to the [Engagement Details](/met-guide/posts/engagement-details/) page
+2. Scroll to the Survey Block at the bottom of the page and click **Add Survey** and then **Add an existing Survey to my engagement**
