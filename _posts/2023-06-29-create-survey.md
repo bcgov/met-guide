@@ -20,11 +20,12 @@ To create a new survey from scratch:
 
 To clone an existing Survey/Template:
 1. Go to the [Survey Listing](/met-guide/posts/survey-listing/) page **OR** the [Engagement Details](/met-guide/posts/engagement-details/) page
-  a. From the Survey Listing page, click **+ Create Survey** and then **Clone an existing Survey/Template**
+   
+       a. From the Survey Listing page, click **+ Create Survey** and then **Clone an existing Survey/Template**
 
   **insert image of clone survey through survey tab**  
   
-  b. From the Engagement Details page, scroll to the Survey Block at the bottom of the page and click **Add Survey** and then **Clone an existing Survey/Template**
+        b. From the Engagement Details page, scroll to the Survey Block at the bottom of the page and click **Add Survey** and then **Clone an existing Survey/Template**
 
   **insert image of clone survey from engagement details page**
 
