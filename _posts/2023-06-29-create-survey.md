@@ -29,8 +29,8 @@ To clone an existing Survey/Template:
    
     **insert image of clone survey from engagement details page**
 
-3. After selecting an existing Survey/Template to clone, you will be able to edit/customize the survey content. For more information on survey customization, go to [Survey Builder](/met-guide/posts/survey-builder/)
+2. After selecting an existing Survey/Template to clone, you will be able to edit/customize the survey content. For more information on survey customization, go to [Survey Builder](/met-guide/posts/survey-builder/)
 
 To add an existing Survey to your Engagement:
-1. Go to the [Engagement Details](/met-guide/posts/engagement-details/) page
+1. Go to the [Engagement Details](/met-guide/posts/engagement-details/) page.
 2. Scroll to the Survey Block at the bottom of the page and click **Add Survey** and then **Add an existing Survey to my engagement**
