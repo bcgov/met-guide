@@ -1,7 +1,14 @@
+---
+title: Publish an Engagement
+author: cotes
+date: 2023-06-29 20:55:00 +0800
+categories: [engagement, publish, getting started]
+tags: [engagement, publish, getting started]
+pin: true
+---
+## TO DO
 
-
-
-Additionally from the Preview Engagement page, you can click 'Schedule Engagement' to **publish** your engagement.
+From the Preview Engagement page, you can click 'Schedule Engagement' to **publish** your engagement.
 
 **insert image of pop-up**
 
