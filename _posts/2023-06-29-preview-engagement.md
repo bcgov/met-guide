@@ -1,9 +1,9 @@
 ---
-title: Preview & Publish Engagement
+title: Preview an Engagement
 author: cotes
 date: 2023-06-29 20:55:00 +0800
-categories: [engagement, preview, publish, getting started]
-tags: [engagement, preview, publish,getting started]
+categories: [engagement, preview, getting started]
+tags: [engagement, preview, getting started]
 pin: true
 ---
 
@@ -16,12 +16,6 @@ After creating an Engagement, you have the option to Save or Preview the engagem
 After clicking 'Preview' at the bottom of your engagement, your content will be automatically saved and you will be navigated to the **Preview Engagement** page. This is how the engagement will be displayed once it is published.  
 
 From the Preview Engagement page, you can go back to editing your engagement by clicking 'Edit Engagement'. This will bring you back to the engagement creation screen.  
-
-Additionally from the Preview Engagement page, you can click 'Schedule Engagement' to **publish** your engagement.
-
-**insert image of pop-up**
-
-It is important to note that the Engagement page will be visible on the dates selected, but the public can only provide feedback during the public commenting period that is indicated on the engagement creation screen.
 
 At any point after previewing your engagement, you can navigate away from this screen. All your content will be saved for future edits or when publishing the engagement page.  
 
