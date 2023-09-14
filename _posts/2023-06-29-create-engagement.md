@@ -1,9 +1,8 @@
 ---
 title: Create An Engagement
-author: cotes
 date: 2023-08-29 20:55:00 +0800
-categories: [engagement, create, getting started]
-tags: [engagement, create ,getting started]
+categories: [engagement, creation, getting started]
+tags: [create, details, survey, content, widgets]
 pin: true
 getting_started_sort_order: 1
 ---
@@ -20,6 +19,8 @@ Engagements can only be created by Superusers. The steps to create an engagement
 6. Click 'Save' or 'Preview' at the bottom of the Engagement Details page.
 
 Once you have created your engagement, you can go back and edit it through the Actions drop-down on the Engagement Listing page.
+
+## ADD EDIT
 
  **insert image of actions drop down**
 
