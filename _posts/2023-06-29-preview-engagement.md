@@ -5,6 +5,7 @@ date: 2023-06-29 20:55:00 +0800
 categories: [engagement, preview, publish, getting started]
 tags: [engagement, preview, publish,getting started]
 pin: true
+getting_started_sort_order: 3
 ---
 
 ## MA add/check over

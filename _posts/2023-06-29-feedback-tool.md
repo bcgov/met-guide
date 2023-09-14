@@ -1,9 +1,11 @@
 ---
 title: Feedback Tool
 date: 2023-06-29 20:55:00 +0800
-categories: [pages/features, feedback, website feedback, features]
+categories: [pages/features, feedback, website feedback, getting started, features]
 tags: [issues, idea, rate my app]
 pin: true
+getting_started_sort_order: 22
+pages_and_features_sort_order: 16
 ---
 
 ## MA still needs updates

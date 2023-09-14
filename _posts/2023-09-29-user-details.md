@@ -4,6 +4,7 @@ date: 2023-06-29 20:55:00 +0800
 categories: [pages/features, user management, pages]
 tags: [user roles, assign user, assign team member, assign reviewer, revoke, reinstate, deactivate user]
 pin: true
+pages_and_features_sort_order: 10
 ---
 
 ## Add image

@@ -7,7 +7,7 @@ order: 4
 
 <div id="post-list" {% unless has_paginator %} class="mb-5" {% endunless %}>
   <div class="row">
-    {% assign filtered_posts = site.posts | where_exp:"post", "post.categories contains 'getting started'" %}
+{% assign filtered_posts = site.posts | where_exp:"post", "post.categories contains 'getting started'" | sort: "getting_started_sort_order" %}
     {% for post in filtered_posts %}
     <div class="col-md-6 col-lg-4">
       <a href="{{ post.url | relative_url }}" class="card-wrapper">
@@ -52,4 +52,5 @@ order: 4
       </a>
     </div>
     {% endfor %}
+
   </div>

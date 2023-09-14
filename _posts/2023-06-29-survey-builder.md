@@ -5,6 +5,7 @@ date: 2023-06-29 20:55:00 +0800
 categories: [pages/features, survey, creation, pages]
 tags: [pages/features, survey, creation, pages]
 pin: true
+pages_and_features_sort_order: 8
 ---
 ## Add image/MA add info about each component
 

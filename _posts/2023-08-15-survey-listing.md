@@ -4,6 +4,7 @@ date: 2023-08-15 20:55:00 +0800
 categories: [pages/features, survey, listing, pages]
 tags: [create, comments, review, preview, comment status, actions]
 pin: true
+pages_and_features_sort_order: 7
 ---
 
 ## Add images and link to Preview Survey

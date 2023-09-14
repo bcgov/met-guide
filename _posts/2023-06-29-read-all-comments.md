@@ -1,9 +1,11 @@
 ---
 title: Read All Comments
 date: 2023-08-22 20:55:00 +0800
-categories: [comments, review, pages/features, pages]
-tags: [read comments, status]
+categories: [comments, review, getting started, pages/features, pages]
+tags: [read comments, getting started, pages/features, status]
 pin: true
+getting_started_sort_order: 21
+pages_and_features_sort_order: 12
 ---
 
 ## Add image
