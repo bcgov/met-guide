@@ -10,7 +10,7 @@ pin: true
 
 The **Documents Widget** allows you to add document(s) and links to your engagement, and organize them in folders if desired.  
 
-**insert image of documents widget internal with 2 folders and some documents**
+[!Desktop View](/assets/img/documents-widget/documents-widget-documents-widget-internal-with-2-folders-and-some-documents.png)
 
 After a Superuser creates an engagement, Superusers and Team Members can add widgets to display on the engagement page. For more information on widgets, please go to [Widgets' page](/met-guide/posts/widgets/).
 
