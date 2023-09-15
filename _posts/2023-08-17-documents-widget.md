@@ -6,7 +6,7 @@ tags: [documents, upload, link, folders]
 pin: true
 ---
 
-## Add images
+## Card Completed - MA pls validate 
 
 The **Documents Widget** allows you to add document(s) and links to your engagement, and organize them in folders if desired.
 
