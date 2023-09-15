@@ -20,7 +20,7 @@ Creating folder(s) helps to organize documents into categories, but is not neces
 
 - Linking to a document
 
-  **insert image of link to document**
+![Document Link](/assets/UserGuideImages/Images/documents-widget/documents-widget-image-of-link-to-document.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - Uploading a document
 
