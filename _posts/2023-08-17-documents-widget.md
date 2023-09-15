@@ -24,7 +24,7 @@ Creating folder(s) helps to organize documents into categories, but is not neces
 
 - Uploading a document
 
-  **insert image of upload document**
+![Document Upload](/assets/UserGuideImages/Images/documents-widget/documents-widget-image-of-upload-document.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 You can see the folders and documents as cards on the widget.
 
