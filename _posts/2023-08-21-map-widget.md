@@ -10,7 +10,7 @@ pin: true
 
 The **Map Widget** allows you to add the project's location on a map. 
 
-  **insert image of Map widget public side**  
+![Map Widget Public](/assets/UserGuideImages/Images/map-widget/map-widget-map-widget-public-side.png){: .light .shadow .rounded-10}
   
 After a Superuser creates an engagement, Superusers and Team Members can add widgets to display on the engagement page. For more information on widgets in general, please go to the [Widgets' page](/met-guide/posts/widgets/).
 
