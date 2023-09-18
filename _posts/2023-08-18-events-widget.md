@@ -18,13 +18,13 @@ After selecting **Events**, you can either add an in-person event or a virtual s
 
 - In-Person Event: An in-person event can include a description, the name of the event's location, the event's address, the date of the event, and the time of the event.
 
-**insert image of in-person event pop-up**  
+![In Person Event](/assets/UserGuideImages/Images/events-widget/events-widget-in-person-event-popup.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - Virtual Session: A virtual event/session can include a description, the date of the session, the time of the session, a link to the session, and let you edit the link into a call-to-action (for example, Click here to register).
-
-**insert image of virtual event pop-up**  
+  
+![Virtual Event](/assets/UserGuideImages/Images/events-widget/events-widget-virtual-event-pop-up.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 This is an example of the Event Widget on the page as the public will see it.
 
-**insert image of public-side events widget**  
+![Events Widget Public](/assets/UserGuideImages/Images/events-widget/event-widget-public-side-events-widget.png){: .light .shadow .rounded-10} 
 
