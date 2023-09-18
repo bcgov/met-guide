@@ -6,7 +6,7 @@ tags: [map, location]
 pin: true
 ---
 
-## Add image 
+## Card Completed - MA pls validate 
 
 The **Map Widget** allows you to add the project's location on a map. 
 
