@@ -54,7 +54,7 @@ These options might be available depending on your role and the engagement statu
 
 For more information on the Survey Preview page, go to [Preview Survey](/met-guide/posts/preview-survey/).
 
-For more information on the Edit Engagement page, go to [Edit an Engagement](/met-guide/posts/edit-an-engagement/). *this will include engagement details, engagement UM, and settings*
+For more information on the Edit Engagement page, go to [Edit an Engagement](/met-guide/posts/edit-an-engagement/). *this will include engagement details, engagement UM, and settings*.
 
 For more information on the Report page, go to [Report](/met-guide/posts/report/).  
 
