@@ -22,7 +22,7 @@ After selecting **Sign Up for Updates**, you can either select:
   
 - Form Sign-up: A way for participants to voluntarily sign up for other updates, groups, committees, panels, etc.
 
-![Form Updates](/assets/UserGuideImages/Images/updates-widget/updates-widget-form-sign-up pop-up.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
+![Form Updates](/assets/UserGuideImages/Images/updates-widget/updates-widget-form-sign-up-pop-up.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 The Email List description and call to action are customizable.  
 The Form Sign-up will include predefined forms, but the call to action will remain customizable.  
