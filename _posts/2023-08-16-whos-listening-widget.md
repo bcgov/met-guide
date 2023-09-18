@@ -10,7 +10,7 @@ pin: true
 
 The **Who is Listening Widget** allows you to add one or many contact(s) to an engagement.  
 
-**insert image of who listening widget public side**
+![Who is Listening Widget](/assets/UserGuideImages/Images/who-is-listening-widget/who-is-listening-widget-who-is-listening-widget-public-side.png){: .light .shadow .rounded-10}
 
 After a Superuser creates an engagement, Superusers and Team Members can add widgets to display on the engagement page. For more information on widgets in general, please go to the [Widgets' page](/met-guide/posts/widgets/).
 
