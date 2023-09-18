@@ -10,7 +10,7 @@ pin: true
 
 The **Video Widget** allows you to add a video link to your engagement.
 
-  **insert image of Video widget public side**  
+![Video Widget Internal](/assets/UserGuideImages/Images/video-widget/video-widget-internal-side.png){: .light .shadow .rounded-10}
   
 After a Superuser creates an engagement, Superusers and Team Members can add widgets to display on the engagement page. For more information on widgets in general, please go to the [Widgets' page](/met-guide/posts/widgets/).
 
@@ -18,6 +18,6 @@ After selecting **Video**, you can add a description and insert the video link. 
 
 This is an example of the Video Widget on the page as the public will see it.
 
- **insert image of Video widget internal side**  
+![Video Widget Public](assets/UserGuideImages/Images/video-widget/video-widget-public-side.png){: .light .shadow .rounded-10}
 
 
