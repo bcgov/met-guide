@@ -6,7 +6,7 @@ tags: [who is listening, contact]
 pin: true
 ---
 
-## Add images
+## Card Completed - MA pls validate 
 
 The **Who is Listening Widget** allows you to add one or many contact(s) to an engagement.  
 
