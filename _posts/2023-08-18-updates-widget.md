@@ -10,7 +10,7 @@ pin: true
 
 The **Sign Up for Updates Widget** allows users to either sign up to an email list, or sign up through a form.
 
-  **insert image of Sign Up for Updates widget**  
+![Updates Widget](/assets/UserGuideImages/Images/updates-widget/updates-widget-sign-up-for-updates-widget-a.png){: .light .shadow .rounded-10}
 
 After a Superuser creates an engagement, Superusers and Team Members can add widgets to display on the engagement page. For more information on widgets, please go to [Widgets' page](/met-guide/posts/widgets/).
 
