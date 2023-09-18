@@ -48,9 +48,9 @@ Clicking any of the four options will open a page for reviewing comments. For mo
 The fifth column allows you to apply an action on an engagement. 
 These options might be available depending on your role and the engagement status:
 
--View Survey 
--Edit Engagement
--View Report
+- View Survey  
+- Edit Engagement  
+- View Report
 
 For more information on the Survey Preview page, go to [Preview Survey](/met-guide/posts/preview-survey/).
 
