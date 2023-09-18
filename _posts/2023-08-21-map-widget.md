@@ -18,12 +18,12 @@ After selecting **Map**, you can either:
 - Upload a Shapefile: A shapefile will show where the project spans geographically. This will store the location, shape, and attributes of the project's features, and auto-calculate the latitude and longitude.
 - Input Lat/Long Coordinates: Inputting the latitude and longitude will drop a pin on the specific geographic point.
   
-  **insert image of Map widget internal side**
+![Map Widget Internal](/assets/UserGuideImages/Images/map-widget/map-widget-internal-side.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
   
 You can preview the map's display through the 'Preview Map' button on the bottom right.  
 
-**insert image of map preview** 
+![Map Widget Preview](/assets/UserGuideImages/Images/map-widget/map-widget-map-preview.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 This is an example of the Map Widget on the page as the public will see it.
 
-**insert image of public-side Map widget** 
+![Map Widget Public](/assets/UserGuideImages/Images/map-widget/map-widget-public-side-map-widget.png){: .light .shadow .rounded-10}
