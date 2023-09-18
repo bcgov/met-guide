@@ -32,4 +32,4 @@ Folders and documents within a folder can be reorganized by clicking the six dot
 
 This is an example of the Documents Widget on the page as the public will see it.
 
-![Documents Widget Public](/assets/UserGuideImages/Images/documents-widget/documents-widget-documents-widget-internal-with-3-folders-1-folder-open-showing-2-3-upload-documents-and-document-links.png)
+![Documents Widget Public](/assets/UserGuideImages/Images/documents-widget/documents-widget-documents-widget-internal-with-3-folders-1-folder-open-showing-2-3-upload-documents-and-document-links.png){: .light .shadow .rounded-10}
