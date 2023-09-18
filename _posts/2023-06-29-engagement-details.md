@@ -7,11 +7,11 @@ pin: true
 pages_and_features_sort_order: 2
 ---
 
-## Add images and Add links
+## Card completed - MA pls validate
 
 The **Engagement Details** tab allows you to build your engagement from scratch. 
 
-**insert image of engagement details page**  
+![Engagement Details](/assets/UserGuideImages/Images/engagement-details/engagement-details-engagement-details-page.png){: .light .shadow .rounded-10}
 
 The fields in this tab include:
 1. Engagement name: Name or title of your engagement.
