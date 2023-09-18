@@ -33,6 +33,6 @@ The fields in this tab include:
 
 
 At the top of the page you will see tabs for User Management, Settings, and URLs (Links).  
-For more information on User Management within an engagement, go to [User Management Tab] (/met-guide/posts/.../).  
-For more information on engagement Settings, go to [Settings tab] (/met-guide/posts/.../).  
-For more information on the engagement URLs (links), go to [URLs (links)] (/met-guide/posts/.../).
+For more information on User Management within an engagement, go to [Engagement User Management](/met-guide/posts/engagement-UM/).
+For more information on engagement Settings, go to [Engagement Settings](/met-guide/posts/engagement-settings/).  
+For more information on the engagement URLs (links), go to [URLs (links)](/met-guide/posts/engagement-URLs/).
