@@ -6,7 +6,7 @@ tags: [in-person, virtual, webinar]
 pin: true
 ---
 
-## Add image 
+## Card Completed - MA pls validate 
 
 The **Events Widget** allows you to add the details of an in-person or virtual event happening for an engagement. 
 
