@@ -5,7 +5,7 @@ categories: [pages/features, comment, review, pages]
 tags: [read comments, approve, reject, needs further review, email]
 pin: true
 ---
-## Add images
+## Card Completed - MA pls validate 
 
 The **Comment Review** page is where each individual comment from an engagement survey can be approved, rejected, or in need of further review.  
 
