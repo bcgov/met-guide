@@ -6,7 +6,7 @@ tags: [subscribe, email, CAC, form]
 pin: true
 ---
 
-## Add images
+## Card Completed - MA pls validate 
 
 The **Sign Up for Updates Widget** allows users to either sign up to an email list, or sign up through a form.
 
