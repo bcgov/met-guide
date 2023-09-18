@@ -10,7 +10,7 @@ pin: true
 
 The **Environmental Assessment Process Widget** shows which phase of the Environmental Assessment (EA) process that this engagement is in. 
 
-**insert image of EA Phase widget**
+![EA Process Widget](/assets/UserGuideImages/Images/environmental-assessment-process-widget/environmental-assessment-process-widget-ea-phase-widget.png){: .light .shadow .rounded-10}
 
 After a Superuser creates an engagement, Superusers and Team Members can add widgets to display on the engagement page. For more information on widgets, please go to [Widgets' page](/met-guide/posts/widgets/).
 
