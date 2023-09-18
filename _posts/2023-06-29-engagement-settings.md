@@ -19,9 +19,9 @@ The fields within Engagement Information will add more metadata to your engageme
 Including this information is not mandatory and can be added as seen fit. We recommend adding the project # to ensure that subscribers to automated updates for this project get notified.
 
 #### Engagement Settings  
-Engagements can be set to internal only. Toggling this button will make the engagement only available to people requesting access from a @gov.bc.ca email address and will not show on the engagement home page. You will have to share the engagement link manually. The engagement link is customizable and can be found on the engagement [URLs (links) tab](/met-guide/posts/engagement-URLs/)
+Engagements can be set to internal only. Toggling this button will make the engagement only available to people requesting access from a @gov.bc.ca email address and will not show on the engagement home page. You will have to share the engagement link manually. The engagement link is customizable and can be found on the engagement [URLs (links)](/met-guide/posts/engagement-URLs/) tab.
 
 ![Engagement Settings](/assets/UserGuideImages/Images/engagement-settings/engagement-settings-engagement-settings-box.png){: .light .shadow .rounded-10}  
 
 #### Public Report
-You can select the option to hide the Report from public view after the Engagement closes and not send a link to the Report automatically at the end of the engagement period. The email sent to access the survey won't include a link to access the survey. The Comments/Report will only be accessible internally through the Action drop-down on the Engagement and Survey Listing pages, or with the direct link found on the engagement [URLs (links) tab](/met-guide/posts/engagement-URLs/). 
+You can select the option to hide the Report from public view after the Engagement closes and not send a link to the Report automatically at the end of the engagement period. The email sent to access the survey won't include a link to access the survey. The Comments/Report will only be accessible internally through the Action drop-down on the Engagement and Survey Listing pages, or with the direct link found on the engagement [URLs (links)](/met-guide/posts/engagement-URLs/) tab.
