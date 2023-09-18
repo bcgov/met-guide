@@ -10,7 +10,7 @@ pin: true
 
 The **Environmental Assessment Process Widget** shows which phase of the Environmental Assessment (EA) process that this engagement is in. 
 
-![EA Process Widget](/assets/UserGuideImages/Images/environmental-assessment-process-widget/environmental-assessment-process-widget-ea-phase-widget.png){: .light .shadow .rounded-10}
+![EA Process Phase](/assets/UserGuideImages/Images/environmental-assessment-process-widget/environmental-assessment-process-widget-ea-phase-widget.png){: .light .shadow .rounded-10}
 
 After a Superuser creates an engagement, Superusers and Team Members can add widgets to display on the engagement page. For more information on widgets, please go to [Widgets' page](/met-guide/posts/widgets/).
 
@@ -20,5 +20,5 @@ If the engagement does not belong to a phase in the EA process, you can select t
 
 This is an example of the EA Process Widget on the page as the public will see it.
 
-**insert image of EA process graphic**  
+![EA Process Widget](/assets/UserGuideImages/Images/environmental-assessment-process-widget/environmental-assessment-process-widget-ea-process-graphic.png){: .light .shadow .rounded-10}
 
