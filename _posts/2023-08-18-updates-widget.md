@@ -18,11 +18,11 @@ After selecting **Sign Up for Updates**, you can either select:
   
 - Email List: A way for participants to voluntarily sign up to get automated updates on a project or every engagement on the platform through email. Emails will be sent when an engagement opens and two days (at 9am) before the engagement closes.
 
-  **insert image of email list pop-up**
+![Email Updates](/assets/UserGuideImages/Images/updates-widget/updates-widget-email-list-pop-up.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
   
 - Form Sign-up: A way for participants to voluntarily sign up for other updates, groups, committees, panels, etc.
 
-  **insert image of form sign-up pop-up**
+![Form Updates](/assets/UserGuideImages/Images/updates-widget/updates-widget-form-sign-up pop-up.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 The Email List description and call to action are customizable.  
 The Form Sign-up will include predefined forms, but the call to action will remain customizable.  
