@@ -6,7 +6,7 @@ tags: [metadata, project, Internal Engagement, Report]
 pin: true
 pages_and_features_sort_order: 4
 ---
-## Add images 
+## Card Completed - MA pls validate
 
 The **Engagement Settings** tab can be found on the top of the Engagement Details page and is specific to each Engagement.
 
