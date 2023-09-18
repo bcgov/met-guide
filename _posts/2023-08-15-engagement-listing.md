@@ -11,11 +11,11 @@ pages_and_features_sort_order: 1
  
 After clicking **Engagements** on the left side panel, you will be directed to the engagement listing page.  
 
-**insert photo of page**
+![Engagement Listing](/assets/UserGuideImages/Images/engagement-listing/engagement-listing-photo-of-page.png){: .light .shadow .rounded-10}
 
 At the top of the page, you can search for engagements by name or through the advanced search option. The advanced search allows you to filter results based on different engagement characteristics (metadata) and by date range.  
 
-**insert photo of advanced search drop-down**
+![Advanced Search](/assets/UserGuideImages/Images/engagement-listing/engagement-listing-advanced-search-dropdown.png){: .light .shadow .rounded-10}
 
 At the top right of the page, you can select the **+ Create Engagement** button (Superuser only). For more information on engagement creation, go to [Create An Engagement](/met-guide/posts/create-engagement/).
 
@@ -41,7 +41,7 @@ The fifth column shows the comments within an engagement. There are four colour-
 - Rejected (Red)
 - New (White)
 
-**insert photo of comment column** 
+![Comment Column](/assets/UserGuideImages/Images/engagement-listing/engagement-listing-coment-column.png){: .light .shadow .rounded-10}
 
 Clicking any of the four options will open a page for reviewing comments. For more information on the Comment Review page, go to [Review Comments](/met-guide/posts/review-comments/).
 
