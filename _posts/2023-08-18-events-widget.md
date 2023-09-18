@@ -10,7 +10,7 @@ pin: true
 
 The **Events Widget** allows you to add the details of an in-person or virtual event happening for an engagement. 
 
-  **insert image of Events widget**  
+![Events Widget](/assets/UserGuideImages/Images/events-widget/events-widget-image-of-events-widget.png){: .light .shadow .rounded-10}
 
 After a Superuser creates an engagement, Superusers and Team Members can add widgets to display on the engagement page. For more information on widgets, please go to [Widgets' page](/met-guide/posts/widgets/).
 
