@@ -6,7 +6,7 @@ tags: [video]
 pin: true
 ---
 
-## Add Images
+## Card Completed - MA pls validate 
 
 The **Video Widget** allows you to add a video link to your engagement.
 
