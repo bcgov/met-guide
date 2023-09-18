@@ -18,6 +18,6 @@ After selecting **Video**, you can add a description and insert the video link. 
 
 This is an example of the Video Widget on the page as the public will see it.
 
-![Video Widget Public](assets/UserGuideImages/Images/video-widget/video-widget-public-side.png){: .light .shadow .rounded-10}
+![Video Widget Public](/assets/UserGuideImages/Images/video-widget/video-widget-public-side.png){: .light .shadow .rounded-10}
 
 
