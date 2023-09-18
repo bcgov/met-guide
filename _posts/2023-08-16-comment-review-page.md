@@ -11,7 +11,7 @@ The **Comment Review** page is where each individual comment from an engagement 
 
 After clicking on a Comment ID from the Comment Listing page, you will be directed to the Comment Review page.  
 
-**insert image of comment review page**  
+![Comment Review](/assets/UserGuideImages/Images/comment-review/comment-review-page-comment-review-page.png){: .light .shadow .rounded-10} 
 
 The top of the page will indicate the Comment ID, Comment Date, Comment Status, Reviewer, and Review Date.  
 
