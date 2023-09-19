@@ -7,7 +7,7 @@ pin: true
 pages_and_features_sort_order: 10
 ---
 
-## Add image
+## Card Completed - MA pls validate
 
 The **User Details** page includes more information about a specific user. At the top of the page, you will see the user's name, email address, date they were added, and their current role in the system.  
 
