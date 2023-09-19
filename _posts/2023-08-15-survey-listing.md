@@ -11,12 +11,11 @@ pages_and_features_sort_order: 7
 
 After clicking **Surveys** on the left side panel, you will be directed to the survey listing page.  
 
-**insert image of page**
-assets/UserGuideImages/Images/survey-listing/survey-listing-photo-of-page.png
+![Survey Listing](/assets/UserGuideImages/Images/survey-listing/survey-listing-photo-of-page.png){: .light .shadow .rounded-10}
 
 At the top of the page, you can search for surveys by name or through the advanced search option. The advanced search allows you to filter results by date range (Date Created & Date Published).  
 
-**insert photo of survey advanced search drop-down**
+![Advanced Search](/assets/UserGuideImages/Images/survey-listing/survey-listing-survey-advanced-search-drop-down.png){: .light .shadow .rounded-10}
 
 At the top right of the page, you can select the **+Create Survey** button as a Superuser. For more information on survey creation, go to [Survey Builder](/met-guide/posts/survey-builder/).
 
@@ -42,7 +41,7 @@ The fifth column shows the comments within a survey. There are four colour-coded
 - Rejected (Red)
 - New (White)
 
-**insert photo of comment column** 
+![Comment Column](/assets/UserGuideImages/Images/survey-listing/survey-listing-comment-column.png){: .light .shadow .rounded-10}
 
 Clicking any of the four options will open a page for reviewing comments. For more information on the Comment Review page, go to [Review Comments](/met-guide/posts/review-comments/).
 
