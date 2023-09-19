@@ -9,7 +9,7 @@ getting_started_sort_order: 2
 
 ## Add images
 
-The **Save** button is located at the bottom of the Engagement Details page. Once you have entered the minimum information to create an Engagement (Superuser only - Engagement Name and Engagement Dates), you can save the Engagement.
+The **Save** button is located at the bottom of the Engagement Details page. Once you have entered the minimum information to create an engagement (Superuser only - Engagement Name and Engagement Dates), you can save the engagement.
 
 Any Superusers and team members assigned to this Engagement can now add/edit content and save at any time by clicking the **Save** button at the bottom of the page.
 
