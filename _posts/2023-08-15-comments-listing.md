@@ -11,7 +11,7 @@ pages_and_features_sort_order: 11
 
 The **Comment Listing** page is where all the comments from an engagement survey can be selected for review.  
 
-![Comment Listing page](/assets/images/comment-listing.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
+![Comment Listing page](/assets/images/comment-listing.png){: .light .w-75 .shadow .rounded-10}
 
 The top of the page will provide various ways to filter comments: Status, Reviewer, or Date Range.  
 
