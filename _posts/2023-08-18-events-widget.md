@@ -5,9 +5,6 @@ categories: [pages/features, engagement, widgets, features]
 tags: [in-person, virtual, webinar]
 pin: true
 ---
-
-## Card Completed - MA pls validate 
-
 The **Events Widget** allows you to add the details of an in-person or virtual event happening for an engagement. 
 
 ![Events Widget](/assets/UserGuideImages/Images/events-widget/events-widget-image-of-events-widget.png){: .light .shadow .rounded-10}
@@ -20,7 +17,7 @@ After selecting **Events**, you can either add an in-person event or a virtual s
 
 ![In Person Event](/assets/UserGuideImages/Images/events-widget/events-widget-in-person-event-popup.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
-- Virtual Session: A virtual event/session can include a description, the date of the session, the time of the session, a link to the session, and let you edit the link into a call-to-action (for example, Click here to register).
+- Virtual Session: A virtual event/session can include a description, the date of the session, the time of the session, a link to the session (or registration form), and let you edit the link into a call-to-action (for example, Click here to register).
   
 ![Virtual Event](/assets/UserGuideImages/Images/events-widget/events-widget-virtual-event-pop-up.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
