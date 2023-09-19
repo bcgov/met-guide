@@ -1,13 +1,10 @@
 ---
 title: Map Widget
-date: 2023-06-29 20:55:00 +0800
+date: 2023-09-19 20:55:00 +0800
 categories: [pages/features, engagement, widgets, features]
 tags: [map, location]
 pin: true
 ---
-
-## Card Completed - MA pls validate 
-
 The **Map Widget** allows you to add the project's location on a map. 
 
 ![Map Widget Public](/assets/UserGuideImages/Images/map-widget/map-widget-map-widget-public-side.png){: .light .shadow .rounded-10}
