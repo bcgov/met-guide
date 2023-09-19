@@ -1,14 +1,13 @@
 ---
 title: Preview an Engagement
-author: cotes
 date: 2023-06-29 20:55:00 +0800
-categories: [engagement, preview, getting started]
-tags: [engagement, preview, getting started]
+categories: [engagement, creation, getting started] 
+tags: [create, details, content, save, preview] 
 pin: true
 getting_started_sort_order: 3
 ---
 
-## MA add/check over
+## Add Images
 
 After creating an Engagement, you have the option to Save or Preview the engagement. 
 
