@@ -1,5 +1,5 @@
 ---
-title: Feedback Tool
+title: Website Feedback Tool
 date: 2023-06-29 20:55:00 +0800
 categories: [pages/features, feedback, website feedback, getting started, features]
 tags: [issues, idea, rate my app]
