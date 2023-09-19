@@ -21,7 +21,7 @@ At the top right of the page, you can select the **+Create Survey** button as a 
 
 Each survey and its properties are grouped together by row. You can filter surveys alphabetically by Survey Name, chronologically by Date Created and Date Published, by their Status, and alphabetically by their corresponding engagement.
 
-The first column is the Survey Name. Clicking that link will open a preview of the survey. For more information on the Survey Preview page, go to [link] (link to preview survey page in user guide).
+The first column is the Survey Name. Clicking that link will open a preview of the survey. For more information on the Survey Preview page, go to [Preview Survey](/met-guide/posts/preview-survey/).
 
 The second column is Date Created. This is the date that a Superuser created the survey.
 
@@ -52,10 +52,10 @@ These options might be available depending on your role and the engagement statu
 -Edit Engagement
 -View Report
 
-For more information on the Survey Preview page, go to [link] (link to survey preview page in user guide).  
+For more information on the Survey Preview page, go to [Preview Survey](/met-guide/posts/preview-survey/).  
 
-For more information on the Edit Engagement page, go to [link] (link to edit engagement page in user guide). *this will include engagement details, engagement UM, and settings*
+For more information on the Edit Engagement page, go to [Edit an Engagement](/met-guide/posts/edit-an-engagement). *this will include engagement details, engagement UM, and settings*
 
-For more information on the Report page, go to [Report] (/met-guide/posts/report/).  
+For more information on the Report page, go to [Report](/met-guide/posts/report/).  
 
 
