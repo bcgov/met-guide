@@ -1,13 +1,13 @@
 ---
 title: Create a Survey
 date: 2023-06-29 20:55:00 +0800
-categories: [survey, create, getting started]
-tags: [survey, create, getting started]
+categories: [survey, creation, getting started] 
+tags: [survey, create, new] 
 pin: true
 getting_started_sort_order: 4
 ---
 
-## MA check over/add
+## Add images
 
 Surveys can only be created by Superusers.  
 
