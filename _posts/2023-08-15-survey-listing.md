@@ -7,7 +7,7 @@ pin: true
 pages_and_features_sort_order: 7
 ---
 
-## Add images and link to Preview Survey
+## Card Completed- MA pls validate
 
 After clicking **Surveys** on the left side panel, you will be directed to the survey listing page.  
 
