@@ -7,11 +7,11 @@ pin: true
 pages_and_features_sort_order: 9
 ---
 
-## Add images
+## Card Completed - MA pls validate
 
 After clicking **User Management** on the left side navigation, you will see the user listing page.  
 
-**insert photo of page**  
+![User Management](/assets/UserGuideImages/Images/user-management/user-management-photo-of-page.png){: .light .shadow .rounded-10}
 
 There are various roles within the application that have different access and authentication levels. The User Management panel allows existing users to see a full list of users, their roles, the date they were added and their status. At the top of the page, you can search for specific users by name. 
 
