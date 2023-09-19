@@ -34,7 +34,7 @@ Survey components are entirely customizable depending on your survey type. Some 
 
 Each survey component will include settings respective to their function. Some components such as the Header will only have Display settings, while components such as the Category Comment will have other sections offering more options for entering data and component customization.  
 
-**insert photo of a component with only one tab of settings vs. one with all of them**  
+![Component tabs](/assets/UserGuideImages/Images/survey-builder/survey-builder-component-with-only-one-tab-of-settings-vs-one-with-all-of-them.png){: .light .shadow .rounded-10}
 
 #### Settings   
 
