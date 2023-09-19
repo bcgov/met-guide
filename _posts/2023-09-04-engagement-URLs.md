@@ -6,8 +6,6 @@ tags: [URL, links, report]
 pin: true
 pages_and_features_sort_order: 5
 ---
-## Card Completed - MA pls validate 
-
 The **URL (links)** tab is where you will find the links to your engagement and the public dashboard report.
 
 On this tab you can customize the path of the Public Engagement Page URL. This helps in making links more meaningful and accessible. By default, the path will be the name of the engagement. You can edit the link anytime before your engagement is published and then save the URL once satisfied. Once your engagement is published, the link will become active and you won't be able to edit it again. The domain name is not editable.
