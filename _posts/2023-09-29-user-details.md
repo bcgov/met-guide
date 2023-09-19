@@ -11,7 +11,7 @@ pages_and_features_sort_order: 10
 
 The **User Details** page includes more information about a specific user. At the top of the page, you will see the user's name, email address, date they were added, and their current role in the system.  
 
-**include image of page**
+![User Details](/assets/UserGuideImages/Images/user-details/user-details-image-of-page.png){: .light .shadow .rounded-10}
 
 As a Superuser or Team Member, you can select the + Add to an Engagement button. This will add a user directly to the specified engagement as their current role.
 
