@@ -5,9 +5,6 @@ categories: [pages/features, engagement, widgets, features]
 tags: [video]
 pin: true
 ---
-
-## Card Completed - MA pls validate 
-
 The **Video Widget** allows you to add a video link to your engagement.
 
 ![Video Widget Internal](/assets/UserGuideImages/Images/video-widget/video-widget-internal-side.png){: .light .shadow .rounded-10}
