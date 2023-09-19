@@ -11,7 +11,8 @@ pages_and_features_sort_order: 7
 
 After clicking **Surveys** on the left side panel, you will be directed to the survey listing page.  
 
-**insert photo of page**
+**insert image of page**
+assets/UserGuideImages/Images/survey-listing/survey-listing-photo-of-page.png
 
 At the top of the page, you can search for surveys by name or through the advanced search option. The advanced search allows you to filter results by date range (Date Created & Date Published).  
 
