@@ -7,7 +7,7 @@ tags: [pages/features, survey, creation, pages]
 pin: true
 pages_and_features_sort_order: 8
 ---
-## Add image/MA add info about each component
+## Need proper images from Ian/MA add info about each component
 
 The **Survey Builder** allows you to create and customize surveys from scratch, or clone an existing survey.  
 
@@ -54,7 +54,7 @@ Below are examples of the survey components available in MET.
 
 - **Header**:
 
-  **insert image of header component**
+![Header](/assets/UserGuideImages/Images/report/report-treemap.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - **Paragraph**:
   
