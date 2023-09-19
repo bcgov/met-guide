@@ -54,7 +54,7 @@ Below are examples of the survey components available in MET.
 
 - **Header**:
 
-![Header](/assets/UserGuideImages/Images/report/report-treemap.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
+  **insert image of header component**
 
 - **Paragraph**:
   
