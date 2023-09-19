@@ -1,9 +1,8 @@
 ---
 title: Clone a Survey
-author: cotes
 date: 2023-06-29 20:55:00 +0800
-categories: [survey, clone, getting started]
-tags: [survey, clone, getting started]
+categories: [survey, getting started] 
+tags: [create, clone, template] 
 pin: true
 ---
 
