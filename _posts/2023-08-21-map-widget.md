@@ -17,7 +17,7 @@ After selecting **Map**, you can either:
   
 ![Map Widget Internal](/assets/UserGuideImages/Images/map-widget/map-widget-internal-side.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
   
-You can preview the map's display through the 'Preview Map' button on the bottom right.  
+You can preview the map's display through the *Preview Map* button on the bottom right.  
 
 ![Map Widget Preview](/assets/UserGuideImages/Images/map-widget/map-widget-map-preview.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
