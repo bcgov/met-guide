@@ -22,8 +22,8 @@ There are 6 roles within this tool, where 4 of them are assignable/visible to an
   - Access all Surveys
   - Schedule/Publish Engagements 
   - Assign Team Members/Reviewers to Engagements
-  - Reassign User Roles
-  - Deactivate/Reactivate Users
+  - Reassign user roles
+  - Deactivate/Reactivate users
   - Review all Survey comments
  
 4. **Team Members**: The Team Member role has their permissions set to certain engagements. As a Team Member you have authority to:
@@ -34,13 +34,13 @@ There are 6 roles within this tool, where 4 of them are assignable/visible to an
   - Review assigned Survey comments
     
 5. **Viewers**: The Viewer role has read-only permissions. As a Viewer you have the authority to:
-  - View published engagements 
-  - View published surveys 
-  - View published dashboards
-  - View approved comments
+  - View published Engagements 
+  - View published Surveys 
+  - View published Dashboards
+  - View approved Comments
     
 6. **Reviewers**: The Reviewer role has read-only permissions on certain engagements. As a Reviewer you have the authority to:
-  - View assigned engagements 
-  - View assigned surveys 
+  - View assigned Engagements 
+  - View assigned Surveys 
 
 
