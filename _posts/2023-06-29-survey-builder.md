@@ -50,7 +50,7 @@ For more information on the component settings, please visit {https://help.form.
 
 #### Survey Components 
 
-Below are examples of the survey components available in MET.
+Below are examples of the survey components available in this tool.
 
 - **Header**:
 
