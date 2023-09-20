@@ -4,7 +4,6 @@ date: 2023-09-16 20:55:00 +0800
 categories: [survey, getting started] 
 tags: [survey, create, new] 
 pin: true
-getting_started_sort_order: 4
 ---
 
 ## Add images
