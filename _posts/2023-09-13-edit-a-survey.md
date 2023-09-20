@@ -10,4 +10,4 @@ getting_started_sort_order: 12
 
 ## MA check over/add
 
-After creating a survey, 
+After creating and saving a survey, you can edit it from the Survey Listing page.
