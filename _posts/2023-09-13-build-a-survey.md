@@ -8,4 +8,4 @@ pin: true
 getting_started_sort_order: 7
 ---
 
-## MA check over/add
+## Duplicate of 'Survey Builder' card
