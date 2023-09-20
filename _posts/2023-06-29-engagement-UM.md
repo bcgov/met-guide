@@ -7,8 +7,7 @@ pin: true
 pages_and_features_sort_order: 3
 ---
 
-## Need proper image from Ian
-
+## Card Completed - MA pls validate
 The **Engagement User Management** tab is where you can add, revoke, and reinstate Team Members directly to/from an engagement.  
 
 ![Engagement UM](/assets/UserGuideImages/Images/engagement-user-management/user-management-photo-of-page.png){: .light .shadow .rounded-10}
