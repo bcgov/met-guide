@@ -9,3 +9,6 @@ getting_started_sort_order: 19
 ---
 
 ## MA check over/add
+
+As a Superuser, you can Deactivate and Reactivate users in the application.  
+
