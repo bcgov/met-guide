@@ -12,7 +12,7 @@ getting_started_sort_order: 19
 
 As a Superuser, you can Deactivate and Reactivate users in the application.  
 
-From the User Details page, there will be a **Deactivate** or **Reactivate** button (depending on the users status) on the top right of the screen.  
+From the [User Details](/met-guide/posts/user-details/) page, there will be a **Deactivate** or **Reactivate** button (depending on the users status) on the top right of the screen.  
 
 **insert image of top of screen with deactivate/reactivate circled**
 
