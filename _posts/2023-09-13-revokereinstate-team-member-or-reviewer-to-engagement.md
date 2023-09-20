@@ -1,5 +1,5 @@
 ---
-title: Revoking and Reinstating a Team Member/Reviewer to an Engagement
+title: Revoking/Reinstating a Team Member/Reviewer to an Engagement
 author: cotes
 date: 2023-06-29 20:55:00 +0800
 categories: [users, roles, getting started]
