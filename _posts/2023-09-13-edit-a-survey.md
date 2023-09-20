@@ -12,5 +12,16 @@ getting_started_sort_order: 12
 
 After creating and saving a survey, you can edit it from the [Survey Listing](/met-guide/posts/survey-listing/) page.
 
-**insert image of survey listing page**  
+Surveys that are unpublished and/or have not been attached to an engagement can be edited. Surveys that have been published can no longer be edited. 
+
+Once you are on the Survey Listing page, find the the survey you wish to edit. To edit the survey, you can either:
+- Click 'Edit Survey' from the action drop-down
+
+  **insert image of a survey listing with action drop down expanded**
+  
+- Click on the survey name then click on 'Edit Survey' from the Preview Survey header
+
+  **insert image of preview survey page with 'edit survey' button**  
+
+You will be directed to the survey building page to edit your survey. For more information on building your survey, go to [Survey Builder](/met-guide/posts/survey-builder/).
 
