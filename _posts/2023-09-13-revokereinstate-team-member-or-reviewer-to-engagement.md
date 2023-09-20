@@ -14,9 +14,9 @@ As a Superuser, you can revoke/reinstate Team Members and Reviewers to/from Enga
 
 There are two places that revoking and reinstating can occur:
 
-- From the User Details page (Team Members and Reviewers)
+- From the [User Details](/met-guide/posts/user-details/) page (Team Members and Reviewers)
   **insert image of user details page with action drop down for revoking/reinstating**
-- From the Engagement User Management tab (Team Members only)
+- From the [Engagement User Management](/met-guide/posts/engagement-UM/) tab (Team Members only)
   **insert image of engagement UM tab with action drop down for revoking/reinstating**
 
 Revoking a user from an engagement means that they no longer have access to that particular engagement. This does not effect any other engagements that a user may be assigned to. 
