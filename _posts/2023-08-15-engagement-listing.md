@@ -4,12 +4,8 @@ date: 2023-08-15 20:55:00 +0800
 categories: [pages/features, engagement, listing, pages]
 tags: [create, comments, preview, comment status, actions]
 pin: true
-pages_and_features_sort_order: 1
 ---
-
-## Card Completed - MA pls validate 
- 
-After clicking **Engagements** on the left side panel, you will be directed to the engagement listing page.  
+After clicking *Engagements* on the left side panel, you will be directed to the engagement listing page.  
 
 ![Engagement Listing](/assets/UserGuideImages/Images/engagement-listing/engagement-listing-photo-of-page.png){: .light .shadow .rounded-10}
 
@@ -17,7 +13,7 @@ At the top of the page, you can search for engagements by name or through the ad
 
 ![Advanced Search](/assets/UserGuideImages/Images/engagement-listing/engagement-listing-advanced-search-dropdown.png){: .light .shadow .rounded-10}
 
-At the top right of the page, you can select the **+ Create Engagement** button (Superuser only). For more information on engagement creation, go to [Create An Engagement](/met-guide/posts/create-engagement/).
+At the top right of the page, you can select the *+ Create Engagement* button (Superuser only). For more information on engagement creation, go to [Create An Engagement](/met-guide/posts/create-engagement/).
 
 Each engagement and its properties are grouped together by row. You can filter engagements alphabetically by Engagement Name, chronologically by Date Created and Date Published, and by Status.
 
@@ -54,7 +50,7 @@ These options might be available depending on your role and the engagement statu
 
 For more information on the Survey Preview page, go to [Preview Survey](/met-guide/posts/preview-survey/).
 
-For more information on the Edit Engagement page, go to [Edit an Engagement](/met-guide/posts/edit-an-engagement/). *this will include engagement details, engagement UM, and settings*.
+For more information on the Edit Engagement page, go to [Edit an Engagement](/met-guide/posts/edit-an-engagement/). *this will include engagement details, engagement user management, and settings*.
 
 For more information on the Report page, go to [Report](/met-guide/posts/report/).  
 
