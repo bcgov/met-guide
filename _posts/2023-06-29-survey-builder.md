@@ -7,7 +7,7 @@ tags: [pages/features, survey, creation, pages]
 pin: true
 pages_and_features_sort_order: 8
 ---
-## Need proper images from Ian/MA add info about each component
+## MA add info about each component
 
 The **Survey Builder** allows you to create and customize surveys from scratch, or clone an existing survey.  
 
