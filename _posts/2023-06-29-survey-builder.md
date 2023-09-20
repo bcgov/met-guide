@@ -54,55 +54,55 @@ Below are examples of the survey components available in MET.
 
 - **Header**:
 
-  **insert image of header component**
+![Header Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-header-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - **Paragraph**:
   
-  **insert image of paragraph component**
+![Paragraph Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-paragraph-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - **Single Line Answer**:
 
-  **insert image of single line answer component**
+![Single Line Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-single-line-answer-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - **Multiple Lines Answer**:
 
-  **insert image of multiple lines answer component**
+![Multiple Line Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-multiple-lines-answer-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - **Drop-down**:
 
-  **insert image of drop-down answer component**
+![Drop Down Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-drop-down-answer-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - **Likert**:
 
-**insert image of likert component**
+![Likert Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-likert-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - **Postal Code**:
 
-  **insert image of postal code component**
+![Postal Code Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-postal-code-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - **Content**:
 
-  **insert image of content component**  
+![Content Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-content-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
   
 - **Radio Button**:
 
-  **insert image of radio button component**
+![Radio Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-radio-button-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - **Checkbox**:
 
-  **insert image of checkbox component**
+![Checkbox Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-checkbox-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - **Category Checkbox**:
 
-  **insert image of category checkbox component**
+![Category Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-category-checkbox-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - **Category Comment**:  
 
-  **insert image of category comment component**
+![Category Comment Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-category-comment-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - **HTML Element**
 
-  **insert image of HTML element component**  
+![HTML Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-html-element-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 
   
