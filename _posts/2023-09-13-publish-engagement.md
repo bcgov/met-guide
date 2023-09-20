@@ -1,14 +1,15 @@
 ---
-title: Publish an Engagement
-author: cotes
-date: 2023-06-29 20:55:00 +0800
-categories: [engagement, publish, getting started]
-tags: [engagement, publish, getting started]
+title: Schedule/Publish an Engagement
+date: 2023-09-17 20:55:00 +0800
+categories: [engagement, getting started] 
+tags: [schedule, publish, preview] 
 pin: true
 ---
-## TO DO
+## Add image
 
-From the Preview Engagement page, you can click 'Schedule Engagement' to **publish** your engagement.
+From the Preview Engagement page, you can click the *Schedule Engagement* button to schedule or publish your engagement.
+
+You have the option to select a date in the future at which your engagement will go live. To publish your engagement right away, just click the *Submit* button on the schedule modal. The date and time are automatically set to publish the engagement now. Please Note, it might take 5 minutes to see your engagement live. 
 
 **insert image of pop-up**
 
