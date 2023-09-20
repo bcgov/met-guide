@@ -1,7 +1,7 @@
 ---
 title: Save An Engagement
 date: 2023-09-19 20:55:00 +0800
-categories: [engagement, creation, getting started]
+categories: [engagement, getting started]
 tags: [create, details, content, save, preview] 
 pin: true
 ---
