@@ -18,7 +18,7 @@ timezone: US/Pacific
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: EPIC Engage
+title: EPIC.engage
 
 tagline: User Guide for using MET # it will display as the sub-title
 
@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://djnunez-aot.github.io/met-guide"
+url: "https://bcgov.github.io/met-guide/"
 
 github:
-  username: github_username # change to your github username
+  username: bcgov/met-guide # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
