@@ -7,7 +7,7 @@ pin: true
 pages_and_features_sort_order: 11
 ---
 
-## Add images
+## Card Completed - MA pls validate
 
 The **Comment Listing** page is where all the comments from an engagement survey can be selected for review.  
 
