@@ -1,10 +1,9 @@
 ---
 title: Create An Engagement
-date: 2023-08-29 20:55:00 +0800
+date: 2023-09-20 20:55:00 +0800
 categories: [engagement, creation, getting started]
 tags: [create, details, survey, content, widgets]
 pin: true
-getting_started_sort_order: 1
 ---
 
 ## Add images
@@ -17,7 +16,7 @@ Engagements can only be created by Superusers. The steps to create an engagement
 4. Fill out all the necessary content within the [Engagement Details](/met-guide/posts/engagement-details/) tab, the [Engagement User Management](/met-guide/posts/engagement-UM/) tab, the [Engagement Settings](/met-guide/posts/engagement-settings/) tab, and the [URL (links) tab](/met-guide/posts/engagement-URLs/).
 5. Add any [Widgets](/met-guide/posts/widgets/) from the right side module. 
 6. Add a survey to your engagement (if applicable). For more information on creating a survey, go to [Create Survey](/met-guide/posts/create-survey/).
-7. Click 'Save' or 'Preview' at the bottom of the [Engagement Details](/met-guide/posts/engagement-details/) page.
+7. Click the *Save* or the *Preview* button at the bottom of the [Engagement Details](/met-guide/posts/engagement-details/) page.
 
 Once you have created your engagement, you can go back and edit it through the Actions drop-down on the Engagement Listing page. The engagement will be editable by a Superuser at any time, or by a Team Member until it is scheduled/published.
 
