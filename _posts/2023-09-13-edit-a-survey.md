@@ -9,3 +9,5 @@ getting_started_sort_order: 12
 ---
 
 ## MA check over/add
+
+After creating a survey, 
