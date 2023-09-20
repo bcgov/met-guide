@@ -12,7 +12,7 @@ getting_started_sort_order: 18
 
 As a Superuser, you can revoke/reinstate Team Members and Reviewers to/from Engagements.  
 
-There are two places in the tool that revoking and reinstating can occur:
+There are two places that revoking and reinstating can occur:
 
 - From the User Details page (Team Members and Reviewers)
   **insert image of user details page with action drop down for revoking/reinstating**
