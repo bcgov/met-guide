@@ -5,9 +5,6 @@ categories: [pages/features, engagement, widgets, features]
 tags: [ea process, environmental assessment process]
 pin: true
 ---
-
-## Card Completed - MA pls validate 
-
 The **Environmental Assessment Process Widget** shows which phase of the Environmental Assessment (EA) process that this engagement is in. 
 
 ![EA Process Phase](/assets/UserGuideImages/Images/environmental-assessment-process-widget/environmental-assessment-process-widget-ea-phase-widget.png){: .light .shadow .rounded-10}
