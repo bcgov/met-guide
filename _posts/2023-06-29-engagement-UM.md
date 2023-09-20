@@ -11,7 +11,7 @@ pages_and_features_sort_order: 3
 
 The **Engagement User Management** tab is where you can add, revoke, and reinstate Team Members directly to/from an engagement.  
 
-**insert image**  
+![Engagement UM](/assets/UserGuideImages/Images/engagement-user-management/user-management-photo-of-page.png){: .light .shadow .rounded-10}
 
 The person creating the engagement and the date that it was created will be displayed at the top of this page. The Team Members assigned to the engagement will be listed below. 
 
