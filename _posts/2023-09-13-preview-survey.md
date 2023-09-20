@@ -9,7 +9,7 @@ pin: true
 
 ## MA check over/add
 
-After creating and saving a survey, you can preview it from the Survey Listing page.  
+After creating and saving a survey, you can preview it from the [Survey Listing](/met-guide/posts/survey-listing/) page.  
 
 Once you are on the Survey Listing page, click on the name of the survey that you wish to preview. 
 
