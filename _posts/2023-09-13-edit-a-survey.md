@@ -10,4 +10,7 @@ getting_started_sort_order: 12
 
 ## MA check over/add
 
-After creating and saving a survey, you can edit it from the Survey Listing page.
+After creating and saving a survey, you can edit it from the [Survey Listing](/met-guide/posts/survey-listing/) page.
+
+**insert image of survey listing page**  
+
