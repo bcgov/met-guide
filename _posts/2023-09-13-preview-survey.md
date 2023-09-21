@@ -1,6 +1,6 @@
 ---
 title: Preview a Survey
-date: 2023-09-13 20:55:00 +0800
+date: 2023-09-12 20:55:00 +0800
 categories: [survey, getting started] 
 tags: [preview] 
 pin: true
