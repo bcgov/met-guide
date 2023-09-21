@@ -1,13 +1,12 @@
 ---
 title: Preview a Survey
-author: cotes
-date: 2023-06-29 20:55:00 +0800
-categories: [survey, preview, getting started]
-tags: [survey, preview, getting started]
+date: 2023-09-13 20:55:00 +0800
+categories: [survey, getting started] 
+tags: [preview] 
 pin: true
 ---
 
-## MA check over/add
+## Add images
 
 After creating and saving a survey, you can preview it from the [Survey Listing](/met-guide/posts/survey-listing/) page.  
 
@@ -19,4 +18,4 @@ This will automatically direct you to the survey preview page where you can view
 
 **insert image of survey preview page**  
 
-It is important to note that while a multi-page survey will require you to answer the questions before navigating to the next page, the actual submission of the survey will be disabled when previewing it as an internal user.  
+It is important to note that while a multi-page survey will require you to answer the mandatory questions before navigating to the next page, the actual submission of the survey will be disabled when previewing it as an internal user.  
