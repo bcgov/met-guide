@@ -10,4 +10,8 @@ pin: true
 
 The **Report Settings** page allows you to customize which survey questions appear in the public report.  
 
-After creating a new survey, 
+After you Create a Survey [link] and click 'Save & Continue', you will be automatically directed to the Report Settings page. 
+
+**insert image of Report Settings page**  
+
+
