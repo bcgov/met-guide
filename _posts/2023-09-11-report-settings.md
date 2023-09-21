@@ -6,4 +6,8 @@ tags: [read comments, data]
 pin: true
 ---
 
-## TO DO
+## MA check over/add
+
+The **Report Settings** page allows you to customize which survey questions appear in the public report.  
+
+After creating a new survey, 
