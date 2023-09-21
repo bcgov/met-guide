@@ -1,5 +1,5 @@
 ---
-title: Add a Team Member/Reviewer to an Engagement
+title: Assign a Team Member/Reviewer to an Engagement
 author: cotes
 date: 2023-06-29 20:55:00 +0800
 categories: [users, roles, getting started]
@@ -10,9 +10,23 @@ getting_started_sort_order: 17
 
 ## MA check over/add
 
-As a Superuser or Team Member, you can add Team Members and Reviewers to engagements. 
+As a Superuser or Team Member, you can assign Team Members and Reviewers to engagements. 
 
-- A Superuser can add **any** Team Member/Reviewer to **any** engagement. 
-- A Team Member can add **any** Team Member/Reviewer to engagements that they are already assigned to.
+- A Superuser can assign **any** Team Member/Reviewer to **any** engagement. 
+- A Team Member can assign **any** Team Member/Reviewer to engagements that they are already assigned to.
 
-There are two ways that 
+There are two places where assigning a Team Member/Reviewer to an engagements can occur:
+
+- From the [User Management](/met-guide/posts/user-management/) page (Team Members and Reviewers)
+  
+  **insert image of user management page with action drop down for assign to engagement**
+
+  After selecting 'Assign to an Engagement' from the Action drop-down, you will see a pop-up to search for the engagement you would like to assign this user to. You must at least type the first 3 letters of the engagement's name in order for options to populate. After clicking 'Submit', this user will be successfully assigned to the engagement which you can validate on the [User Details](/met-guide/posts/user-details/) page. 
+  
+- From the [Engagement User Management](/met-guide/posts/engagement-UM/) tab (Team Members only)
+  
+  **insert image of engagement UM tab with add TM circled**
+
+  After clicking the '+ Add Team Member' button, you will see a pop-up to search for the Team Member you would like to assign to this engagement. You must at least type the first 3 letters of Team Member's name in order for options to populate. After clicking 'Submit', this Team Member will be successfully assigned to the engagement.
+
+  
