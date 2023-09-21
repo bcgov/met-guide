@@ -1,6 +1,6 @@
 ---
 title: Hide a Survey
-date: 2023-09-14 20:55:00 +0800
+date: 2023-09-13 20:55:00 +0800
 categories: [survey, getting started]
 tags: [create, save, hide]
 pin: true
