@@ -21,8 +21,8 @@ You can access the Report Settings page two ways:
   
   **insert image of survey listing page with action drop down w edit settings**
 
+From the Report Settings page, you will see a link to the public report dashboard and a way to search for questions at the top of the page. Below that, you can select/deselect which questions you would like to include in the public report from the left column. Upon saving, you will be automatically redirected to the Survey Listing page. 
 
-  
-
+It is important to note that **all** survey questions will be viewable on the internal report. Anything removed from the public report will not effect the internal report. 
 
 
