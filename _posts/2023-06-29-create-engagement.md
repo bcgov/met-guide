@@ -6,7 +6,7 @@ tags: [create, details, survey, content, widgets]
 pin: true
 ---
 
-## Add images
+## Card Completed - MA pls validate 
 
 Engagements can only be created by Superusers. The steps to create an engagement are as follows:
 
@@ -20,6 +20,6 @@ Engagements can only be created by Superusers. The steps to create an engagement
 
 Once you have created your engagement, you can go back and edit it through the Actions drop-down on the Engagement Listing page. The engagement will be editable by a Superuser at any time, or by a Team Member until it is scheduled/published.
 
- **insert image of actions drop-down**
+![Action drop-down](/assets/UserGuideImages/Images/create-an-engagement/create-engagement-image-of-actions-drop-down.png){: .light .w-75 .shadow .rounded-10}
 
 
