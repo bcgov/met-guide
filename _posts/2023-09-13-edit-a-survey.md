@@ -17,11 +17,11 @@ Surveys that are unpublished and/or have not been attached to an engagement can 
 Once you are on the Survey Listing page, find the the survey you wish to edit. To edit the survey, you can either:
 - Click 'Edit Survey' from the action drop-down
 
-  **insert image of a survey listing with action drop down expanded**
+  ![Survey listing drop down](/assets/UserGuideImages/Images/edit-a-survey/edit-a-survey-image-of-a-survey-listing-with-action-drop-down-expanded.png){: .light .w-75 .shadow .rounded-10}  
   
 - Click on the survey name then click on 'Edit Survey' from the Preview Survey header
 
-  **insert image of preview survey page with 'edit survey' button**  
+  ![Preview survey page](/assets/UserGuideImages/Images/edit-a-survey/edit-a-survey-image-of-preview-survey-page-with-edit survey-button.png){: .light .w-75 .shadow .rounded-10}  
 
 You will be directed to the survey building page to edit your survey. For more information on building your survey, go to [Survey Builder](/met-guide/posts/survey-builder/).
 
