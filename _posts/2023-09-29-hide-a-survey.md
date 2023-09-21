@@ -6,7 +6,7 @@ tags: [create, save, hide]
 pin: true
 ---
 
-## To Do +Add images
+## +Add images
 
 You can hide a survey while you are working on it to keep hidden from view until it is ready. Only Superusers will be able to view hidden surveys.
 
