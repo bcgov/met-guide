@@ -15,5 +15,6 @@ To add an existing Survey to your Engagement:
 
   ![Attach Survey](/assets/UserGuideImages/Images/attach-survey/attach-survey-image-of-survey-block-with-add-survey-button.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 3. Click **Add an existing Survey to my engagement**.
+  ![Attach Survey 2](/assets/UserGuideImages/Images/attach-survey/attach-survey-add-existing.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 4. Select the survey from the drop-down list.
 5. Agree to the disclaimer and statement of responsibility for Survey Designers and click 'Save & Continue'.
