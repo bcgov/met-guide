@@ -1,6 +1,6 @@
 ---
 title: Edit an Engagement
-date: 2023-09-10 20:55:00 +0800
+date: 2023-09-06 20:55:00 +0800
 categories: [engagement, creation, getting started]
 tags: [edit, details, preview]
 pin: true
