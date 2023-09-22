@@ -5,7 +5,7 @@ categories: [engagement, getting started]
 tags: [schedule, publish, preview] 
 pin: true
 ---
-## Add image
+## Card completed - MA pls validate
 
 From the Preview Engagement page, you can click the *Schedule Engagement* button to schedule or publish your engagement.
 
