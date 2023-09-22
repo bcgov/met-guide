@@ -18,4 +18,4 @@ This page will show the feedback emoticon, date published, source, feedback type
 
 The "Actions" column has a drop-down for each entry which allows you mark the issue as resolved.
 
-**insert image once this page has been developed fully**
+![Website Feedback](/){: .light .shadow .rounded-10}
