@@ -6,7 +6,7 @@ tags: [create, clone, template]
 pin: true
 ---
 
-## Add images
+## Card completed - MA pls validate
 
 To clone an existing Survey/Template:
 1. Go to the [Survey Listing](/met-guide/posts/survey-listing/) page **OR** the [Engagement Details](/met-guide/posts/engagement-details/) page
