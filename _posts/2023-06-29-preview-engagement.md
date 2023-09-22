@@ -12,7 +12,7 @@ After creating an engagement, you have the option to Save or Preview the engagem
 
 ![Preview Eng](/assets/UserGuideImages/Images/preview-engagement/preview-engagement-image-of-the-save-and-preview-buttons.png){: .light .shadow .rounded-10}
 
-After clicking the *Preview* button at the bottom of your engagement, your content will be automatically saved and you will be navigated to the [Preview Engagement](/met-guide/posts/preview-engagement/) page. This is how the engagement will be displayed once it is published.  
+After clicking the *Preview* button at the bottom of your engagement, your content will be automatically saved and you will be navigated to the [Preview Engagement](/met-guide/posts/preview-engagement/) page. This is how the engagement will be displayed once it is published. 
 
 From the Preview Engagement page, you can go back to editing your engagement by clicking the *Edit Engagement* button. This will bring you back to the engagement creation screen.  
 
