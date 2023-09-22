@@ -16,11 +16,11 @@ There are two places that revoking and reinstating can occur:
 
 - From the [User Details](/met-guide/posts/user-details/) page (Team Members and Reviewers)
   
-  **insert image of user details page with action drop down for revoking/reinstating**
+    ![User details drop down](/assets/UserGuideImages/Images/revoke-reinstate/revokereinstate-team-member-or-reviewer-to-engagement-user-details-page-with-action-drop-down-for-revoking-reinstating.png){: .light .w-75 .shadow .rounded-10}  
   
 - From the [Engagement User Management](/met-guide/posts/engagement-UM/) tab (Team Members only)
   
-  **insert image of engagement UM tab with action drop down for revoking/reinstating**
+    ![UM drop down](/assets/UserGuideImages/Images/revoke-reinstate/revokereinstate-team-member-or-reviewer-to-engagement-image-of-engagement-um-tab-with-action-drop-down-for-revoking-reinstating.png){: .light .w-75 .shadow .rounded-10}  
 
 Revoking a user from an engagement means that they no longer have access to that particular engagement. This does not effect any other engagements that a user may be assigned to. 
 
