@@ -14,7 +14,7 @@ As a Superuser, you can Deactivate and Reactivate users in the application.
 
 From the [User Details](/met-guide/posts/user-details/) page, there will be a **Deactivate** or **Reactivate** button (depending on the users status) on the top right of the screen.  
 
-**insert image of top of screen with deactivate/reactivate circled**
+![Deactivate](/assets/UserGuideImages/Images/deactivate-or-reactivate-user/deactivate-or-reactivate-user/deactivate-or-reactivate-user-image-of-top-of-screen-with-deactivate-reactivate-circled.png){: .light .w-75 .shadow .rounded-10}  
 
 Deactivating a user will remove all their accesses to the application. They will no longer have login ability and their status on previously active engagements will be set to 'Deactivated'.  
 
