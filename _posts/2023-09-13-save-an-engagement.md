@@ -6,7 +6,7 @@ tags: [create, details, content, save, preview]
 pin: true
 ---
 
-## Add images
+## Card completed - MA pls validate
 
 The *Save* button is located at the bottom of the Engagement Details page. Once you have entered the minimum information to create an engagement (Superuser only - Engagement Name and Engagement Dates), you can save the engagement.
 
