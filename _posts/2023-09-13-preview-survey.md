@@ -6,7 +6,7 @@ tags: [preview]
 pin: true
 ---
 
-## Card completed - MA pls validate 
+## Card completed - MA pls validate
 
 After creating and saving a survey, you can preview it from the [Survey Listing](/met-guide/posts/survey-listing/) page.  
 
