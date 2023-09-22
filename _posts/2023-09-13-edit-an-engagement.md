@@ -1,15 +1,16 @@
 ---
 title: Edit an Engagement
-date: 2023-08-29 20:55:00 +0800
+date: 2023-09-10 20:55:00 +0800
 categories: [engagement, creation, getting started]
 tags: [edit, details, preview]
 pin: true
-getting_started_sort_order: 11
 ---
+
+## Add Images
 
 As a Superuser, you can edit an engagement at any time. As a Team Member, you can only edit an engagement before it is scheduled/published. 
 
-To edit an existing engagement, click Engagement on the left-side menu to go to the Engagement Listing page. Locate the engagement you want to edit and select "Edit Engagement" in the Actions drop-down. You will land on the [Engagement Details](/met-guide/posts/engagement-details/) page where you can edit your engagement. 
+To edit an existing engagement, click Engagement on the left-side menu to go to the Engagement Listing page. Locate the engagement you want to edit and select *Edit Engagement* in the Actions drop-down. You will land on the [Engagement Details](/met-guide/posts/engagement-details/) page where you can edit your engagement. 
 
 ## Add image of the engagement listing drop-down with edit engagement 
 
