@@ -1,16 +1,13 @@
 ---
 title: User Roles
-date: 2023-06-29 20:55:00 +0800
+date: 2023-09-02 20:55:00 +0800
 categories: [user management, getting started]
 tags: [users, roles, ministry administrator, instance administrator, superuser, team member, reviewer, viewer]
 pin: true
 ---
+There are 6 roles within this tool, and 4 of them are assignable/visible to an internal user. 
 
-## MA check over/add
-
-There are 6 roles within this tool, where 4 of them are assignable/visible to an internal user. 
-
-1. **Master Administators**: This person is the owner of the tool who creates instances of the application for other ministries.
+1. **Master Administrators**: This person is the owner of the tool who creates instances of the application for other ministries.
    
 3. **Instance Administrators**: This person is the owner of a ministries' instance and defines the requirements/settings for their use case.
    
