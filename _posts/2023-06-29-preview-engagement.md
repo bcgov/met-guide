@@ -6,11 +6,11 @@ tags: [create, details, content, save, preview]
 pin: true
 ---
 
-## Add Images
+## Need proper image from Ian
 
 After creating an engagement, you have the option to Save or Preview the engagement. 
 
-**insert image of the save and preview buttons**
+**need proper image of botton of engagement details screen**
 
 After clicking the *Preview* button at the bottom of your engagement, your content will be automatically saved and you will be navigated to the [Preview Engagement](/met-guide/posts/preview-engagement/) page. This is how the engagement will be displayed once it is published.  
 
