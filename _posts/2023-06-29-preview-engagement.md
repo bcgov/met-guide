@@ -6,7 +6,7 @@ tags: [create, details, content, save, preview]
 pin: true
 ---
 
-## Need proper image from Ian 
+## Card completed - MA pls validate
 
 After creating an engagement, you have the option to Save or Preview the engagement. 
 
