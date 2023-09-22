@@ -2,7 +2,7 @@
 title: Add Widgets to an Engagement
 date: 2023-09-08 20:55:00 +0800
 categories: [widget, engagement, getting started]
-tags: [widget, engagement ,getting started]
+tags: [who is listening, documents, map, video, signup for updates, EA Process]
 pin: true
 ---
 After a Superuser creates an engagement, Superusers and Team Members can add widgets to display on the engagement page. 
