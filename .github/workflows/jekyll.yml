@@ -61,4 +61,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: Bluefissure/deploy-pages@d929e03
+        uses: Bluefissure/deploy-pages@d929e03378611c913632ff3608164b9d1adc4a3f
