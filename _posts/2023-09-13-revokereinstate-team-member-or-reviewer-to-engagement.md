@@ -16,11 +16,11 @@ There are two places that revoking and reinstating can occur:
 
 - From the [User Details](/met-guide/posts/user-details/) page (Team Members and Reviewers)
   
-    ![User details drop down](/assets/UserGuideImages/Images/revoke-reinstate/revokereinstate-team-member-or-reviewer-to-engagement-user-details-page-with-action-drop-down-for-revoking-reinstating.png){: .light .w-75 .shadow .rounded-10}  
+    ![User details drop down](/assets/UserGuideImages/Images/revoke-reinstate/revokereinstate-team-member-or-reviewer-to-engagement-user-details-page-with-action-drop-down-for-revoking-reinstating.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
   
 - From the [Engagement User Management](/met-guide/posts/engagement-UM/) tab (Team Members only)
   
-    ![UM drop down](/assets/UserGuideImages/Images/revoke-reinstate/revokereinstate-team-member-or-reviewer-to-engagement-image-of-engagement-um-tab-with-action-drop-down-for-revoking-reinstating.png){: .light .w-75 .shadow .rounded-10}  
+    ![UM drop down](/assets/UserGuideImages/Images/revoke-reinstate/revokereinstate-team-member-or-reviewer-to-engagement-image-of-engagement-um-tab-with-action-drop-down-for-revoking-reinstating.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'} 
 
 Revoking a user from an engagement means that they no longer have access to that particular engagement. This does not effect any other engagements that a user may be assigned to. 
 
