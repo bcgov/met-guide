@@ -14,3 +14,5 @@ After a Superuser creates an engagement, Superusers and Team Members can add wid
 - You can edit the display name of each widget. e.g. the Video widget could be renamed to “Overview of the project”.
 
 ![Widgets](/assets/UserGuideImages/Images/widgets/widgets-engagement-details-page-highlighting-the-add-widget-section.png){: .light .shadow .rounded-10}
+
+You can view the list of all the widgets available on the [Widgets page](/met-guide/posts/widgets/)
