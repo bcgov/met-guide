@@ -14,4 +14,4 @@ Any Superusers and team members assigned to this Engagement can now add/edit con
 
 Please note: clicking the *Preview* button also saves all the new/edited content on the page.
 
-## Add Image of the bottom of the Engagement details with the save button
+![Save engagement](/assets/UserGuideImages/Images/save-an-engagement/save-an-engagement-image-of-the-bottom-of-the-engagement-details-with-the-save-button.png){: .light .w-75 .shadow .rounded-10}  
