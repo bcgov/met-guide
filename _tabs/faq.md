@@ -39,7 +39,7 @@ View all the steps on the [Edit Engagement](/met-guide/posts/edit-an-engagement/
 <summary>How do I assign a Team Member/Reviewer to an Engagement?<span class="symbol">+</span></summary>
 
 As a Superuser, you can assign any Team Member or Reviewer to any engagement. As a Team Member, you can assign any Team Member/Reviewer to an engagement that you are already assigned to.
-To assign a user, go to the User Management page and select *Assign to an Engagement* from the Action drop-down. Alternatively for Team Members, you can go to the Engagement User Management page and click the "+ Add Team Member" button. 
+To assign a user, go to the User Management page and select "Assign to an Engagement" from the Action drop-down. Alternatively for Team Members, you can go to the Engagement User Management page and click the "+ Add Team Member" button. 
 View all the steps on the [Assign a Team Member/Reviewer to an Engagement] page. 
 
 </details>
