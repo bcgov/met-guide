@@ -22,7 +22,7 @@ pin: true
 
 You must be a Superuser to create an engagement.
 To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
-View all the steps on the [Create an Engagement](/met-guide/posts/create-engagement.md/) page. 
+View all the steps on the [Create an Engagement](/met-guide/posts/create-engagement/) page. 
 
 </details>
 
@@ -31,7 +31,7 @@ View all the steps on the [Create an Engagement](/met-guide/posts/create-engagem
 
 As a Superuser, you can edit an engagement at any time. As a Team Member, you can only edit an engagement before it is scheduled/published.
 To edit an engagement, go to the Engagement Listing page and select *Edit Engagement* from the Action drop-down. This will take you to the Engagement Details page where you can edit your engagement. Alternatively, you can edit your engagement from the Preview Engagement page by clicking the *Edit Engagement* button.
-View all the steps on the [Edit Engagement](/met-guide/posts/edit-an-engagement.md/) page. 
+View all the steps on the [Edit Engagement](/met-guide/posts/edit-an-engagement/) page. 
 
 </details>
 
@@ -40,7 +40,7 @@ View all the steps on the [Edit Engagement](/met-guide/posts/edit-an-engagement.
 
 As a Superuser, you can assign any Team Member or Reviewer to any engagement. As a Team Member, you can assign any Team Member/Reviewer to an engagement that you are already assigned to.
 To assign a user, go to the User Management page and select *Assign to an Engagement* from the Action drop-down. Alternatively for Team Members, you can go to the Engagement User Management page and click the *+ Add Team Member* button. 
-View all the steps on the [Assign a Team Member/Reviewer to an Engagement](/met-guide/posts/add-team-member-or-reviewer-to-engagement/.md) page. 
+View all the steps on the [Assign a Team Member/Reviewer to an Engagement](/met-guide/posts/add-team-member-or-reviewer-to-engagement/) page. 
 
 </details>
 
