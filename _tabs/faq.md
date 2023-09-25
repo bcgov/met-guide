@@ -62,7 +62,7 @@ Alternatively, if the engagement is not yet open, you can select "Edit Engagemen
 <details onclick="toggleSymbol(this)">
 <summary>How do I change the date an Engagement is scheduled to go live?<span class="symbol">+</span></summary>
 
-To do
+As a Superuser, you can change the date and time an engagement is scheduled to go live as long as you do it before the original scheduled time. To change the engagement go live date and time, go to the Engagement Listing page and click on the desired engagement. You will see a "Reschedule Engagement" button at the top. 
 
 </details>
 
