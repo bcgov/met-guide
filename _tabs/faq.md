@@ -47,18 +47,15 @@ View all the steps on the [Assign a Team Member/Reviewer to an Engagement] page.
 <details onclick="toggleSymbol(this)">
 <summary>Where do I find the public URL to an Engagement?<span class="symbol">+</span></summary>
 
-You must be a Superuser to create an engagement.
-To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
-View all the steps on the [User Guide for Engagement(Adding)](#)
+To access the public URL to an engagement, go to the Engagement Listing page and click on the desired engagement. Click on "Edit Engagement" and then go to the URL (links) tab. The top link will be for the Public Engagement Page. 
+Alternatively, if the engagement is not yet open, you can select "Edit Engagement" from the Action drop-down on the Engagement Listing page.
 
 </details>
 
 <details onclick="toggleSymbol(this)">
 <summary>How do I edit the dates the survey opens and closes?<span class="symbol">+</span></summary>
 
-You must be a Superuser to create an engagement.
-To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
-View all the steps on the [User Guide for Engagement(Adding)](#)
+*This one is still under consideration* - ticket 2189
 
 </details>
 
