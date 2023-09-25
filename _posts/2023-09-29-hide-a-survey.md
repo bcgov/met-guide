@@ -8,7 +8,7 @@ pin: true
 
 ## +Add images
 
-You can hide a survey while you are working on it to keep hidden from view until it is ready. Only Superusers will be able to view hidden surveys.
+You can hide a survey while you are working on it to keep it hidden from view until it is ready. Only Superusers will be able to view hidden surveys.
 
 To hide your survey, toggle on the option *Hide Survey* on the Survey Builder screen and save your survey.
    
