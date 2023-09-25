@@ -40,7 +40,7 @@ View all the steps on the <a href="https://bcgov.github.io/met-guide/posts/edit-
 
 As a Superuser, you can assign any Team Member or Reviewer to any engagement. As a Team Member, you can assign any Team Member/Reviewer to an engagement that you are already assigned to.
 To assign a user, go to the User Management page and select "Assign to an Engagement" from the Action drop-down. Alternatively for Team Members, you can go to the Engagement User Management page and click the "+ Add Team Member" button. 
-View all the steps on the [Assign a Team Member/Reviewer to an Engagement] page. 
+View all the steps on the <a href="https://bcgov.github.io/met-guide/posts/add-team-member-or-reviewer-to-engagement/">Assign a Team Member/Reviewer to an Engagement</a> page. 
 
 </details>
 
