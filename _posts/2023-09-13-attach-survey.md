@@ -1,6 +1,6 @@
 ---
 title: Attach a Survey to an Engagement
-date: 2023-09-11 20:55:00 +0800
+date: 2023-09-12 20:55:00 +0800
 categories: [engagement, survey,  getting started] 
 tags: [create, details, survey, content] 
 pin: true
