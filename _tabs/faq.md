@@ -263,6 +263,55 @@ View all the steps on the [User Guide for Engagement(Adding)](#)
 
 
 
+<details class="faq" onclick="toggleSymbol(this)">
+<summary>
+    <h3>Report
+        <span class="symbol">+</span>
+    </h3>
+</summary>
+
+<details onclick="toggleSymbol(this)">
+<summary>How can I select which questions will show on the public report?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Adding)](#)
+
+</details>
+
+<details onclick="toggleSymbol(this)">
+<summary>How do I change the option to automatically send a report when the survey closes?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Adding)](#)
+
+</details>
+
+<details onclick="toggleSymbol(this)">
+<summary>Where do I find the URL to the public report?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Adding)](#)
+
+</details>
+
+<details onclick="toggleSymbol(this)">
+<summary>Where can I see the internal report?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Adding)](#)
+
+</details>
+
+</details>
+
+<!--  This is the end of a tab component -->
+
+
+
 <style>
 .faq-wrapper{
   margin-bottom: 10px;
