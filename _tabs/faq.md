@@ -194,6 +194,102 @@ View all the steps on the [User Guide for Engagement(Editing)](#)
 
 <!--  This is the end of a tab component -->
 
+
+
+<details class="faq" onclick="toggleSymbol(this)">
+<summary>
+    <h3>User Management
+        <span class="symbol">+</span>
+    </h3>
+</summary>
+
+<details onclick="toggleSymbol(this)">
+<summary>What are the different user roles?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Adding)](#)
+
+</details>
+
+<details onclick="toggleSymbol(this)">
+<summary>What are the different user roles?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Adding)](#)
+
+</details>
+
+<details onclick="toggleSymbol(this)">
+<summary>What are the different user roles?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Adding)](#)
+
+</details>
+
+<details onclick="toggleSymbol(this)">
+<summary>What are the different user roles?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Adding)](#)
+
+</details>
+
+<details onclick="toggleSymbol(this)">
+<summary>What are the different user roles?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Adding)](#)
+
+</details>
+
+<details onclick="toggleSymbol(this)">
+<summary>What are the different user roles?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Adding)](#)
+
+</details>
+
+<details onclick="toggleSymbol(this)">
+<summary>What are the different user roles?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Adding)](#)
+
+</details>
+
+<details onclick="toggleSymbol(this)">
+<summary>What are the different user roles?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Adding)](#)
+
+</details>
+
+<details onclick="toggleSymbol(this)">
+<summary>What are the different user roles?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Adding)](#)
+
+</details>
+
+</details>
+
+<!--  This is the end of a tab component -->
+
+
+
 <style>
 .faq-wrapper{
   margin-bottom: 10px;
