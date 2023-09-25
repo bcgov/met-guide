@@ -1,13 +1,10 @@
 ---
 title: Hide a Survey
-date: 2023-09-13 20:55:00 +0800
+date: 2023-09-16 20:55:00 +0800
 categories: [survey, getting started]
 tags: [create, save, hide]
 pin: true
 ---
-
-## Card completed- MA pls validate
-
 You can hide a survey while you are working on it to keep it hidden from view until it is ready. Only Superusers will be able to view hidden surveys.
 
 To hide your survey, toggle on the option *Hide Survey* on the Survey Builder screen and save your survey.
