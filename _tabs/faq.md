@@ -18,15 +18,6 @@ pin: true
 
 
 <details onclick="toggleSymbol(this)">
-<summary>How do I add an engagement?<span class="symbol">+</span></summary>
-
-You must be a Superuser to create an engagement.
-To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
-View all the steps on the [User Guide for Engagement(Adding)](#)
-
-</details>
-
-<details onclick="toggleSymbol(this)">
 <summary>How do I create an engagement?<span class="symbol">+</span></summary>
 
 You must be a Superuser to create an engagement.
@@ -41,6 +32,51 @@ View all the steps on the [User Guide for Engagement(Creation)](#)
 You must be a Superuser to create an engagement.
 To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
 View all the steps on the [User Guide for Engagement(Editing)](#)
+
+</details>
+
+<details onclick="toggleSymbol(this)">
+<summary>How do I assign a Team Member/Reviewer to an Engagement?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Adding)](#)
+
+</details>
+
+<details onclick="toggleSymbol(this)">
+<summary>Where do I find the public URL to an Engagement?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Adding)](#)
+
+</details>
+
+<details onclick="toggleSymbol(this)">
+<summary>How do I edit the dates the survey opens and closes?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Adding)](#)
+
+</details>
+
+<details onclick="toggleSymbol(this)">
+<summary>How do I change the date an Engagement is scheduled to go live?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Adding)](#)
+
+</details>
+
+<details onclick="toggleSymbol(this)">
+<summary>Can I edit an engagement that is published?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Adding)](#)
 
 </details>
 
