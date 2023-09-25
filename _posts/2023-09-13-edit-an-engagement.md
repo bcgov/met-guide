@@ -10,7 +10,7 @@ pin: true
 
 As a Superuser, you can edit an engagement at any time. As a Team Member, you can only edit an engagement before it is scheduled/published. 
 
-To edit an existing engagement, click Engagement on the left-side menu to go to the Engagement Listing page. Locate the engagement you want to edit and select *Edit Engagement* in the Actions drop-down. You will land on the [Engagement Details](/met-guide/posts/engagement-details/) page where you can edit your engagement. 
+To edit an existing engagement, click Engagements on the left-side menu to go to the Engagement Listing page. Locate the engagement you want to edit and select *Edit Engagement* in the Actions drop-down. You will land on the [Engagement Details](/met-guide/posts/engagement-details/) page where you can edit your engagement. 
 
 ![Edit engagement dropdown](/assets/UserGuideImages/Images/edit-an-engagement/edit-an-engagement-image-of-the-engagement-listing-drop-down-with-edit-engagement.png){: .light .w-75 .shadow .rounded-10}  
 
