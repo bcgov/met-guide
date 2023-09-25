@@ -12,14 +12,14 @@ You can hide a survey while you are working on it to keep it hidden from view un
 
 To hide your survey, toggle on the option *Hide Survey* on the Survey Builder screen and save your survey.
    
-**insert image of toggle on - Hide survey on Survey builder**
+![Toggle on](/assets/UserGuideImages/Images/hide-a-survey/hide-a-survey-image-of-toggle-on-hide-survey-on-survey-builder.png){: .light .shadow .rounded-10}
 
 Your template will be visible to Superusers only on the Survey Listing page with a "hidden" icon in the status column. 
 
-**Image of survey listing page showing a hidden survey**
+![Hidden Survey](/assets/UserGuideImages/Images/hide-a-survey/hide-a-survey-survey-listing-page-showing-a-hidden-survey.png){: .light .shadow .rounded-10}
 
 When you are ready to make your survey available to be attached or cloned to an engagement, you can change its status from *Hidden* to *Ready* by going to the Survey Builder and toggling off the *Hide Survey* option. Viewers and Team Members will be able to see it in the Survey Listing with a *Ready* icon in the status column. 
 
-**Image of survey listing page showing a Ready survey**
+![Ready Survey](/assets/UserGuideImages/Images/hide-a-survey/hide-a-survey-survey-listing-page-showing-a-ready-survey.png){: .light .shadow .rounded-10}
 
 For more information on survey customization, go to [Survey Builder](/met-guide/posts/survey-builder/).
