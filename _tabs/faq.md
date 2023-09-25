@@ -337,6 +337,24 @@ View all the steps on the [User Guide for Engagement(Adding)](#)
 
 </details>
 
+<details onclick="toggleSymbol(this)">
+<summary>What is a Privacy Impact Assessment (PIA)?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Adding)](#)
+
+</details>
+
+<details onclick="toggleSymbol(this)">
+<summary>Where can I find the Privacy Impact Assesment (PIA) for this tool?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Adding)](#)
+
+</details>
+
 </details>
 
 <!--  This is the end of a tab component -->
