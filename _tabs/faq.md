@@ -22,7 +22,7 @@ pin: true
 
 You must be a Superuser to create an engagement.
 To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
-View all the steps on the [Create an Engagement](/met-guide/posts/create-engagement/) page.
+View all the steps on the [Create an Engagement](/met-guide/posts/create-engagement/) page. 
 
 </details>
 
