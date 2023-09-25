@@ -7,7 +7,7 @@ pin: true
 ---
 You can save a survey as a template if you are planning on using it many times. A template can't be attached directly to an engagement and can only be edited by a Superuser. A Superuser or Team Member can clone that template and edit the cloned copy.
 
-To save your survey as a template, toggle on the option "Save as Template" on the Survey Builder screen and save your survey.
+To save your survey as a template, toggle on the option *Save as Template* on the Survey Builder screen and save your survey.
    
 ![Toggle on](/assets/UserGuideImages/Images/save-survey-as-template/save-survey-as-template-image-of-toggle-on-save-as-template-on-survey-builder.png){: .light .w-75 .shadow .rounded-10}  
 
