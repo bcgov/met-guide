@@ -1,0 +1,31 @@
+---
+title: Add and Manage Users
+date: 2023-09-02 20:55:00 +0800
+categories: [user management, getting started]
+tags: [users, roles, ministry administrator, instance administrator, superuser, team member, reviewer, viewer]
+pin: true
+---
+
+##TM add role?
+
+There are 6 roles within this tool, and 4 of them are assignable/visible to an internal user. 
+
+To add a new user to the system, they will have to go to the Admin Login link at the bottom of the page and log in with their IDIR. This will trigger to be sent to the Instance Admin and add them as user in the system so they can be assigned a role.
+An Instance Admin or Super user can them assign any role. Please note that the new user need to be notified when a role has been assigned to them. They can then try to log in again and get into the system.
+
+Team Member can also assign ***
+
+To assign a role to a first-time user:
+1. Once the new user has logged in the system for the first time, they will be visible in the User Management Listing page. They will have no role assigned to them. (Role column will be blank)
+2. In the Actions drop-down for that user, select *Assign Role*.
+3. In the Modal, select the role you want to assign to that user.
+4. If you select Reviewer or Team Member, you must also assign them to a specific engagement.
+
+A Superuser or Team Member can resassign a role to an existing user.
+
+To reassign a role to an existing user:
+
+1. In the Actions drop-down for that user, select *Reassign Role*.
+2. In the Modal, select the role you want to reassign to that user.
+
+## Add image of UM listing with role column highlighted and actions drop-down highlighted
