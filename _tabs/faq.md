@@ -69,7 +69,7 @@ As a Superuser, you can change the date and time an engagement is scheduled to g
 <details onclick="toggleSymbol(this)">
 <summary>Can I edit an engagement that is published?<span class="symbol">+</span></summary>
 
-To do
+*This one is still under consideration* - ticket 2189
 
 </details>
 
