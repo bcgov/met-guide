@@ -312,6 +312,37 @@ View all the steps on the [User Guide for Engagement(Adding)](#)
 
 
 
+<details class="faq" onclick="toggleSymbol(this)">
+<summary>
+    <h3>Policy
+        <span class="symbol">+</span>
+    </h3>
+</summary>
+
+<details onclick="toggleSymbol(this)">
+<summary>What information can I ask for in my survey?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Adding)](#)
+
+</details>
+
+<details onclick="toggleSymbol(this)">
+<summary>Is there any information I cannot ask for in my survey?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Adding)](#)
+
+</details>
+
+</details>
+
+<!--  This is the end of a tab component -->
+
+
+
 <style>
 .faq-wrapper{
   margin-bottom: 10px;
