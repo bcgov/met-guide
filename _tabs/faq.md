@@ -30,7 +30,7 @@ View all the steps on the [Create an Engagement] page.
 <summary>How do I edit an engagement?<span class="symbol">+</span></summary>
 
 As a Superuser, you can edit an engagement at any time. As a Team Member, you can only edit an engagement before it is scheduled/published.
-To edit an engagement, go to the Engagement Listing page and select *Edit Engagement* from the Action drop-down. This will take you to the Engagement Details page where you can edit your engagement. Alternatively, you can edit your engagement from the Preview Engagement page by clicking the *Edit Engagement* button.
+To edit an engagement, go to the Engagement Listing page and select "Edit Engagement" from the Action drop-down. This will take you to the Engagement Details page where you can edit your engagement. Alternatively, you can edit your engagement from the Preview Engagement page by clicking the "Edit Engagement" button.
 View all the steps on the [Edit Engagement] page. 
 
 </details>
@@ -39,7 +39,7 @@ View all the steps on the [Edit Engagement] page.
 <summary>How do I assign a Team Member/Reviewer to an Engagement?<span class="symbol">+</span></summary>
 
 As a Superuser, you can assign any Team Member or Reviewer to any engagement. As a Team Member, you can assign any Team Member/Reviewer to an engagement that you are already assigned to.
-To assign a user, go to the User Management page and select *Assign to an Engagement* from the Action drop-down. Alternatively for Team Members, you can go to the Engagement User Management page and click the *+ Add Team Member* button. 
+To assign a user, go to the User Management page and select *Assign to an Engagement* from the Action drop-down. Alternatively for Team Members, you can go to the Engagement User Management page and click the "+ Add Team Member" button. 
 View all the steps on the [Assign a Team Member/Reviewer to an Engagement] page. 
 
 </details>
