@@ -1,6 +1,6 @@
 ---
 title: Create a New Survey
-date: 2023-09-16 20:55:00 +0800
+date: 2023-09-22 20:55:00 +0800
 categories: [survey, getting started] 
 tags: [survey, create, new] 
 pin: true
