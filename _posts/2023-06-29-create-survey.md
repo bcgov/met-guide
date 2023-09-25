@@ -1,13 +1,10 @@
 ---
-title: Create a Survey
+title: Create a New Survey
 date: 2023-09-16 20:55:00 +0800
 categories: [survey, getting started] 
 tags: [survey, create, new] 
 pin: true
 ---
-
-## Card completed - MA pls validate
-
 Surveys can only be created by Superusers.  
 
 To create a new survey from scratch:
