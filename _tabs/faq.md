@@ -130,14 +130,14 @@ View all the steps on the [User Guide for Engagement(Editing)](#)
 
 <details class="faq" onclick="toggleSymbol(this)">
 <summary>
-    <h3>User Management
+    <h3>Survey
         <span class="symbol">+</span>
     </h3>
 </summary>
 
 
 <details onclick="toggleSymbol(this)">
-<summary>How do I add an engagement?<span class="symbol">+</span></summary>
+<summary>How do I create a survey?<span class="symbol">+</span></summary>
 
 You must be a Superuser to create an engagement.
 To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
@@ -146,7 +146,7 @@ View all the steps on the [User Guide for Engagement(Adding)](#)
 </details>
 
 <details onclick="toggleSymbol(this)">
-<summary>How do I create an engagement?<span class="symbol">+</span></summary>
+<summary>How do I edit a survey?<span class="symbol">+</span></summary>
 
 You must be a Superuser to create an engagement.
 To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
@@ -155,7 +155,34 @@ View all the steps on the [User Guide for Engagement(Creation)](#)
 </details>
 
 <details onclick="toggleSymbol(this)">
-<summary>How do I edit an engagement?<span class="symbol">+</span></summary>
+<summary>How do I review the new comments made in the survey and publish them?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Editing)](#)
+
+</details>
+
+<details onclick="toggleSymbol(this)">
+<summary>How is the survey accessed by the public?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Editing)](#)
+
+</details>
+
+<details onclick="toggleSymbol(this)">
+<summary>Can I create an engagement only accessible to B.C. Government employees?<span class="symbol">+</span></summary>
+
+You must be a Superuser to create an engagement.
+To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
+View all the steps on the [User Guide for Engagement(Editing)](#)
+
+</details>
+
+<details onclick="toggleSymbol(this)">
+<summary>Can I send a survey to a select group of people?<span class="symbol">+</span></summary>
 
 You must be a Superuser to create an engagement.
 To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
