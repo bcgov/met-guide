@@ -213,7 +213,7 @@ View all the steps on the [User Guide for Engagement(Adding)](#)
 </details>
 
 <details onclick="toggleSymbol(this)">
-<summary>What are the different user roles?<span class="symbol">+</span></summary>
+<summary>How do I assign a role to a new user?<span class="symbol">+</span></summary>
 
 You must be a Superuser to create an engagement.
 To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
@@ -222,7 +222,7 @@ View all the steps on the [User Guide for Engagement(Adding)](#)
 </details>
 
 <details onclick="toggleSymbol(this)">
-<summary>What are the different user roles?<span class="symbol">+</span></summary>
+<summary>How do I assign a Team Member/Reviewer to an engagement?<span class="symbol">+</span></summary>
 
 You must be a Superuser to create an engagement.
 To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
@@ -231,7 +231,7 @@ View all the steps on the [User Guide for Engagement(Adding)](#)
 </details>
 
 <details onclick="toggleSymbol(this)">
-<summary>What are the different user roles?<span class="symbol">+</span></summary>
+<summary>How do I remove a Team Member/Reviewer from an engagement?<span class="symbol">+</span></summary>
 
 You must be a Superuser to create an engagement.
 To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
@@ -240,7 +240,7 @@ View all the steps on the [User Guide for Engagement(Adding)](#)
 </details>
 
 <details onclick="toggleSymbol(this)">
-<summary>What are the different user roles?<span class="symbol">+</span></summary>
+<summary>How do I deactivate a user?<span class="symbol">+</span></summary>
 
 You must be a Superuser to create an engagement.
 To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
@@ -249,34 +249,7 @@ View all the steps on the [User Guide for Engagement(Adding)](#)
 </details>
 
 <details onclick="toggleSymbol(this)">
-<summary>What are the different user roles?<span class="symbol">+</span></summary>
-
-You must be a Superuser to create an engagement.
-To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
-View all the steps on the [User Guide for Engagement(Adding)](#)
-
-</details>
-
-<details onclick="toggleSymbol(this)">
-<summary>What are the different user roles?<span class="symbol">+</span></summary>
-
-You must be a Superuser to create an engagement.
-To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
-View all the steps on the [User Guide for Engagement(Adding)](#)
-
-</details>
-
-<details onclick="toggleSymbol(this)">
-<summary>What are the different user roles?<span class="symbol">+</span></summary>
-
-You must be a Superuser to create an engagement.
-To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
-View all the steps on the [User Guide for Engagement(Adding)](#)
-
-</details>
-
-<details onclick="toggleSymbol(this)">
-<summary>What are the different user roles?<span class="symbol">+</span></summary>
+<summary>What is the difference between the User Management tab in an engagement, the User Management page, and the User Details page?<span class="symbol">+</span></summary>
 
 You must be a Superuser to create an engagement.
 To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
