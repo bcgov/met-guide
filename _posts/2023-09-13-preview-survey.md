@@ -1,13 +1,10 @@
 ---
 title: Preview a Survey
-date: 2023-09-12 20:55:00 +0800
+date: 2023-09-14 20:55:00 +0800
 categories: [survey, getting started] 
 tags: [preview] 
 pin: true
 ---
-
-## Card completed - MA pls validate
-
 After creating and saving a survey, you can preview it from the [Survey Listing](/met-guide/posts/survey-listing/) page.  
 
 Once you are on the Survey Listing page, click on the name of the survey that you wish to preview. 
