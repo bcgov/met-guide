@@ -55,9 +55,7 @@ Alternatively, if the engagement is not yet open, you can select "Edit Engagemen
 <details onclick="toggleSymbol(this)">
 <summary>How do I edit the dates the survey opens and closes?<span class="symbol">+</span></summary>
 
-You must be a Superuser to create an engagement.
-To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
-View all the steps on the [User Guide for Engagement(Adding)](#)
+*This one is still under consideration* - ticket 2189
 
 </details>
 
