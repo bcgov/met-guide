@@ -22,7 +22,7 @@ pin: true
 
 You must be a Superuser to create an engagement.
 To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
-View all the steps on the [Create an Engagement](/met-guide/posts/create-engagement/) page. 
+View all the steps on the <a href="https://github.com/bcgov/met-guide/blob/main/_posts/2023-06-29-create-engagement.md">Create Engagement</a> page.
 
 </details>
 
@@ -31,7 +31,7 @@ View all the steps on the [Create an Engagement](/met-guide/posts/create-engagem
 
 As a Superuser, you can edit an engagement at any time. As a Team Member, you can only edit an engagement before it is scheduled/published.
 To edit an engagement, go to the Engagement Listing page and select "Edit Engagement" from the Action drop-down. This will take you to the Engagement Details page where you can edit your engagement. Alternatively, you can edit your engagement from the Preview Engagement page by clicking the "Edit Engagement" button.
-View all the steps on the [Edit Engagement](/met-guide/posts/edit-an-engagement/) page. 
+View all the steps on the [Edit Engagement] page. 
 
 </details>
 
