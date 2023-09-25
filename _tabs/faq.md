@@ -89,14 +89,14 @@ View all the steps on the [User Guide for Engagement(Adding)](#)
 
 <details class="faq" onclick="toggleSymbol(this)">
 <summary>
-    <h3>Survey
+    <h3>Widgets
         <span class="symbol">+</span>
     </h3>
 </summary>
 
 
 <details onclick="toggleSymbol(this)">
-<summary>How do I add an engagement?<span class="symbol">+</span></summary>
+<summary>What are the widgets?<span class="symbol">+</span></summary>
 
 You must be a Superuser to create an engagement.
 To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
@@ -105,7 +105,7 @@ View all the steps on the [User Guide for Engagement(Adding)](#)
 </details>
 
 <details onclick="toggleSymbol(this)">
-<summary>How do I create an engagement?<span class="symbol">+</span></summary>
+<summary>How do I add a widget to an engagement?<span class="symbol">+</span></summary>
 
 You must be a Superuser to create an engagement.
 To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
@@ -114,7 +114,7 @@ View all the steps on the [User Guide for Engagement(Creation)](#)
 </details>
 
 <details onclick="toggleSymbol(this)">
-<summary>How do I edit an engagement?<span class="symbol">+</span></summary>
+<summary>Do I need to add every widget to my engagement?<span class="symbol">+</span></summary>
 
 You must be a Superuser to create an engagement.
 To create an engagement, go to the Engagement Listing page and click the "Create an Engagement" button. This will take you to the Engagement creation page.
