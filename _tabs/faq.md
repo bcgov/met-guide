@@ -181,14 +181,14 @@ No. The application does not have the capability to send a survey to a select gr
 <details onclick="toggleSymbol(this)">
 <summary>What are the different user roles?<span class="symbol">+</span></summary>
 
-To do
+There are 6 roles within this tool, and 4 of them are assignable/visible to an internal user. The 4 that will be assignable/visible include: Superusers, Team Members, Viewers, and Reviewers. To learn more about roles, visit the <a href="https://bcgov.github.io/met-guide/posts/user-roles/">User Roles</a> page.
 
 </details>
 
 <details onclick="toggleSymbol(this)">
 <summary>How do I assign a role to a new user?<span class="symbol">+</span></summary>
 
-To do
+*This one is still under consideration* - can only Superusers do it or TMs too?
 
 </details>
 
