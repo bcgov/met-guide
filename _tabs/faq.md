@@ -133,7 +133,7 @@ You must be a Superuser to create a new survey. To create a survey, go to the Su
 <details onclick="toggleSymbol(this)">
 <summary>How do I edit a survey?<span class="symbol">+</span></summary>
 
-To do
+Superusers and Team Members can edit surveys as long as the engagement it is linked to is not scheduled or published. After creating and saving a survey, you can edit it from the Survey Listing page or directly from the engagement it is attached to. From the survey listing page you can click "Edit Survey" from the Action drop-down, or you can click on the survey name then click on "Edit Survey" from the Preview Survey header. Alternatively, you can go to the Engagement Details page survey section and click the edit icon on the survey card. View all the steps on the <a href="https://bcgov.github.io/met-guide/posts/edit-a-survey/">Edit Survey</a> page. 
 
 </details>
 
