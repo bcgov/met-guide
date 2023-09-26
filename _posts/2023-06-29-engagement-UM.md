@@ -15,11 +15,11 @@ As a Superuser, you can add, revoke, or reinstate a Team Member to/from any enga
 
 As a Team Member, you can add, revoke, or reinstate another Team Member to/from engagements that you are already assigned to.  
 
-To add a new Team Member to an Engagement, click the **Add Team Member** button and start typing the name of the Team Member you want to add. Select the Team Member and click the **Save** button.
+To add a new Team Member to an Engagement, click the *Add Team Member* button and start typing the name of the Team Member you want to add. Select the Team Member and click the *Save* button.
 
-To revoke a Team Member from an engagement, select 'Revoke' from the Action drop-down bar on the right.  
+To revoke a Team Member from an engagement, select *Revoke* from the Action drop-down bar on the right.  
 
-To reinstate a Team Member, select 'Reinstate' from the Action drop-down bar on the right.  
+To reinstate a Team Member, select *Reinstate* from the Action drop-down bar on the right.  
 
 Upon selection, you will see a pop-up confirming your selection. The engagement user management table will change according to your selection. 
 
