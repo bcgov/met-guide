@@ -7,7 +7,7 @@ pin: true
 pages_and_features_sort_order: 12
 ---
 
-## Add CSV export, report icons, rejected disappear after 2 weeks
+## Add CSV export, report icons, rejected disappear after 2 weeks, change images for new one with icons/csv
 
 The **Read All Comments** page shows an expanded view of all comment submissions on an engagement/survey. 
 
