@@ -147,14 +147,14 @@ As a Superuser, you can review all comments on all engagements. As a Team Member
 <details onclick="toggleSymbol(this)">
 <summary>How is the survey accessed by the public?<span class="symbol">+</span></summary>
 
-To do
+The surveys are embedded directly in an engagement. When a member of the public is on the engagement page, they will click the "Share Your Thoughts" button and validate their email address. They will recieve an email notification to their provided email address which includes a link to the survey.
 
 </details>
 
 <details onclick="toggleSymbol(this)">
 <summary>Can I create an engagement only accessible to B.C. Government employees?<span class="symbol">+</span></summary>
 
-To do
+Yes. By clicking on the "Set-up as Internal Engagement" toggle in the Engagement Settings, your engagement will only be accessible to users with a @gov.bc.ca email address. For more information on engagement settings, visit the <a href="https://bcgov.github.io/met-guide/posts/engagement-settings/">Engagement Settings</a> page.
 
 </details>
 
