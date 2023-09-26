@@ -1,11 +1,11 @@
 ---
 title: Environmental Assessment Process Widget
-date: 2023-06-29 20:55:00 +0800
+date: 2023-09-10 20:55:00 +0800
 categories: [pages/features, engagement, widgets, features]
 tags: [ea process, environmental assessment process]
 pin: true
 ---
-The **Environmental Assessment Process Widget** shows which phase of the Environmental Assessment (EA) process that this engagement is in. 
+The **Environmental Assessment Process Widget** shows which phase of the Environmental Assessment (EA) process this engagement is in. 
 
 ![EA Process Phase](/assets/UserGuideImages/Images/environmental-assessment-process-widget/environmental-assessment-process-widget-ea-phase-widget.png){: .light .shadow .rounded-10}
 
