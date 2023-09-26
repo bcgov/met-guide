@@ -1,21 +1,20 @@
 ---
 title: Website Feedback Tool
-date: 2023-06-29 20:55:00 +0800
+date: 2023-08-10 20:55:00 +0800
 categories: [pages/features, feedback, website feedback, getting started, features]
 tags: [issues, idea, rate my app]
 pin: true
-getting_started_sort_order: 22
 pages_and_features_sort_order: 16
 ---
 
 ## MA still needs updates
 
-Internal or external users can click the **Website Feedback** blue tab on the lower right side of the screen to submit their feedback on the EPIC.engage application with an emoticon and report an issue or share an idea (optional). A textbox will appear which allows for an explanation on their selected feedback type. 
+Internal or external users can click the **Website Feedback** blue tab on the lower right side of the screen to submit their feedback on the EPIC.engage application with an emoticon and report an issue or share an idea (optional). A textbox will appear which allows for an explanation of their selected feedback type. 
 
 After clicking **Website Feedback** on the left side panel, you will see the Feedback Tool page where there is a listing of user feedback on the application.  
 
 This page will show the feedback emoticon, date published, source, feedback type, feedback message, and an action column.   
 
-The "Actions" column has a drop-down for each entry which allows you mark the issue as resolved.
+The "Actions" column has a drop-down for each entry which allows you to mark the issue as resolved.
 
 ![Website Feedback](/){: .light .shadow .rounded-10}
