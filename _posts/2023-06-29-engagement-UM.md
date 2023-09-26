@@ -1,13 +1,10 @@
 ---
 title: Engagement User Management (tab)
-date: 2023-07-19 20:55:00 +0800
+date: 2023-09-22 20:55:00 +0800
 categories: [pages/features, engagement, user management, creation, tab]
 tags: [user roles, assign user, assign team member, revoke, reinstate]
 pin: true
-pages_and_features_sort_order: 3
 ---
-
-## Card Completed - MA pls validate
 The **Engagement User Management** tab is where you can add, revoke, and reinstate Team Members directly to/from an engagement.  
 
 ![Engagement UM](/assets/UserGuideImages/Images/engagement-user-management/user-management-photo-of-page.png){: .light .shadow .rounded-10}
