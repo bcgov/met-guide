@@ -278,7 +278,7 @@ From the Engagement Listing page or Survey Listing page, click on the action dro
 <details onclick="toggleSymbol(this)">
 <summary>What information can I ask for in my survey?<span class="symbol">+</span></summary>
 
-The survey is intended to collect feedback and input from B.C. citizens in order to provide real data to meet the diverse needs of Ministries. Your survey questions may ask for the following demographic information: Age Range, General Location/Region, and Gender Identity. You must ensure your survey questions abide by the Privacy Impact Assessment (PIA) developed for this tool. 
+The survey is intended to collect feedback and input from B.C. citizens in order to provide real data to meet the diverse needs of Ministries. It is important to consult with your appointed lead as your survey questions may be permitted to ask for specific demographic information depending on your Ministry. You must ensure your survey questions abide by the Privacy Impact Assessment (PIA) developed for your Ministries use of this tool. 
 
 </details>
 
