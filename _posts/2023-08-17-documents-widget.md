@@ -1,13 +1,10 @@
 ---
 title: Documents Widget
-date: 2023-06-29 20:55:00 +0800
+date: 2023-09-12 20:55:00 +0800
 categories: [pages/features, engagement, widgets, features]
 tags: [documents, upload, link, folders]
 pin: true
 ---
-
-## Card Completed - MA pls validate 
-
 The **Documents Widget** allows you to add document(s) and links to your engagement, and organize them in folders if desired.
 
 ![Documents Widget](/assets/UserGuideImages/Images/documents-widget/documents-widget-documents-widget-internal-with-2-folders-and-some-documents.png){: .light .shadow .rounded-10} 
