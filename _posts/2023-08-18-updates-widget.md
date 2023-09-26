@@ -1,11 +1,11 @@
 ---
 title: Sign Up for Updates Widget
-date: 2023-06-29 20:55:00 +0800
+date: 2023-09-06 20:55:00 +0800
 categories: [pages/features, engagement, widgets, features]
 tags: [subscribe, email, CAC, form]
 pin: true
 ---
-The **Sign Up for Updates Widget** allows users to either sign up to an email list or sign up through a form.
+The **Sign Up for Updates Widget** allows users to either sign up to an email list or sign up through a pre-defined form.
 
 ![Updates Widget](/assets/UserGuideImages/Images/updates-widget/updates-widget-sign-up-for-updates-widget-a.png){: .light .shadow .rounded-10}
 
