@@ -202,7 +202,7 @@ A Superuser can assign any Team Member/Reviewer to any engagement. A Team Member
 <details onclick="toggleSymbol(this)">
 <summary>How do I remove a Team Member/Reviewer from an engagement?<span class="symbol">+</span></summary>
 
-To do
+A Superuser can revoke Team Members and Reviewers from Engagements. Team Members and Reviewers can be revoked from an engagement from the action drop-down on the User Details page. Additionally, Team Members can be revoked from engagements through the action drop-down on the Engagement User Management tab. View all the steps on the <a href="https://bcgov.github.io/met-guide/posts/revokereinstate-team-member-or-reviewer-to-engagement/">Revoking/Reinstating a Team Member/Reviewer to an Engagement</a> page. 
 
 </details>
 
