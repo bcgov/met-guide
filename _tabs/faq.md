@@ -278,21 +278,21 @@ From the Engagement Listing page or Survey Listing page, click on the action dro
 <details onclick="toggleSymbol(this)">
 <summary>What information can I ask for in my survey?<span class="symbol">+</span></summary>
 
-To do
+The survey is intended to collect feedback and input from B.C. citizens in order to provide real data to meet the diverse needs of Ministries. Your survey questions may ask for the following demographic information: Age Range, General Location/Region, and Gender Identity. You must ensure your survey questions abide by the Privacy Impact Assessment (PIA) developed for this tool. 
 
 </details>
 
 <details onclick="toggleSymbol(this)">
 <summary>Is there any information I cannot ask for in my survey?<span class="symbol">+</span></summary>
 
-To do
+You cannot ask for personal information anywhere in your survey. All survey questions that include a free-text box must have a description reminder to not inadvertently include personal information. Survey responses that do include personal information, inappropriate language, or threats, will be actioned from the Comment Review page appropriately. 
 
 </details>
 
 <details onclick="toggleSymbol(this)">
 <summary>What is a Privacy Impact Assessment (PIA)?<span class="symbol">+</span></summary>
 
-To do
+"A privacy impact assessment (PIA) is a step-by-step review process to make sure you protect the personal information you collect or use in your project" (Government of BC).
 
 </details>
 
