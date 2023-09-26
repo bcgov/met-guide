@@ -209,14 +209,15 @@ A Superuser can revoke Team Members and Reviewers from Engagements. Team Members
 <details onclick="toggleSymbol(this)">
 <summary>How do I deactivate a user?<span class="symbol">+</span></summary>
 
-To do
+You must be a Superuser to deactivate users.
+To deactivate a user, go to the User Details page and click the "Deactivate" button on the top right of the screen. View all the steps on the <a href="https://bcgov.github.io/met-guide/posts/deactivate-or-reactivate-user/">Deactivate/Reactivate a User</a> page. 
 
 </details>
 
 <details onclick="toggleSymbol(this)">
 <summary>What is the difference between the User Management tab in an engagement, the User Management page, and the User Details page?<span class="symbol">+</span></summary>
 
-To do
+The User Management tab within an engagement includes the Team Members that are assigned to that particular engagement. The User Management page is a listing of all the users within the system and their roles. The User Details page is specific to each user and includes more information such as the engagements that this user is or was assigned to. 
 
 </details>
 
