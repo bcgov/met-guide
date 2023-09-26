@@ -126,7 +126,7 @@ No. Widgets are intended to be entirely customizable according to the engagement
 <details onclick="toggleSymbol(this)">
 <summary>How do I create a survey?<span class="symbol">+</span></summary>
 
-To do
+You must be a Superuser to create a new survey. To create a survey, go to the Survey Listing page and click the "Create Survey" button. Choose the "Create a New Survey" button and approve of the Disclaimer and Statement of Responsibility for Survey Designers. To learn more about building your survey, visit the <a href="https://bcgov.github.io/met-guide/posts/survey-builder/">Widgets</a> page.
 
 </details>
 
