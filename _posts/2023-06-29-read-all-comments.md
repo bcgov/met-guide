@@ -1,14 +1,13 @@
 ---
 title: Read All Comments
-date: 2023-08-22 20:55:00 +0800
-categories: [comments, review, getting started, pages/features, pages]
-tags: [read comments, getting started, pages/features, status]
+date: 2023-08-12 20:55:00 +0800
+categories: [comments, getting started, pages/features, pages]
+tags: [read comments, review comments, csv, issue tracking table, status]
 pin: true
-getting_started_sort_order: 21
 pages_and_features_sort_order: 12
 ---
 
-## Card Completed - MA pls validate
+## Add CSV export, report icons, rejected disappear after 2 weeks
 
 The **Read All Comments** page shows an expanded view of all comment submissions on an engagement/survey. 
 
