@@ -244,21 +244,21 @@ After creating a survey, you can select which questions will be displayed on the
 <details onclick="toggleSymbol(this)">
 <summary>How do I change the option to automatically send a report when the survey closes?<span class="symbol">+</span></summary>
 
-To do
+Go to edit your desired engagement, then go to the Engagement Settings tab and toggle off the "Send Report".
 
 </details>
 
 <details onclick="toggleSymbol(this)">
 <summary>Where do I find the URL to the public report?<span class="symbol">+</span></summary>
 
-To do
+Go to edit your desired engagement, then go to the URL (links) tab and copy the "Link to Public Dashboard Report" at the bottom.
 
 </details>
 
 <details onclick="toggleSymbol(this)">
 <summary>Where can I see the internal report?<span class="symbol">+</span></summary>
 
-To do
+From the Engagement Listing page or Survey Listing page, click on the action drop-down for your desired engagement and choose "View Report - Internal". 
 
 </details>
 
