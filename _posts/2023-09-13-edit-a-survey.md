@@ -22,7 +22,7 @@ From the Survey Listing page, find the survey you wish to edit. To edit the surv
 
   ![Preview survey page](/assets/UserGuideImages/Images/edit-a-survey/edit-a-survey-image-of-preview-survey-page-with-edit survey-button.png){: .light .w-75 .shadow .rounded-10}
 
-- From the Engagement Details page, scroll down to the Survey section and click the edit icon on the survey card.
+Alternatively, from the Engagement Details page, scroll down to the Survey section and click the edit icon on the survey card.
 
   ## Add image of Survey block on engagement details.
 
