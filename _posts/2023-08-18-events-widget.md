@@ -1,6 +1,6 @@
 ---
 title: Events Widget
-date: 2023-06-29 20:55:00 +0800
+date: 2023-09-04 20:55:00 +0800
 categories: [pages/features, engagement, widgets, features]
 tags: [in-person, virtual, webinar]
 pin: true
