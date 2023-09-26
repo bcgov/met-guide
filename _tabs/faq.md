@@ -91,21 +91,21 @@ As a Superuser, you can change the date and time an engagement is scheduled to g
 <details onclick="toggleSymbol(this)">
 <summary>What are the widgets?<span class="symbol">+</span></summary>
 
-Widgets are customizable modules that display different types of information about the engagement. To learn more and view all the widgets, visit the <a href="https://bcgov.github.io/met-guide/posts/widgets/">Widgets</a> page. 
+Widgets are customizable modals that display different types of information about the engagement. To learn more and view all the widgets, visit the <a href="https://bcgov.github.io/met-guide/posts/widgets/">Widgets</a> page. 
 
 </details>
 
 <details onclick="toggleSymbol(this)">
 <summary>How do I add a widget to an engagement?<span class="symbol">+</span></summary>
 
-To do
+Superusers and Team Members can add widgets to display on the engagement page. Upon the creation of an engagement, a user will see the Widgets section on the right side of the screen. Click "Add Widget" and you will see all of the available widgets. To learn more and view all the widgets, visit the <a href="https://bcgov.github.io/met-guide/posts/widgets/">Widgets</a> page.
 
 </details>
 
 <details onclick="toggleSymbol(this)">
 <summary>Do I need to add every widget to my engagement?<span class="symbol">+</span></summary>
 
-To do
+No. Widgets are intended to be entirely customizable according to the engagement. 
 
 </details>
 
