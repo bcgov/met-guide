@@ -1,18 +1,16 @@
 ---
 title: Deactivate/Reactivate a User
-author: cotes
-date: 2023-06-29 20:55:00 +0800
-categories: [users, roles, getting started]
-tags: [users, roles, getting started]
+date: 2023-08-16 20:55:00 +0800
+categories: [user management, roles, getting started]
+tags: [users, roles, deactivate, reactivate]
 pin: true
-getting_started_sort_order: 19
 ---
 
 ## Need 1 more image
 
 As a Superuser, you can Deactivate and Reactivate users in the application.  
 
-From the [User Details](/met-guide/posts/user-details/) page, there will be a **Deactivate** or **Reactivate** button (depending on the users status) on the top right of the screen.  
+From the [User Details](/met-guide/posts/user-details/) page, there will be a *Deactivate* or *Reactivate* button (depending on the users status) on the top right of the screen.  
 
 ![Deactivate](/assets/UserGuideImages/Images/deactivate-or-reactivate-user/deactivate-or-reactivate-user/deactivate-or-reactivate-user-image-of-top-of-screen-with-deactivate-reactivate-circled.png){: .light .w-75 .shadow .rounded-10}  
 
