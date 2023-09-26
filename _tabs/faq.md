@@ -140,7 +140,7 @@ Superusers and Team Members can edit surveys as long as the engagement it is lin
 <details onclick="toggleSymbol(this)">
 <summary>How do I review the new comments made in the survey and publish them?<span class="symbol">+</span></summary>
 
-To do
+As a Superuser, you can review all comments on all engagements. As a Team Member, you can review comments on the engagement(s) you are assigned to. After clicking on a Comment ID from the Comment Listing page, you will be directed to the Comment Review page. There will be the option to approve, reject, or require that a comment needs futher review. If a comment is approved, it will be published to the public record (as long as the report includes it). To learn more about the comment review process, visit the <a href="https://bcgov.github.io/met-guide/posts/comment-review-page/">Comment Review</a> page.
 
 </details>
 
