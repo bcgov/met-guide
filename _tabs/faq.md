@@ -195,7 +195,7 @@ There are 6 roles within this tool, and 4 of them are assignable/visible to an i
 <details onclick="toggleSymbol(this)">
 <summary>How do I assign a Team Member/Reviewer to an engagement?<span class="symbol">+</span></summary>
 
-To do
+A Superuser can assign any Team Member/Reviewer to any engagement. A Team Member can assign any Team Member/Reviewer to engagements that they are already assigned to. Team Members and Reviewers can be assigned to an engagement from the action drop-down on the User Management page. Additionally, Team Members can be assigned to engagements by the "Add Team Member" button on the Engagement User Management tab. View all the steps on the <a href="https://bcgov.github.io/met-guide/posts/add-team-member-or-reviewer-to-engagement/">Assign a Team Member/Reviewer to an Engagement</a> page. 
 
 </details>
 
