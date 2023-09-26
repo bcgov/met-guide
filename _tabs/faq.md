@@ -237,7 +237,7 @@ The User Management tab within an engagement includes the Team Members that are 
 <details onclick="toggleSymbol(this)">
 <summary>How can I select which questions will show on the public report?<span class="symbol">+</span></summary>
 
-After creating a survey, you can select which questions will be displayed on the public report. You will be automatically directed to the Report Settings page after clicking "Save & Continue" on a survey. Alternatively, you can go to the Survey Listing page and click "Edit Settings" from the action drop-down. The Report Settings can only be edited before an engagement is scheduled/published. 
+After creating a survey, you can select which questions will be displayed on the public report. You will be automatically directed to the Report Settings page after clicking "Save & Continue" on a survey. Alternatively, you can go to the Survey Listing page and click "Edit Settings" from the action drop-down. The Report Settings can only be edited before an engagement is scheduled/published. View all the steps on the <a href="https://bcgov.github.io/met-guide/posts/report-settings/">Report Settings</a> page. 
 
 </details>
 
