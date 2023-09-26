@@ -91,7 +91,7 @@ As a Superuser, you can change the date and time an engagement is scheduled to g
 <details onclick="toggleSymbol(this)">
 <summary>What are the widgets?<span class="symbol">+</span></summary>
 
-To do
+Widgets are customizable modules that display different types of information about the engagement. To learn more and view all the widgets, visit the <a href="https://bcgov.github.io/met-guide/posts/widgets/">Widgets</a> page. 
 
 </details>
 
