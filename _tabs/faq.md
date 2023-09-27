@@ -189,7 +189,7 @@ There are 6 roles within this tool, and 4 of them are assignable/visible to an i
 <details onclick="toggleSymbol(this)">
 <summary>How do I assign a role to a new user?<span class="symbol">+</span></summary>
 
-*This one is still under consideration* - can only Superusers do it or TMs too?
+You must be a Superuser to assign a role to a new user. Once a new user logs in to the tool with their IDIR credentials, Superusers will see their name appear in the User Management tab. From the action drop-down, select "Assign a Role" and choose which role to assign the user. To learn more about assigning roles, visit the <a href="https://bcgov.github.io/met-guide/posts/add-users/">Add Users</a> page.
 
 </details>
 
