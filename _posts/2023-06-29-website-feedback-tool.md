@@ -1,10 +1,9 @@
 ---
 title: Website Feedback Tool
-date: 2023-08-10 20:55:00 +0800
+date: 2023-08-06 20:55:00 +0800
 categories: [pages/features, feedback, website feedback, getting started, features]
 tags: [issues, idea, rate my app]
 pin: true
-pages_and_features_sort_order: 16
 ---
 
 ## Need images
