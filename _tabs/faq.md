@@ -55,7 +55,8 @@ Alternatively, if the engagement is not yet open, you can select "Edit Engagemen
 <details onclick="toggleSymbol(this)">
 <summary>How do I edit the dates the survey opens and closes?<span class="symbol">+</span></summary>
 
-*This one is still under consideration* - ticket 2189
+Superusers can edit the survey dates if the engagement is in draft, published/scheduled, or open. Team Members can only edit the survey dates if the engagement is in draft. You cannot edit the dates of closed or unpublished engagements. 
+To edit the opening and closing dates of a survey, click on your desired engagement and edit the dates from the Engagement Details tab. For more information on Engagement Details, visit the <a href="https://bcgov.github.io/met-guide/posts/engagement-details/">Engagement Details</a> page.
 
 </details>
 
@@ -69,7 +70,7 @@ As a Superuser, you can change the date and time an engagement is scheduled to g
 <details onclick="toggleSymbol(this)">
 <summary>Can I edit an engagement that is published?<span class="symbol">+</span></summary>
 
-*This one is still under consideration* - ticket 2189
+Yes. Superusers can edit engagements that have been published. However, once an engagement is published, you cannot change the "Set-up as Internal Engagement" toggle or the URL to the Public Engagement Page. 
 
 </details>
 
