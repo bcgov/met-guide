@@ -1,7 +1,7 @@
 ---
 title: FAQ
 author: cotes
-date: 2023-06-29 20:55:00 +0800
+date: 2023-09-27 20:55:00 +0800
 categories: [FAQ, getting started]
 tags: [faq, getting started]
 pin: true
