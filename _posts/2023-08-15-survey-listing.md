@@ -1,10 +1,9 @@
 ---
 title: Survey Listing
-date: 2023-08-15 20:55:00 +0800
+date: 2023-08-28 20:55:00 +0800
 categories: [pages/features, survey, listing, pages]
 tags: [create, comments, review, preview, comment status, actions]
 pin: true
-pages_and_features_sort_order: 7
 ---
 After clicking **Surveys** on the left side panel, you will be directed to the survey listing page.  
 
