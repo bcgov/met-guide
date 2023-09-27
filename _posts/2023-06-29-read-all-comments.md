@@ -4,7 +4,6 @@ date: 2023-08-12 20:55:00 +0800
 categories: [comments, getting started, pages/features, pages]
 tags: [read comments, review comments, csv, issue tracking table, status]
 pin: true
-pages_and_features_sort_order: 12
 ---
 
 ## Add CSV export, report icons, rejected disappear after 2 weeks, change images for new one with icons/csv
