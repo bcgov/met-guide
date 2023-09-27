@@ -1,6 +1,6 @@
 ---
 title: Video Widget
-date: 2023-06-29 20:55:00 +0800
+date: 2023-08-30 20:55:00 +0800
 categories: [pages/features, engagement, widgets, features]
 tags: [video]
 pin: true
