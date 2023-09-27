@@ -162,7 +162,7 @@ Yes. By clicking on the "Set-up as Internal Engagement" toggle in the Engagement
 <details onclick="toggleSymbol(this)">
 <summary>Can I send a survey to a select group of people?<span class="symbol">+</span></summary>
 
-No. This tool does not have the capability to send a survey to a select group of people at this time. 
+No. This tool does not have the capability to send surveys to select groups of people at this time. 
 
 </details>
 
