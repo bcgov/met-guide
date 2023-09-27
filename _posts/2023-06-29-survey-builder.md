@@ -1,11 +1,9 @@
 ---
 title: Survey Builder
-author: cotes
-date: 2023-06-29 20:55:00 +0800
-categories: [pages/features, survey, creation, pages]
-tags: [pages/features, survey, creation, pages]
+date: 2023-08- 20:55:00 +0800
+categories: [pages/features, survey, create, pages]
+tags: [survey builder, questions, question types, comments, hidden, template]
 pin: true
-pages_and_features_sort_order: 8
 ---
 ## MA add info about each component
 
@@ -16,13 +14,13 @@ Once you are on the [Survey Listing page](/met-guide/posts/survey-listing/), you
 ![Create Survey](/assets/UserGuideImages/Images/survey-builder/survey-builder-survey-listing-page-with-create-survey-circled.png){: .light .shadow .rounded-10}
 
 You can choose to either:
-1. **Create a new survey:** This will allow you to start creating a survey entirely from scratch.
+1. *Create a new survey:* This will allow you to start creating a survey entirely from scratch.
    
-2. **Clone an existing survey/template:** This will allow you to duplicate the survey components from an already existing survey. This can be useful for when an engagement requires the same questions/information at a different phase in the engagement. If **Clone an existing survey/template** is selected, the same questions, layout and survey components will carry over to the new survey. However, all survey components are still editable, and can be deleted or added as needed.  
+2. *Clone an existing survey/template:* This will allow you to duplicate the survey components from an already existing survey. This can be useful when an engagement requires the same questions/information at a different phase in the engagement. If *Clone an existing survey/template* is selected, the same questions, layout and survey components will carry over to the new survey. However, all survey components are still editable and can be deleted or added as needed.  
 
 ![Create Survey Click](/assets/UserGuideImages/Images/survey-builder/survey-builder-page-that-appears-once-create-survey-is-clicked_.png){: .light .shadow .rounded-10}
 
-Whether you choose to **Create a new survey** or **Clone an existing survey/template**, you will have to enter a survey name, indicate if it will be multi-page, and agree to the disclaimer and statement of responsibility for Survey Designers. 
+Whether you choose to *Create a new survey* or *Clone an existing survey/template*, you will have to enter a survey name, indicate if it will be multi-page, and agree to the disclaimer and statement of responsibility for Survey Designers. 
 
 After clicking Save and Continue, you will be directed to the **Survey Builder** page.  
 
