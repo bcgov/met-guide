@@ -1,14 +1,10 @@
 ---
 title: User Management
-date: 2023-06-29 20:55:00 +0800
+date: 2023-08-19 20:55:00 +0800
 categories: [pages/features, users, management, pages]
 tags: [pages/features, users, management, pages]
 pin: true
-pages_and_features_sort_order: 9
 ---
-
-## Card Completed - MA pls validate
-
 After clicking **User Management** on the left side navigation, you will see the user listing page.  
 
 ![User Management](/assets/UserGuideImages/Images/user-management/user-management-photo-of-page.png){: .light .shadow .rounded-10}
@@ -21,7 +17,7 @@ Each user and their properties are grouped together by row.
 
 The first column is the User Name. Clicking the name will open the User Details page for that particular user. For more information on the User Details page, go to the [User Details page](/met-guide/posts/user-details/).
 
-The second column is the Role of the user. Users can be assigned as Superuser, Team Member, Reviewer, or Viewer.
+The second column is the Role of the user. Users can be assigned as Superuser, Team Member, Reviewer, or Viewer. If no role has been assigned, this column will be blank.
 
 The third column is the Date that the user was added to the application.
 
