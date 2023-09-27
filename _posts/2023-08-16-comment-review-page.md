@@ -1,6 +1,6 @@
 ---
 title: Comment Review
-date: 2023-08-15 20:55:00 +0800
+date: 2023-08-10 20:55:00 +0800
 categories: [pages/features, comment, review, pages]
 tags: [read comments, approve, reject, needs further review, email]
 pin: true
@@ -33,5 +33,5 @@ An automated email containing the details of the reason(s) for rejection, more i
 
 All options have an *Internal Note* option which allows other staff members to communicate via/about the comment.  
 
-Once the comment review process is over, click 'Save & Continue' to see the updated Comment Status, Reviewed by, and Date Reviewed fields. 
+Once the comment review process is over, click the *Save & Continue* button to see the updated Comment Status, Reviewed by, and Date Reviewed fields. 
 
