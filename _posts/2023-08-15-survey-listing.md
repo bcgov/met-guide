@@ -6,18 +6,15 @@ tags: [create, comments, review, preview, comment status, actions]
 pin: true
 pages_and_features_sort_order: 7
 ---
-
-## Card Completed- MA pls validate
-
 After clicking **Surveys** on the left side panel, you will be directed to the survey listing page.  
 
 ![Survey Listing](/assets/UserGuideImages/Images/survey-listing/survey-listing-photo-of-page.png){: .light .shadow .rounded-10}
 
-At the top of the page, you can search for surveys by name or through the advanced search option. The advanced search allows you to filter results by date range (Date Created & Date Published).  
+At the top of the page, you can search for surveys by name or through the advanced search option. The advanced search allows you to filter results by date range (Date Created and date Published).  
 
 ![Advanced Search](/assets/UserGuideImages/Images/survey-listing/survey-listing-survey-advanced-search-drop-down.png){: .light .shadow .rounded-10}
 
-At the top right of the page, you can select the **+Create Survey** button as a Superuser. For more information on survey creation, go to [Survey Builder](/met-guide/posts/survey-builder/).
+Superusers can create a survey by clicking the *+Create Survey* button. For more information on survey creation, go to [Survey Builder](/met-guide/posts/survey-builder/).
 
 Each survey and its properties are grouped together by row. You can filter surveys alphabetically by Survey Name, chronologically by Date Created and Date Published, by their Status, and alphabetically by their corresponding engagement.
 
@@ -48,13 +45,15 @@ Clicking any of the four options will open a page for reviewing comments. For mo
 The fifth column allows you to apply an action on an engagement. 
 These options might be available depending on your role and the engagement status:
 
--View Survey 
--Edit Engagement
--View Report
+- View Survey 
+- Edit Survey
+- Edit Settings ([Report Settings](/met-guide/posts/report-settings/))
+- View Report - Public
+- View Report - Internal
 
 For more information on the Survey Preview page, go to [Preview Survey](/met-guide/posts/preview-survey/).  
 
-For more information on the Edit Engagement page, go to [Edit an Engagement](/met-guide/posts/edit-an-engagement). *this will include engagement details, engagement UM, and settings*
+For more information on the Edit Engagement page, go to [Edit an Engagement](/met-guide/posts/edit-an-engagement). *This will include engagement details, engagement UM, and settings*
 
 For more information on the Report page, go to [Report](/met-guide/posts/report/).  
 
