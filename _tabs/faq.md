@@ -195,7 +195,19 @@ You must be a Superuser to assign a role to a new user. Once a new user logs in 
 <details onclick="toggleSymbol(this)">
 <summary>How do I assign a Team Member/Reviewer to an engagement?<span class="symbol">+</span></summary>
 
-A Superuser can assign any Team Member/Reviewer to any engagement. A Team Member can assign any Team Member/Reviewer to engagements that they are already assigned to. Team Members and Reviewers can be assigned to an engagement from the action drop-down on the User Management page, or on the User Details page for that user. Additionally, Team Members can be assigned to engagements by the "Add Team Member" button on the Engagement User Management tab. View all the steps on the <a href="https://bcgov.github.io/met-guide/posts/add-team-member-or-reviewer-to-engagement/">Assign a Team Member/Reviewer to an Engagement</a> page. 
+A Superuser can assign any Team Member/Reviewer to any engagement. A Team Member can assign any Team Member/Reviewer to engagements that they are already assigned to. 
+
+You must be a Superuser or a Team Member to add a Team Member/Reviewer to an engagement. Superusers can add any Team Member/Reviewer to any engagement while Team Members can add a Team Member/Reviewer to engagements they are already assigned to. 
+
+There are 3 ways that Team Member/Reviewer can be added to engagements:
+
+1. By selecting *Assign to an Engagement* in the action drop-down from the []<a href="https://bcgov.github.io/met-guide/posts/user-management/>User Management</a> page.
+   
+3. By clicking *+ Add to an Engagement* from the <a href="https://bcgov.github.io/met-guide/posts/user-details/)>User Details</a> page
+   
+5. By clicking *+ Add Team Member* from the <a href="https://bcgov.github.io/met-guide/posts/engagement-UM)Engagement User Management</a> page
+
+View all the steps on the <a href="https://bcgov.github.io/met-guide/posts/add-team-member-or-reviewer-to-engagement/">Assign a Team Member/Reviewer to an Engagement</a> page. 
 
 </details>
 
