@@ -1,6 +1,5 @@
 ---
 title: FAQ
-author: cotes
 date: 2023-09-27 20:55:00 +0800
 categories: [FAQ, getting started]
 tags: [faq, getting started]
@@ -29,7 +28,7 @@ View all the steps on the <a href="https://bcgov.github.io/met-guide/posts/creat
 <details onclick="toggleSymbol(this)">
 <summary>How do I edit an engagement?<span class="symbol">+</span></summary>
 
-As a Superuser, you can edit an engagement at any time. As a Team Member, you can only edit an engagement before it is scheduled/published.
+As a Superuser, you can edit an engagement at any time. As a Team Member, you can only edit an engagement you are assigned to before it is scheduled/published.
 To edit an engagement, go to the Engagement Listing page and select "Edit Engagement" from the Action drop-down. This will take you to the Engagement Details page where you can edit your engagement. Alternatively, you can edit your engagement from the Preview Engagement page by clicking the "Edit Engagement" button.
 View all the steps on the <a href="https://bcgov.github.io/met-guide/posts/edit-an-engagement/">Edit Engagement</a> page. 
 
@@ -39,7 +38,7 @@ View all the steps on the <a href="https://bcgov.github.io/met-guide/posts/edit-
 <summary>How do I assign a Team Member/Reviewer to an Engagement?<span class="symbol">+</span></summary>
 
 As a Superuser, you can assign any Team Member or Reviewer to any engagement. As a Team Member, you can assign any Team Member/Reviewer to an engagement that you are already assigned to.
-To assign a user, go to the User Management page and select "Assign to an Engagement" from the Action drop-down. Alternatively for Team Members, you can go to the Engagement User Management page and click the "+ Add Team Member" button. 
+To assign a user, go to the User Management page and select "Assign to an Engagement" from the Action drop-down. You can also assign a user to an engagement from the User's Detail page by clicking the "+ Add to an Engagement" button or, for Team Members only, you can go to the Engagement User Management page and click the "+ Add Team Member" button. 
 View all the steps on the <a href="https://bcgov.github.io/met-guide/posts/add-team-member-or-reviewer-to-engagement/">Assign a Team Member/Reviewer to an Engagement</a> page. 
 
 </details>
@@ -47,30 +46,30 @@ View all the steps on the <a href="https://bcgov.github.io/met-guide/posts/add-t
 <details onclick="toggleSymbol(this)">
 <summary>Where do I find the public URL to an Engagement?<span class="symbol">+</span></summary>
 
-To access the public URL to an engagement, go to the Engagement Listing page and click on the desired engagement. Click on "Edit Engagement" and then go to the URL (links) tab. The top link will be for the Public Engagement Page. 
-Alternatively, if the engagement is not yet open, you can select "Edit Engagement" from the Action drop-down on the Engagement Listing page.
+To access the public URL to an engagement, go to the Engagement Listing page and click on the desired engagement. Click on "Edit Engagement" and then go to the URL (links) tab. The top link will be for the Public Engagement Page. The URL is auto-generated based on the engagement name but is editable before the engagement is published.
+Alternatively, if the engagement is not yet scheduled/published, you can select "Edit Engagement" from the Action drop-down on the Engagement Listing page. Please note that team Members will only be able to access the URL (links) tab on the Engagement Details page before the engagement is scheduled/published.
 
 </details>
 
 <details onclick="toggleSymbol(this)">
 <summary>How do I edit the dates the survey opens and closes?<span class="symbol">+</span></summary>
 
-Superusers can edit the survey dates if the engagement is in draft, published/scheduled, or open. Team Members can only edit the survey dates if the engagement is in draft. You cannot edit the dates of closed or unpublished engagements. 
-To edit the opening and closing dates of a survey, click on your desired engagement and edit the dates from the Engagement Details tab. For more information on Engagement Details, visit the <a href="https://bcgov.github.io/met-guide/posts/engagement-details/">Engagement Details</a> page.
+Superusers can edit the survey dates if the engagement is in draft, published/scheduled, or open. Team Members can only edit the survey dates if the engagement is a draft. You cannot edit the dates of closed or unpublished engagements. 
+To edit the opening and closing dates of a survey, click on your desired engagement and edit the dates from the Engagement Details tab, then click the "Save" button at the bottom of the page. For more information on Engagement Details, visit the <a href="https://bcgov.github.io/met-guide/posts/engagement-details/">Engagement Details</a> page.
 
 </details>
 
 <details onclick="toggleSymbol(this)">
 <summary>How do I change the date an Engagement is scheduled to go live?<span class="symbol">+</span></summary>
 
-As a Superuser, you can change the date and time an engagement is scheduled to go live as long as you do it before the original scheduled time. To change the engagement go live date and time, go to the Engagement Listing page and click on the desired engagement. You will see a "Reschedule Engagement" button at the top. 
+As a Superuser, you can change the date and time an engagement is scheduled to go live as long as you do it before the original scheduled time. To change the engagement go-live date and time, go to the Engagement Listing page and click on the desired engagement. You will see a link to reschedule your engagement in the yellow banner, just below the date/time your engagement is scheduled to go live. 
 
 </details>
 
 <details onclick="toggleSymbol(this)">
 <summary>Can I edit an engagement that is published?<span class="symbol">+</span></summary>
 
-Yes. Superusers can edit engagements that have been published. However, once an engagement is published, you cannot change the "Set-up as Internal Engagement" toggle or the URL to the Public Engagement Page. 
+Yes. Superusers can edit engagements that have been published. However, once an engagement is published, you cannot change the "Set-up as Internal Engagement" and Send Report toggles, or the URL to the Public Engagement Page. 
 
 </details>
 
@@ -141,14 +140,14 @@ Superusers and Team Members can edit surveys as long as the engagement it is lin
 <details onclick="toggleSymbol(this)">
 <summary>How do I review the new comments made in the survey and publish them?<span class="symbol">+</span></summary>
 
-As a Superuser, you can review all comments on all engagements. As a Team Member, you can review comments on the engagement(s) you are assigned to. After clicking on a Comment ID from the Comment Listing page, you will be directed to the Comment Review page. There will be the option to approve, reject, or require that a comment needs futher review. If a comment is approved, it will be published to the public record (as long as the report includes it). To learn more about the comment review process, visit the <a href="https://bcgov.github.io/met-guide/posts/comment-review-page/">Comment Review</a> page.
+As a Superuser, you can review all comments on all engagements. As a Team Member, you can review comments on the engagement(s) you are assigned to. You can see if there are any new comments requiring review on the Engagement Listing or Survey Listing page. The number of new comments will show on the "new" comment badge as a number. Click the badge to access the new comments. You will see a list of all the new comments on the Comment Listing page. After clicking on a Comment ID from the Comment Listing page, you will be directed to the Comment Review page. There will be the option to approve, reject, or require that a comment needs further review. If a comment is approved, it will be published in the public record (as long as the report includes it). To learn more about the comment review process, visit the <a href="https://bcgov.github.io/met-guide/posts/comment-review-page/">Comment Review</a> page.
 
 </details>
 
 <details onclick="toggleSymbol(this)">
 <summary>How is the survey accessed by the public?<span class="symbol">+</span></summary>
 
-The surveys are embedded directly in an engagement. When a member of the public is on the engagement page, they will click the "Share Your Thoughts" button and validate their email address. They will recieve an email notification to their provided email address which includes a link to the survey.
+The surveys are embedded directly in an engagement. When a member of the public is on the engagement page, they will click the "Share Your Thoughts" button and validate their email address. They will receive an email notification to their provided email address which includes a link to the survey.
 
 </details>
 
@@ -196,7 +195,7 @@ You must be a Superuser to assign a role to a new user. Once a new user logs in 
 <details onclick="toggleSymbol(this)">
 <summary>How do I assign a Team Member/Reviewer to an engagement?<span class="symbol">+</span></summary>
 
-A Superuser can assign any Team Member/Reviewer to any engagement. A Team Member can assign any Team Member/Reviewer to engagements that they are already assigned to. Team Members and Reviewers can be assigned to an engagement from the action drop-down on the User Management page. Additionally, Team Members can be assigned to engagements by the "Add Team Member" button on the Engagement User Management tab. View all the steps on the <a href="https://bcgov.github.io/met-guide/posts/add-team-member-or-reviewer-to-engagement/">Assign a Team Member/Reviewer to an Engagement</a> page. 
+A Superuser can assign any Team Member/Reviewer to any engagement. A Team Member can assign any Team Member/Reviewer to engagements that they are already assigned to. Team Members and Reviewers can be assigned to an engagement from the action drop-down on the User Management page, or on the User Details page for that user. Additionally, Team Members can be assigned to engagements by the "Add Team Member" button on the Engagement User Management tab. View all the steps on the <a href="https://bcgov.github.io/met-guide/posts/add-team-member-or-reviewer-to-engagement/">Assign a Team Member/Reviewer to an Engagement</a> page. 
 
 </details>
 
@@ -208,17 +207,17 @@ A Superuser can revoke Team Members and Reviewers from Engagements. Team Members
 </details>
 
 <details onclick="toggleSymbol(this)">
-<summary>How do I deactivate a user?<span class="symbol">+</span></summary>
+<summary>How do I deactivate/reactivate a user?<span class="symbol">+</span></summary>
 
-You must be a Superuser to deactivate users.
-To deactivate a user, go to the User Details page and click the "Deactivate" button on the top right of the screen. View all the steps on the <a href="https://bcgov.github.io/met-guide/posts/deactivate-or-reactivate-user/">Deactivate/Reactivate a User</a> page. 
+You must be a Superuser to deactivate or reactivate users.
+To deactivate a user, go to the User Details page and click the "Deactivate" button on the top right of the screen. If the user was previously deactivated, the same button will allow a Superuser to reactivate them. View all the steps on the <a href="https://bcgov.github.io/met-guide/posts/deactivate-or-reactivate-user/">Deactivate/Reactivate a User</a> page. 
 
 </details>
 
 <details onclick="toggleSymbol(this)">
 <summary>What is the difference between the User Management tab in an engagement, the User Management page, and the User Details page?<span class="symbol">+</span></summary>
 
-The User Management tab within an engagement includes the Team Members that are assigned to that particular engagement. The User Management page is a listing of all the users within the system and their roles. The User Details page is specific to each user and includes more information such as the engagements that this user is or was assigned to. 
+The User Management tab within an engagement includes the Team Members that are assigned to that particular engagement. The User Management page is a listing of all the users within the system, their roles, date added in the system, status, and an actions drop-down to perform quick actions such as assigning a role, changing their role, or assigning them to an engagement. The User Details page is specific to each user and includes more information such as the engagements that this user is or was assigned to. 
 
 </details>
 
@@ -245,7 +244,7 @@ After creating a survey, you can select which questions will be displayed on the
 <details onclick="toggleSymbol(this)">
 <summary>How do I change the option to automatically send a report when the survey closes?<span class="symbol">+</span></summary>
 
-Go to edit your desired engagement, then go to the Engagement Settings tab and toggle off the "Send Report".
+Go to edit your desired engagement, then go to the Engagement Settings tab and toggle off the "Send Report". 
 
 </details>
 
@@ -257,11 +256,11 @@ Go to edit your desired engagement, then go to the URL (links) tab and copy the 
 </details>
 
 <details onclick="toggleSymbol(this)">
-<summary>Where can I see the internal report?<span class="symbol">+</span></summary>
+<summary>Where do I view the internal and public reports for my engagement?<span class="symbol">+</span></summary>
 
-From the Engagement Listing page or Survey Listing page, click on the action drop-down for your desired engagement and choose "View Report - Internal". 
+You can view the Public Report and the Internal Report from the Actions drop-down on the Engagement and Survey Listing pages.
 
-</details>
+Learn mre about the reports on the <a href="https://bcgov.github.io/met-guide/posts/report/">Report</a> page. 
 
 </details>
 
@@ -298,7 +297,7 @@ You cannot ask for personal information anywhere in your survey. All survey ques
 </details>
 
 <details onclick="toggleSymbol(this)">
-<summary>Where can I find the Privacy Impact Assesment (PIA) for this tool?<span class="symbol">+</span></summary>
+<summary>Where can I find the Privacy Impact assessment (PIA) for this tool?<span class="symbol">+</span></summary>
 
 Please contact your appointed lead for a copy of the Privacy Impact Assessment (PIA). 
 
