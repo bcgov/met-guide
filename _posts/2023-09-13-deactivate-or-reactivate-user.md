@@ -6,7 +6,7 @@ tags: [users, roles, deactivate, reactivate]
 pin: true
 ---
 
-## Need 1 more image
+## Card completed - MA pls validate
 
 As a Superuser, you can Deactivate and Reactivate users in the application.  
 
@@ -20,4 +20,4 @@ Reactivating a user will regain their access to the system as their last role up
 
 If the user is reactivated as a Team Member or Reviewer, you will have to manually add them back to engagements. They will not be automatically readded to their previous engagements. 
 
-**insert image of action drop down with 'reinstate' for a user that was just reactivated**
+![Reinstate](/assets/UserGuideImages/Images/deactivate-or-reactivate-user/deactivate-or-reactivate-user/action-drop-down-reinstate.png){: .light .w-75 .shadow .rounded-10}
