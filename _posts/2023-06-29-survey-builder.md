@@ -1,6 +1,6 @@
 ---
 title: Survey Builder
-date: 2023-09-27 20:55:00 +0800
+date: 2023-08-25 20:55:00 +0800
 categories: [pages/features, survey, create, pages]
 tags: [survey builder, questions, question types, comments, hidden, template]
 pin: true
