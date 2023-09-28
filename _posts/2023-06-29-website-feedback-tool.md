@@ -16,6 +16,8 @@ After clicking **Website Feedback** on the left side panel, you will see the Fee
 
 This page will show the feedback emoticon, date published, source, feedback type, feedback message, and an action column.   
 
-The "Actions" column has a drop-down for each entry which allows you to mark the issue as resolved.
+The "Actions" column has an action drop-down for each entry which allows you to archive or delete feedback. Any feedback containing personal information must be deleted.
+
+The "Archive" button will take you to a listing of archived feedback, where you can delete any from the action drop-down.
 
 ![Website Feedback](/){: .light .shadow .rounded-10}
