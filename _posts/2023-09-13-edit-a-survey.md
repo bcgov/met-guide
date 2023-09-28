@@ -6,7 +6,7 @@ tags: [edit]
 pin: true
 ---
 
-## Add 1 Image
+## Card completed - MA pls validate
 
 Superusers can edit *Hidden*, *Ready* and *Linked* surveys as long as the engagement they are linked to is not yet scheduled or published. Team Members can edit a survey attached to an engagement they are assigned to as long as the engagement it is linked to is not yet scheduled or published. Surveys that have been scheduled/published can no longer be edited. 
 
@@ -24,7 +24,7 @@ From the Survey Listing page, find the survey you wish to edit. To edit the surv
 
 Alternatively, from the Engagement Details page, scroll down to the Survey section and click the edit icon on the survey card.
 
-  ## Add image of Survey block on engagement details.
+![Survey block](/assets/UserGuideImages/Images/edit-a-survey/edit-from-survey-block-on-engagement-details.png){: .light .w-75 .shadow .rounded-10}  
 
 You will be directed to the survey building page to edit your survey. For more information on building your survey, go to [Survey Builder](/met-guide/posts/survey-builder/).
 
