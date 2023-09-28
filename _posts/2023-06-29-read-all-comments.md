@@ -6,7 +6,7 @@ tags: [read comments, review comments, csv, issue tracking table, status]
 pin: true
 ---
 
-## change images for new one with icons/csv
+## Card completed - MA pls validate
 
 The **Read All Comments** page shows an expanded view of all comment submissions on an engagement/survey. 
 
