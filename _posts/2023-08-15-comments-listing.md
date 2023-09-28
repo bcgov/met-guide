@@ -11,7 +11,7 @@ The **Comment Listing** page is where all the comments from an engagement survey
 
 The top of the page will provide various ways to filter comments: Status, Reviewer, or Date Range.  
 
-At the top right, you can click the **Read All Comments** button which expands each submission so you can read all the comments at once. For more information on the Read All Comments page, go to the [Read All Comments page](/met-guide/posts/read-all-comments-page/).  
+At the top right, you can click the **Read All Comments** button which expands each submission so you can read all the comments at once. For more information on the Read All Comments page, go to the [Read All Comments](/met-guide/posts/read-all-comments-page/) page.  
 
 Depending on your role in the system, you will have different authorizations for reviewing comments.  
 
