@@ -300,7 +300,7 @@ You cannot ask for personal information anywhere in your survey. All survey ques
 <details onclick="toggleSymbol(this)">
 <summary>Where can I find the Privacy Impact Assesment (PIA) for this tool?<span class="symbol">+</span></summary>
 
-View the <a href="https://apps.nrs.gov.bc.ca/int/jira/servicedesk/customershim/secure/attachment/144247/144247_PINT-1110+Modern+Engagement+Tools+%28Final%29+-+IL+and+Assoc+DM+signed.pdf?fromIssue=291357">Privacy Impact Assessment</a>. If you cannot access this file, please contact your appointed lead for a copy. 
+Please contact your appointed lead for a copy of the Privacy Impact Assessment (PIA). 
 
 </details>
 
