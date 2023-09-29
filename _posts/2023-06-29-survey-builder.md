@@ -15,7 +15,7 @@ On the survey builder page, you can edit your survey name by clicking the *edit*
 
 You can also turn on/off the multi-page option. Please note that if you toggle this option on/off after adding some content, you will lose all the content you created so far (even if you have previously saved your survey).
 
-The left panel includes all the draggable survey components that you can choose to add to your survey. All survey components are powered by forms.io. For more information on forms.io, visit the [form.io help centre](https://help.form.io/). Please note, form.io has been customized to make it easier to use. The version you see on the website might differ from the one used in EPIC.engage.
+The left panel includes all the draggable survey components you can choose to add to your survey. All survey components are powered by forms.io. For more information on forms.io, visit the [form.io help centre](https://help.form.io/). Please note, form.io has been customized to make it easier to use. The version you see on the website might differ from the one used in EPIC.engage.
 
 Below the left panel, you will see the options to hide your survey and make your survey a template.
 
@@ -65,15 +65,19 @@ The content component lets you add text and format it with a rich-text editor. U
 
 - **Single Line Answer**:
 
-This is used to add a question that requires a short answer only. The respondent will have to enter their answer in a single line of text or less. Single Line Answers are considered a "written comment" and will have to be reviewed to be approved 
+This is used to add a question that requires a short answer only. The respondent will have to enter their answer in a single line of text or less. Single Line Answers are considered a "written comment" and will have to be reviewed. Approved Single Line Answers will show in the comments section of the internal report and public report (unless it was selected to not be included in the public report on the Report Settings page).
 
 ![Single Line Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-single-line-answer-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - **Multiple Lines Answer**:
 
+This is used to add a question that requires a long answer. The respondents will be able to enter as much text as they want unless a rule to limit the number of characters or words on the validation tab. Multiple Lines Answers are considered a "written comment" and will have to be reviewed. Approved Multiple Lines answers will show in the comments section of the internal report and public report (unless it was selected to not be included in the public report on the Report Settings page).
+
 ![Multiple Line Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-multiple-lines-answer-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - **Drop-down**:
+
+This component is used to allow the to ask respondents to select a one or many options from a long list of five or more options such as a list of geographic areas. 
 
 ![Drop Down Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-drop-down-answer-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
