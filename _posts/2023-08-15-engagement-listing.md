@@ -6,7 +6,7 @@ tags: [create, comments, preview, comment status, actions]
 pin: true
 ---
 
-## Replace Image of search (unpublish added)
+## MA pls validate
 
 After clicking *Engagements* on the left side panel, you will be directed to the engagement listing page.  
 
@@ -14,8 +14,7 @@ After clicking *Engagements* on the left side panel, you will be directed to the
 
 At the top of the page, you can search for engagements by name or through the advanced search option. The advanced search allows you to filter results based on different engagement statuses, characteristics (metadata) and date range.  
 
-##Replace
-![Advanced Search](/assets/UserGuideImages/Images/engagement-listing/engagement-listing-advanced-search-dropdown.png){: .light .shadow .rounded-10}
+![Advanced Search](/assets/UserGuideImages/Images/engagement-listing/engagement-listing-advanced-search.png){: .light .shadow .rounded-10}
 
 At the top right of the page, you can select the *+ Create Engagement* button (Superuser only). For more information on engagement creation, go to [Create An Engagement](/met-guide/posts/create-engagement/).
 
