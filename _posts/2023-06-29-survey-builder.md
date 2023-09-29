@@ -7,16 +7,9 @@ pin: true
 ---
 ## MA add info about each component
 
-The **Survey Builder** allows you to create and customize surveys from scratch, or clone an existing survey.  
+The **Survey Builder** allows you to create and customize surveys from scratch, or clone existing surveys or templates and edit them. 
 
-Once you are on the [Survey Listing page](/met-guide/posts/survey-listing/), you can click **+ Create Survey** on the top right corner.  
-
-![Create Survey](/assets/UserGuideImages/Images/survey-builder/survey-builder-survey-listing-page-with-create-survey-circled.png){: .light .shadow .rounded-10}
-
-You can choose to either:
-1. *Create a new survey:* This will allow you to start creating a survey entirely from scratch.
-   
-2. *Clone an existing survey/template:* This will allow you to duplicate the survey components from an already existing survey. This can be useful when an engagement requires the same questions/information at a different phase in the engagement. If *Clone an existing survey/template* is selected, the same questions, layout and survey components will carry over to the new survey. However, all survey components are still editable and can be deleted or added as needed.  
+Learn more about creating a new survey on the [Create a New Survey](/met-guide/posts/create-survey/) page or about editing a survey on the [Edit a Survey](/met-guide/posts/edit-survey/). Once you have created or cloned your survey, or want to edit your survey, you'll do this in the Survey Builder.
 
 ![Create Survey Click](/assets/UserGuideImages/Images/survey-builder/survey-builder-page-that-appears-once-create-survey-is-clicked_.png){: .light .shadow .rounded-10}
 
@@ -30,8 +23,7 @@ The left panel includes all the draggable survey components that you can choose 
 
 Survey components are entirely customizable depending on your survey type. Some surveys may only use one or two components, while others may choose to use all of them.  
 
-Each survey component will include settings respective to their function. Some components such as the Header will only have Display settings, while components such as the Category Comment will have other sections offering more options for entering data and component customization.  
-
+Each survey component will include settings respective to their function. Some components such as the Header will only have Display settings, while components such as radio buttons or checkboxes will have other sections offering more options for entering data and component customization.  
 ![Component tabs](/assets/UserGuideImages/Images/survey-builder/survey-builder-component-with-only-one-tab-of-settings-vs-one-with-all-of-them.png){: .light .shadow .rounded-10}
 
 #### Settings   
@@ -40,7 +32,7 @@ Each survey component will include settings respective to their function. Some c
   
 - **Values**: Data settings mostly relate to how data is set or how data is interacted with between fields. Use Data Settings to set a default value or set up data calculation.
   
-- **Validation**: Settings found in the Validation Tab relate directly to the configurable Front-End and Back-End validations for the field. Validation cover settings such as required fields, unique data, min/max requirements, custom validations, and custom error messages.
+- **Validation**: Settings found in the Validation Tab relate directly to the configurable Front-End and Back-End validations for the field. Validation covers settings such as required fields, unique data, min/max requirements, custom validations, and custom error messages.
   
 - **Conditions**: The simple conditional option triggers a condition based on the data input of a single field on a form.
 
