@@ -57,6 +57,12 @@ This will allow you to add a pre-formatted paragraph. Please note, that if you w
   
 ![Paragraph Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-paragraph-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
+- **Content**:
+
+The content component lets you add text and format it with a rich-text editor. Use the content component if you want to add links, lists, images, quotes, or tables. Tables are useful if you want to display information as a grid or text in columns.
+
+![Content Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-content-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
+
 - **Single Line Answer**:
 
 This is used to add a question that requires a short answer only. The respondent will have to enter their answer in a single line of text or less. Single Line Answers are considered a "written comment" and will have to be reviewed to be approved 
