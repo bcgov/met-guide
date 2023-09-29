@@ -15,7 +15,7 @@ The **Report Settings** page allows you to customize which survey questions appe
 You can access the Report Settings page two ways:
 - After you Create a Survey [link] and click the *Save & Continue* button, you will be automatically directed to the Report Settings page.
 
-    ![Save and Continue](/assets/UserGuideImages/Images/report-settings/survey-save-and-continue.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
+    ![Save and Continue](/assets/UserGuideImages/Images/report-settings/report-settings-survey-save-and-continue.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - From the Survey Listing page after selecting *Edit Settings* from an Actions drop-down.
   
