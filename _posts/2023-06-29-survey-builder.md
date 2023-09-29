@@ -11,12 +11,6 @@ The **Survey Builder** allows you to create and customize surveys from scratch, 
 
 Learn more about creating a new survey on the [Create a New Survey](/met-guide/posts/create-survey/) page or about editing a survey on the [Edit a Survey](/met-guide/posts/edit-survey/). Once you have created or cloned your survey, or want to edit your survey, you'll do this in the Survey Builder.
 
-![Create Survey Click](/assets/UserGuideImages/Images/survey-builder/survey-builder-page-that-appears-once-create-survey-is-clicked_.png){: .light .shadow .rounded-10}
-
-Whether you choose to *Create a new survey* or *Clone an existing survey/template*, you will have to enter a survey name, indicate if it will be multi-page, and agree to the disclaimer and statement of responsibility for Survey Designers. 
-
-After clicking Save and Continue, you will be directed to the **Survey Builder** page.  
-
 The left panel includes all the draggable survey components that you can choose to add to your survey. All survey components are powered by forms.io. For more information on forms.io, visit the [form.io help centre](https://help.form.io/). Please note, form.io has been customized to make it easier to use. The version you see on the website might differ from the one used in EPIC.engage.
 
 #### Survey Components  
@@ -44,13 +38,19 @@ Below are examples of the survey components available in this tool.
 
 - **Header**:
 
+This will allow you to add a pre-formatted header. 
+
 ![Header Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-header-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - **Paragraph**:
+
+This will allow you to add a pre-formatted paragraph. Please note, that if you want to add links or images, you will need to use the more advanced *Content* component.
   
 ![Paragraph Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-paragraph-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - **Single Line Answer**:
+
+This is used to add a question that requires a short answer only. The respondent will have to enter their answer in a single line of text or less. Single Line Answers are considered a "written comment" and will have to be reviewed to be approved 
 
 ![Single Line Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-single-line-answer-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
