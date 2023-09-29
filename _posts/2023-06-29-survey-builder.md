@@ -77,7 +77,7 @@ This is used to add a question that requires a long answer. The respondents will
 
 - **Drop-down**:
 
-This component is used to allow the to ask respondents to select a one or many options from a long list of five or more options such as a list of geographic areas. 
+This component is used to ask respondents to select one or many options from a long list of five or more options such as a list of geographic areas. 
 
 ![Drop Down Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-drop-down-answer-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
@@ -89,9 +89,6 @@ This component is used to allow the to ask respondents to select a one or many o
 
 ![Postal Code Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-postal-code-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
-- **Content**:
-
-![Content Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-content-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
   
 - **Radio Button**:
 
