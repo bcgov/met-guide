@@ -10,7 +10,7 @@ pin: true
 
 The **Report Settings** page allows you to customize which survey questions appear in the public report. You can change the settings until the Survey is linked to an engagement and that engagement is scheduled/published.
 
-**insert image of Report settings page**  
+![Report Settings page](/assets/UserGuideImages/Images/report-settings/report-settings-page.png){: .light .shadow .rounded-10}
 
 You can access the Report Settings page two ways:
 - After you Create a Survey [link] and click the *Save & Continue* button, you will be automatically directed to the Report Settings page.
