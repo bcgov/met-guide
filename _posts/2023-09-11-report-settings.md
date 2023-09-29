@@ -14,12 +14,12 @@ The **Report Settings** page allows you to customize which survey questions appe
 
 You can access the Report Settings page two ways:
 - After you Create a Survey [link] and click the *Save & Continue* button, you will be automatically directed to the Report Settings page.
-  
-  **insert image of bottom of create survey page with 'save and continue' at bottom**
+
+    ![Save and Continue](/assets/UserGuideImages/Images/report-settings/survey-save-and-continue.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - From the Survey Listing page after selecting *Edit Settings* from an Actions drop-down.
   
-  **insert image of survey listing page with action drop down w edit settings**
+   **insert image of edit settings drop down**
 
 From the Report Settings page, you will see a link to the public report dashboard and a way to search for questions at the top of the page. Below that, you can select/deselect which questions you would like to include in the public report from the left column. Upon saving, you will be automatically redirected to the Survey Listing page. 
 
