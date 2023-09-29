@@ -19,7 +19,7 @@ You can access the Report Settings page two ways:
 
 - From the Survey Listing page after selecting *Edit Settings* from an Actions drop-down.
   
-   **insert image of edit settings drop down**
+    ![Edit Settings Drop-down](/assets/UserGuideImages/Images/report-settings/edit-survey-drop-down.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 From the Report Settings page, you will see a link to the public report dashboard and a way to search for questions at the top of the page. Below that, you can select/deselect which questions you would like to include in the public report from the left column. Upon saving, you will be automatically redirected to the Survey Listing page. 
 
