@@ -5,9 +5,6 @@ categories: [pages/features, engagement, listing, pages]
 tags: [create, comments, preview, comment status, actions]
 pin: true
 ---
-
-## MA pls validate
-
 After clicking *Engagements* on the left side panel, you will be directed to the engagement listing page.  
 
 ![Engagement Listing](/assets/UserGuideImages/Images/engagement-listing/engagement-listing-photo-of-page.png){: .light .shadow .rounded-10}
