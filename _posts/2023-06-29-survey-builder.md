@@ -11,7 +11,16 @@ The **Survey Builder** allows you to create and customize surveys from scratch, 
 
 Learn more about creating a new survey on the [Create a New Survey](/met-guide/posts/create-survey/) page or about editing a survey on the [Edit a Survey](/met-guide/posts/edit-survey/). Once you have created or cloned your survey, or want to edit your survey, you'll do this in the Survey Builder.
 
+On the survey builder page, you can edit your survey name by clicking the *edit* icon next to your survey name. 
+
+You can also turn on/off the multi-page option. Please note that if you toggle this option on/off after adding some content, you will lose all the content you created so far (even if you have previously saved your survey).
+
 The left panel includes all the draggable survey components that you can choose to add to your survey. All survey components are powered by forms.io. For more information on forms.io, visit the [form.io help centre](https://help.form.io/). Please note, form.io has been customized to make it easier to use. The version you see on the website might differ from the one used in EPIC.engage.
+
+Below the left panel, you will see the options to hide your survey and make your survey a template.
+
+Learn more about hiding a survey on the [Hide a Survey](/met-guide/posts/hide-a-survey/) page.
+Learn more about saving your survey as a template on the [Save Survey as a Template](/met-guide/posts/save-survey-as-template/) page.
 
 #### Survey Components  
 
