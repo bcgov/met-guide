@@ -13,7 +13,7 @@ Learn more about creating a new survey on the [Create a New Survey](/met-guide/p
 
 On the survey builder page, you can edit your survey name by clicking the *edit* icon next to your survey name. 
 
-You can also turn on/off the multi-page option. Please note that if you toggle this option on/off after adding some content, you will lose all the content you created so far (even if you have previously saved your survey).
+You can also turn on/off the multi-page option. Please note: if you toggle this option on/off after adding some content, you will lose all the content you created so far (even if you have previously saved your survey).
 
 The left panel includes all the draggable survey components you can choose to add to your survey. All survey components are powered by forms.io. For more information on forms.io, visit the [form.io help centre](https://help.form.io/). Please note, form.io has been customized to make it easier to use. The version you see on the website might differ from the one used in EPIC.engage.
 
@@ -37,7 +37,7 @@ Each survey component will include settings respective to their function. Some c
   
 - **Validation**: Settings found in the Validation Tab relate directly to the configurable Front-End and Back-End validations for the field. Validation covers settings such as required fields, unique data, min/max requirements, custom validations, and custom error messages.
   
-- **Conditions**: The simple conditional option triggers a condition based on the data input of a single field on a form.
+- **Conditions**: The simple conditional option triggers a condition based on the data input of a single field on a form. For example, if the answer to question 1 is A, display Question B. You can also implement more advanced conditions by using JavaScript.
 
 For more information on the component settings, please visit {https://help.form.io/userguide/form-building/component-settings}.
 
@@ -83,9 +83,13 @@ This component is used to ask respondents to select one or many options from a l
 
 - **Likert**:
 
+A Likert matrix is a type of rating scale used to measure attitudes or opinions across various questions or statements. Each row of the matrix contains a statement or question, and respondents are asked to indicate their level of agreement or frequency on a consistent scale, typically ranging from "Strongly Disagree" to "Strongly Agree" or similar labels. It's especially useful in surveys or questionnaires when one wants to gauge the intensity of feelings or perceptions on multiple items in a standardized manner. The Likert matrix simplifies data collection and analysis by presenting a uniform set of response options for a series of statements.
+
 ![Likert Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-likert-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - **Postal Code**:
+
+  
 
 ![Postal Code Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-postal-code-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
