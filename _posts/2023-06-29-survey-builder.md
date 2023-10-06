@@ -89,7 +89,7 @@ A Likert matrix is a type of rating scale used to measure attitudes or opinions 
 
 - **Postal Code**:
 
-  
+Use the Portal Code component to collect the first three characters of a Canadian postal code. This can be used to understand the location of your respondents. Please note: EPIC.engage does not currently support the display of the locations captured by this component on a map. A third-party software will have to be used to analyze the data collected. Please make sure you have the PIA to collect that information
 
 ![Postal Code Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-postal-code-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
