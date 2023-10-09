@@ -89,26 +89,23 @@ A Likert matrix is a type of rating scale used to measure attitudes or opinions 
 
 - **Postal Code**:
 
-Use the Portal Code component to collect the first three characters of a Canadian postal code. This can be used to understand the location of your respondents. Please note: EPIC.engage does not currently support the display of the locations captured by this component on a map. A third-party software will have to be used to analyze the data collected. Please make sure you have the PIA to collect that information
+Use the Portal Code component to collect the first three characters of a Canadian postal code. This can be used to understand the location of your respondents. Please note: EPIC.engage does not currently support the display of the locations captured by this component on a map. A third-party software will have to be used to analyze the data collected. Please make sure you have the PIA to collect that information and hide this question from the Public Report on the Report Settings page.
 
 ![Postal Code Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-postal-code-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
   
 - **Radio Button**:
 
+Radio Buttons allow users to select one option from a set of predefined choices. When a radio button within a group is selected, any previously selected radio button in the same group is automatically deselected, ensuring that only one choice is made. They are best used when you want to ensure the user selects only one option from a list, such as choosing a payment method or selecting a gender.
+
 ![Radio Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-radio-button-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - **Checkbox**:
 
+Checkboxes allow users to select multiple options from a set of choices. Each checkbox operates independently, allowing more than one to be checked at a time. They are ideal for scenarios where multiple selections are acceptable, like choosing hobbies or selecting features for a product.
+
 ![Checkbox Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-checkbox-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
-- **Category Checkbox**:
-
-![Category Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-category-checkbox-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
-
-- **Category Comment**:  
-
-![Category Comment Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-category-comment-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - **HTML Element**
 
