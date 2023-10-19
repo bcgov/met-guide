@@ -5,8 +5,6 @@ categories: [pages/features, survey, create, pages]
 tags: [survey builder, questions, question types, comments, hidden, template]
 pin: true
 ---
-## MA add info about each component
-
 The **Survey Builder** allows you to create and customize surveys from scratch, or clone existing surveys or templates and edit them. 
 
 Learn more about creating a new survey on the [Create a New Survey](/met-guide/posts/create-survey/) page or about editing a survey on the [Edit a Survey](/met-guide/posts/edit-survey/). Once you have created or cloned your survey, or want to edit your survey, you'll do this in the Survey Builder.
@@ -116,23 +114,27 @@ HTML element is a more advanced component that offers the option to add a variet
 
 **Advanced Conditions using Javascript**
 
-Most components' conditions can be set directly in the modal on the Conditions tab. You can also use JavaScript to set more advanced conditions. If you want to add conditions to a Likert Matrix, JavaScript is the only way to do so. Here is an example of code you can use to add conditions to a likert.
+Most components' conditions can be set directly in the modal on the Conditions tab. You can also use JavaScript to set more advanced conditions. If you want to add conditions to a Likert Matrix, JavaScript is the only way to do so. Here is an example of code you can use to add conditions to a Likert.
+
+To add conditions using JavaScript, you have to select the "Edit JSON" option from the small icons that appear on the right as you hover over the component.
+
+![HTML Component](/assets/UserGuideImages/Images/survey-builder/edit-JSON.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 Likert Matrix conditional coding:
 
 Show a subsequent question if a single sub-question within a Likert matrix has one of a select number of responses
 
-'show = ["responseOption1", "responseOption2", "responseOption3"].includes(data.questionId.subQuestionId)
-e.g. show = ["effective", "veryEffective", "somewhatEffective"].includes(data.simplesurvey1.other)'
+`show = ["responseOption1", "responseOption2", "responseOption3"].includes(data.questionId.subQuestionId)
+e.g. show = ["effective", "veryEffective", "somewhatEffective"].includes(data.simplesurvey1.other)`
 
 Show a subsequent question if a single sub-question within a Likert matrix has a single response. 
 
-'show = data.questioniD.subQuestionId == "responseOption"
-e.g. show = data.simplesurvey2.other == "effective"'
+`show = data.questioniD.subQuestionId == "responseOption"
+e.g. show = data.simplesurvey2.other == "effective"`
 
 True when any sub-question has a given set of responses:
 Show a subsequent question when any sub-question within a likert matrix has one of a select number of responses
 
-'show = Object.values(data.questionId).some(value => ["responseOption1", "responseOption2"].includes(value))
-e.g. show = Object.values(data.simplesurvey4).some(value => ["important", "veryImportant"].includes(value))'
+`show = Object.values(data.questionId).some(value => ["responseOption1", "responseOption2"].includes(value))
+e.g. show = Object.values(data.simplesurvey4).some(value => ["important", "veryImportant"].includes(value))`
   
