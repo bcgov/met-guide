@@ -33,11 +33,11 @@ Each survey component will include settings respective to their function. Some c
 
 - **Display**: These are settings that modify the front-end UI of a component. The Display setting tab will be the first tab open when editing the component settings.
   
-- **Values**: Data settings mostly relate to how data is set or how data is interacted with between fields. Use Data Settings to set a default value or set up data calculation.
+- **Values**: Values settings relate to how Values are set or how Values are interacted with between fields. Use Values Settings to set a default value or set up data calculation. For example, if you add a question that can be answered with Radio Buttons, you would set the possible answers to your question here. (For example, Yes and No). The label is what will show in your survey. The Value is auto-generated and is what the system will use. If you set a conditional question, you'll use the values to set it up.
   
 - **Validation**: Settings found in the Validation Tab relate directly to the configurable Front-End and Back-End validations for the field. Validation covers settings such as required fields, unique data, min/max requirements, custom validations, and custom error messages.
   
-- **Conditions**: The simple conditional option triggers a condition based on the data input of a single field on a form. For example, if the answer to question 1 is A, display Question B. You can also implement more advanced conditions by using JavaScript.
+- **Conditions**: The simple conditional option triggers a condition based on the data input of a single field on a form. For example, if the answer to question 1 is A, display Question B. You can also implement more advanced conditions by using JavaScript. Learn more about JavaScript Validation at the bottom of the page.
 
 For more information on the component settings, please visit {https://help.form.io/userguide/form-building/component-settings}.
 
@@ -83,7 +83,7 @@ This component is used to ask respondents to select one or many options from a l
 
 - **Likert**:
 
-A Likert matrix is a type of rating scale used to measure attitudes or opinions across various questions or statements. Each row of the matrix contains a statement or question, and respondents are asked to indicate their level of agreement or frequency on a consistent scale, typically ranging from "Strongly Disagree" to "Strongly Agree" or similar labels. It's especially useful in surveys or questionnaires when one wants to gauge the intensity of feelings or perceptions on multiple items in a standardized manner. The Likert matrix simplifies data collection and analysis by presenting a uniform set of response options for a series of statements.
+A Likert matrix is a type of rating scale used to measure attitudes or opinions across various questions or statements. Each row of the matrix contains a statement or question, and respondents are asked to indicate their level of agreement or frequency on a consistent scale, typically ranging from "Strongly Disagree" to "Strongly Agree" or similar labels. It's especially useful in surveys or questionnaires when one wants to gauge the intensity of feelings or perceptions on multiple items in a standardized manner. The Likert matrix simplifies data collection and analysis by presenting a uniform set of response options for a series of statements. Learn more about how to apply conditions to Likert using JavaScript at the bottom of the page.
 
 ![Likert Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-likert-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
@@ -106,10 +106,33 @@ Checkboxes allow users to select multiple options from a set of choices. Each ch
 
 ![Checkbox Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-checkbox-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
+## Advanced
 
 - **HTML Element**
 
+HTML element is a more advanced component that offers the option to add a variety of custom-built sections through HTML. You can add your HTML tag (p, table, img etc), and style it by adding a CSS class and its attribute and value.
+
 ![HTML Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-html-element-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
+**Advanced Conditions using Javascript**
 
+Most components' conditions can be set directly in the modal on the Conditions tab. You can also use JavaScript to set more advanced conditions. If you want to add conditions to a Likert Matrix, JavaScript is the only way to do so. Here is an example of code you can use to add conditions to a likert.
+
+Likert Matrix conditional coding:
+
+Show a subsequent question if a single sub-question within a Likert matrix has one of a select number of responses
+
+'show = ["responseOption1", "responseOption2", "responseOption3"].includes(data.questionId.subQuestionId)
+e.g. show = ["effective", "veryEffective", "somewhatEffective"].includes(data.simplesurvey1.other)'
+
+Show a subsequent question if a single sub-question within a Likert matrix has a single response. 
+
+'show = data.questioniD.subQuestionId == "responseOption"
+e.g. show = data.simplesurvey2.other == "effective"'
+
+True when any sub-question has a given set of responses:
+Show a subsequent question when any sub-question within a likert matrix has one of a select number of responses
+
+'show = Object.values(data.questionId).some(value => ["responseOption1", "responseOption2"].includes(value))
+e.g. show = Object.values(data.simplesurvey4).some(value => ["important", "veryImportant"].includes(value))'
   
