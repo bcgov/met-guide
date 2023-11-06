@@ -12,7 +12,7 @@ The **Engagement Details** tab allows you to build your engagement from scratch.
 The fields in this tab include:
 1. Engagement Name: Name or title of your engagement.
    
-2. Engagement Dates: These are the dates the engagement will be open to the public to provide feedback. You can publish the engagement so it is live and visible to the public before the engagement opens. The day calculator function on the right side helps you to calculate the number of days an engagement will be open.
+2. Engagement Dates: These are the dates the engagement will be open to the public to provide feedback. You can publish the engagement so it is live and visible to the public before the engagement opens. The day calculator function on the right side helps you to calculate the number of days an engagement will be open. Engagements will open (be accessible to the public) just a few seconds past midnight on the date the Engagement starts, or as soon as the engagement page is published if the Engagement start date is the current data or before. 
    
 3. Header Image: This image should be representative of the project or specific engagement. The image should be 1920px x 480px. You can add a larger image and crop it to this size after you upload it. The cropping feature is set to the correct size automatically. 
    
