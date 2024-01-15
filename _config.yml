@@ -18,7 +18,7 @@ timezone: US/Pacific
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: EPIC.engage
+title: Modern Engagement Tools
 
 tagline: User Guide for using MET # it will display as the sub-title
 
@@ -39,7 +39,7 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Government of British Columbia
   email: example@domain.com # change to your email address
-  links: #change to links 
+  links: #change to links
 
 google_site_verification: # fill in to your verification string
 
