@@ -13,7 +13,7 @@ On the survey builder page, you can edit your survey name by clicking the *edit*
 
 You can also turn on/off the multi-page option. Please note: if you toggle this option on/off after adding some content, you will lose all the content you created so far (even if you have previously saved your survey).
 
-The left panel includes all the draggable survey components you can choose to add to your survey. All survey components are powered by forms.io. For more information on forms.io, visit the [form.io help centre](https://help.form.io/). Please note, form.io has been customized to make it easier to use. The version you see on the website might differ from the one used in EPIC.engage.
+The left panel includes all the draggable survey components you can choose to add to your survey. All survey components are powered by forms.io. For more information on forms.io, visit the [form.io help centre](https://help.form.io/). Please note, form.io has been customized to make it easier to use. The version you see on the website might differ from the one used in Modern Engagement Tools.
 
 Below the left panel, you will see the options to hide your survey and make your survey a template.
 
@@ -87,7 +87,7 @@ A Likert matrix is a type of rating scale used to measure attitudes or opinions 
 
 - **Postal Code**:
 
-Use the Portal Code component to collect the first three characters of a Canadian postal code. This can be used to understand the location of your respondents. Please note: EPIC.engage does not currently support the display of the locations captured by this component on a map. A third-party software will have to be used to analyze the data collected. Please make sure you have the PIA to collect that information and hide this question from the Public Report on the Report Settings page.
+Use the Portal Code component to collect the first three characters of a Canadian postal code. This can be used to understand the location of your respondents. Please note: Modern Engagement Tools does not currently support the display of the locations captured by this component on a map. A third-party software will have to be used to analyze the data collected. Please make sure you have the PIA to collect that information and hide this question from the Public Report on the Report Settings page.
 
 ![Postal Code Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-postal-code-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
