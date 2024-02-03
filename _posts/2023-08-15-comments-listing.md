@@ -15,7 +15,7 @@ At the top right, you can click the **Read All Comments** button which expands e
 
 Depending on your role in the system, you will have different authorizations for reviewing comments.  
 
-As a Superuser, you will be able to review all comments on all engagements. 
+As an Administrator, you will be able to review all comments on all engagements. 
 As a Team Member, you will be able to review the comments on engagements you are assigned to.
 
 By clicking on a comment ID, you will access the [Comment Review page](/met-guide/posts/comment-review-page/) where you approve and reject all the comments from one submission, or indicate if they require further review.   

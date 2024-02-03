@@ -5,7 +5,7 @@ categories: [survey, getting started]
 tags: [survey, create, new] 
 pin: true
 ---
-Surveys can only be created by Superusers.  
+Surveys can only be created by Administrators.  
 
 To create a new survey from scratch:
 1. Go to the [Survey Listing](/met-guide/posts/survey-listing/) page

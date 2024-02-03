@@ -9,7 +9,7 @@ The **Video Widget** allows you to add a video link to your engagement.
 
 ![Video Widget Internal](/assets/UserGuideImages/Images/video-widget/video-widget-internal-side.png){: .light .shadow .rounded-10}
   
-After a Superuser creates an engagement, Superusers and Team Members can add widgets to display on the engagement page. For more information on widgets in general, please go to the [Widgets' page](/met-guide/posts/widgets/).
+After an Administrator creates an engagement, Administrators and Team Members can add widgets to display on the engagement page. For more information on widgets in general, please go to the [Widgets' page](/met-guide/posts/widgets/).
 
 After selecting **Video**, you can add a description and insert the video link. Please note that the video must be hosted on one of the compatible platforms: YouTube or Vimeo.  
 

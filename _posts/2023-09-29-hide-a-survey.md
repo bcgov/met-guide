@@ -5,13 +5,13 @@ categories: [survey, getting started]
 tags: [create, save, hide]
 pin: true
 ---
-You can hide a survey while you are working on it to keep it hidden from view until it is ready. Only Superusers will be able to view hidden surveys.
+You can hide a survey while you are working on it to keep it hidden from view until it is ready. Only Administrators will be able to view hidden surveys.
 
 To hide your survey, toggle on the option *Hide Survey* on the Survey Builder screen and save your survey.
    
 ![Toggle on](/assets/UserGuideImages/Images/hide-a-survey/hide-a-survey-image-of-toggle-on-hide-survey-on-survey-builder.png){: .light .shadow .rounded-10}
 
-Your template will be visible to Superusers only on the Survey Listing page with a "hidden" icon in the status column. 
+Your template will be visible to Administrators only on the Survey Listing page with a "hidden" icon in the status column. 
 
 ![Hidden Survey](/assets/UserGuideImages/Images/hide-a-survey/hide-a-survey-survey-listing-page-showing-a-hidden-survey.png){: .light .shadow .rounded-10}
 

@@ -5,7 +5,7 @@ categories: [engagement, getting started]
 tags: [create, details, survey, content, widgets]
 pin: true
 ---
-Engagements can only be created by Superusers. The steps to create an engagement are as follows:
+Engagements can only be created by Administrators. The steps to create an engagement are as follows:
 
 1. Click *Engagements* on the left side panel. You will be directed to the Engagement Listing page. For more information on the Engagement Listing page, go to [Engagement Listing](/met-guide/posts/engagement-listing/).
 2. Click the *+ Create Engagement* button on the top right.
@@ -15,7 +15,7 @@ Engagements can only be created by Superusers. The steps to create an engagement
 6. Add a survey to your engagement (if applicable). For more information on creating a survey, go to [Create Survey](/met-guide/posts/create-survey/).
 7. Click the *Save* or the *Preview* button at the bottom of the [Engagement Details](/met-guide/posts/engagement-details/) page.
 
-Once you have created your engagement, you can go back to it and edit it through the Actions drop-down on the Engagement Listing page. The engagement will be editable by a Superuser at any time, or by a Team Member until it is scheduled/published.
+Once you have created your engagement, you can go back to it and edit it through the Actions drop-down on the Engagement Listing page. The engagement will be editable by an Administrator at any time, or by a Team Member until it is scheduled/published.
 
 ![Action drop-down](/assets/UserGuideImages/Images/create-an-engagement/create-engagement-image-of-actions-drop-down.png){: .light .w-75 .shadow .rounded-10}
 

@@ -13,19 +13,19 @@ At the top of the page, you can search for surveys by name or through the advanc
 
 ![Advanced Search](/assets/UserGuideImages/Images/survey-listing/survey-listing-survey-advanced-search-drop-down.png){: .light .shadow .rounded-10}
 
-Superusers can create a survey by clicking the *+Create Survey* button. For more information on survey creation, go to [Survey Builder](/met-guide/posts/survey-builder/).
+Administrators can create a survey by clicking the *+Create Survey* button. For more information on survey creation, go to [Survey Builder](/met-guide/posts/survey-builder/).
 
 Each survey and its properties are grouped together by row. You can filter surveys alphabetically by Survey Name, chronologically by Date Created and Date Published, by their Status, and alphabetically by their corresponding engagement.
 
 The first column is the Survey Name. Clicking that link will open a preview of the survey. For more information on the Survey Preview page, go to [Preview Survey](/met-guide/posts/preview-survey/).
 
-The second column is Date Created. This is the date that a Superuser created the survey.
+The second column is Date Created. This is the date that an Administrator created the survey.
 
-The third column is Date Published. This is the date that a Survey attached to an engagement has been published by a Superuser.  
+The third column is Date Published. This is the date that a Survey attached to an engagement has been published by an Administrator.  
 
 The fourth column is the Status of the survey. Surveys can either be Hidden, Template, Ready or Linked.
 
-- Hidden: This is a survey that is only visible to Superusers. Surveys are usually Hidden when being built (Draft).
+- Hidden: This is a survey that is only visible to Administrators. Surveys are usually Hidden when being built (Draft).
 - Ready: This survey is ready to be cloned or linked to an engagement. (Toggling off the Hidden option in the Survey Builder will change its Status to Ready.)
 - Linked: This survey is linked to an engagement. It can be cloned but not directly attached to another engagement.
 - Template: This is a survey template that can be easily cloned and then edited.

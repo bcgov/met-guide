@@ -5,9 +5,9 @@ categories: [users, roles, getting started]
 tags: [users, roles, getting started]
 pin: true
 ---
-As a Superuser or Team Member, you can assign Team Members and Reviewers to engagements. 
+As an Administrator or Team Member, you can assign Team Members and Reviewers to engagements. 
 
-- A Superuser can assign **any** Team Member/Reviewer to **any** engagement. 
+- An Administrator can assign **any** Team Member/Reviewer to **any** engagement. 
 - A Team Member can assign **any** Team Member/Reviewer to engagements that they are already assigned to.
 
 There are two places where assigning a Team Member/Reviewer to an engagement can occur:
