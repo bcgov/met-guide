@@ -5,7 +5,7 @@ categories: [survey, getting started]
 tags: [edit]
 pin: true
 ---
-Superusers can edit *Hidden*, *Ready* and *Linked* surveys as long as the engagement they are linked to is not yet scheduled or published. Team Members can edit a survey attached to an engagement they are assigned to as long as the engagement it is linked to is not yet scheduled or published. Surveys that have been scheduled/published can no longer be edited. 
+Administrators can edit *Hidden*, *Ready* and *Linked* surveys as long as the engagement they are linked to is not yet scheduled or published. Team Members can edit a survey attached to an engagement they are assigned to as long as the engagement it is linked to is not yet scheduled or published. Surveys that have been scheduled/published can no longer be edited. 
 
 After creating and saving a survey, you can edit it from the [Survey Listing](/met-guide/posts/survey-listing/) page or directly from the engagement it is attached to.
 

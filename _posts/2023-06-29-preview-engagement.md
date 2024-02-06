@@ -17,7 +17,7 @@ On the top-right side, you can toggle the status of your engagement to see what 
 
 From the Preview Engagement page, you can go back to editing your engagement by clicking the *Edit Engagement* button. This will bring you back to the engagement creation screen.  
 
-When your engagement is ready, Superusers can schedule/Publish it from this page
+When your engagement is ready, Administrators can schedule/Publish it from this page
 
 At any point after previewing your engagement, you can navigate away from this screen. All your content will be saved for future edits or when publishing the engagement page.  
 

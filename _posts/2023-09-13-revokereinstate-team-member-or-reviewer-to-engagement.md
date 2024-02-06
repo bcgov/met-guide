@@ -5,7 +5,7 @@ categories: [user management, roles, getting started]
 tags: [users, roles, assign, revoke, reinstate]
 pin: true
 ---
-As a Superuser, you can revoke/reinstate Team Members and Reviewers to/from Engagements.  
+As an Administrator, you can revoke/reinstate Team Members and Reviewers to/from Engagements.  
 
 There are two places where revoking and reinstating can occur:
 

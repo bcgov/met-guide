@@ -9,7 +9,7 @@ The **Who is Listening Widget** allows you to add one or many contact(s) to an e
 
 ![Who is Listening Widget](/assets/UserGuideImages/Images/who-is-listening-widget/who-is-listening-widget-who-is-listening-widget-public-side.png){: .light .shadow .rounded-10}
 
-After a Superuser creates an engagement, Superusers and Team Members can add widgets to display on the engagement page. For more information on widgets in general, please go to the [Widgets' page](/met-guide/posts/widgets/).
+After an Administrator creates an engagement, Administrators and Team Members can add widgets to display on the engagement page. For more information on widgets in general, please go to the [Widgets' page](/met-guide/posts/widgets/).
 
 After selecting **Who is Listening**, you can either:
 - Add an existing contact from the drop-down and click *Add This Contact*

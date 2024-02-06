@@ -13,15 +13,15 @@ At the top of the page, you can search for engagements by name or through the ad
 
 ![Advanced Search](/assets/UserGuideImages/Images/engagement-listing/engagement-listing-advanced-search.png){: .light .shadow .rounded-10}
 
-At the top right of the page, you can select the *+ Create Engagement* button (Superuser only). For more information on engagement creation, go to [Create An Engagement](/met-guide/posts/create-engagement/).
+At the top right of the page, you can select the *+ Create Engagement* button (Administrator only). For more information on engagement creation, go to [Create An Engagement](/met-guide/posts/create-engagement/).
 
 Each engagement and its properties are grouped together by row. You can filter engagements alphabetically by Engagement Name, chronologically by Date Created and Date Published, and by Status.
 
 The first column is the Engagement Name. Clicking that link will open a preview of the engagement. For more information on the Engagement Preview page, go to [Preview & Publish Engagement](/met-guide/posts/preview-engagement/).
 
-The second column is Date Created. This is the date that a Superuser originally created this engagement.  
+The second column is Date Created. This is the date that an Administrator originally created this engagement.  
 
-The third column is Date Published. This is the date that a Superuser published the engagement for public viewing. 
+The third column is Date Published. This is the date that an Administrator published the engagement for public viewing. 
 
 The fourth column is the Status of the engagement. Engagements can either be Draft, Scheduled, Upcoming, Open, Closed, or Unpublished.  
 

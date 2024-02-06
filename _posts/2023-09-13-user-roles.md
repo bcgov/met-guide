@@ -2,7 +2,7 @@
 title: User Roles
 date: 2023-09-02 20:55:00 +0800
 categories: [user management, getting started]
-tags: [users, roles, ministry administrator, instance administrator, superuser, team member, reviewer, viewer]
+tags: [users, roles, ministry administrator, instance administrator, administrator, team member, reviewer, viewer]
 pin: true
 ---
 There are 6 roles within this tool, and 4 of them are assignable/visible to an internal user. 
@@ -11,7 +11,7 @@ There are 6 roles within this tool, and 4 of them are assignable/visible to an i
    
 3. **Instance Administrators**: This person is the owner of a ministries' instance and defines the requirements/settings for their use case.
    
-4. **Superusers**: The Superuser role has the highest system permissions. As a Superuser, you have the authority to:
+4. **Administrators**: The Administrator role has the highest system permissions. As an Administrator, you have the authority to:
   - Create new Engagements
   - Create new Surveys
   - Access all Engagements

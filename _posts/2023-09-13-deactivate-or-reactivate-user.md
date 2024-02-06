@@ -5,7 +5,7 @@ categories: [user management, roles, getting started]
 tags: [users, roles, deactivate, reactivate]
 pin: true
 ---
-As a Superuser, you can Deactivate and Reactivate users in the application.  
+As an Administrator, you can Deactivate and Reactivate users in the application.  
 
 From the [User Details](/met-guide/posts/user-details/) page, there will be a *Deactivate* or *Reactivate* button (depending on the user's status) on the top right of the screen.  
 

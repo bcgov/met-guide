@@ -11,7 +11,7 @@ The **Engagement User Management** tab is where you can add, revoke, and reinsta
 
 The person creating the engagement and the date that it was created will be displayed at the top of this page. The Team Members assigned to the engagement will be listed below. 
 
-As a Superuser, you can add, revoke, or reinstate a Team Member to/from any engagement.  
+As an Administrator, you can add, revoke, or reinstate a Team Member to/from any engagement.  
 
 As a Team Member, you can add, revoke, or reinstate another Team Member to/from engagements that you are already assigned to.  
 

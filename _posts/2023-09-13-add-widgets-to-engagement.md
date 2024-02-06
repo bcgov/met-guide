@@ -5,7 +5,7 @@ categories: [widget, engagement, getting started]
 tags: [who is listening, documents, map, video, signup for updates, EA Process]
 pin: true
 ---
-After a Superuser creates an engagement, Superusers and Team Members can add widgets to display on the engagement page. 
+After an Administrator creates an engagement, Administrators and Team Members can add widgets to display on the engagement page. 
 
 - To add a widget to your engagement, click the *Add Widget* button on the top right corner of the Engagement Detail page. 
 

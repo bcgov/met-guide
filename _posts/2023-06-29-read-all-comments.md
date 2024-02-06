@@ -13,7 +13,7 @@ You will be directed to this page after clicking 'Read All Comments' from the Co
 
 You can click on the comment ID number which will direct you to the Comment Review page. For more information on reviewing comments, go to the [Comment Review page](/met-guide/posts/comment-review-page/). 
 
-You can also click the *Export to CSV* button to download all the comments in a CSV file. For Superusers, there will be two options available: Public/Proponent and Internal Only/Detailed. Team Members can download the Public/Proponent version only.
+You can also click the *Export to CSV* button to download all the comments in a CSV file. For Administrators, there will be two options available: Public/Proponent and Internal Only/Detailed. Team Members can download the Public/Proponent version only.
 
 - Public/Proponent: This version includes all approved comments selected to be viewable on the Report Settings. Comments are randomized.
 - Internal Only/Detailed: This version includes all the comments by submission (including those not reviewed yet, approved, needing further review, and rejected. Full rejected comments will be available for two weeks after the engagement closes and will be redacted after this period of time), it also includes the submission ID, Date Submitted, Comment Status, Published Date, Reason for Rejection, Reviewer, and Project Name.
