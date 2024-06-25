@@ -48,14 +48,14 @@ The mandatory fields are:
 - Primary Contact Name: The name of the primary contact for this tenant. This is the individual who will be the main point of contact for this tenant.
 - Primary Contact Email: The email address of the primary contact for this tenant. This is the email address that will be used to contact the primary contact for this tenant.
 
-- Short Name: A short name for the tenant. This is used as the URL slug for pages that exist within this tenant, and thus must be unique among all tenants. It also displays in the header when the tenant name would be too long to fit.
+- Short Name: A short name for the tenant. This is used as the URL slug for pages that exist within this tenant, and thus must be unique among all tenants. It also displays in the header when the tenant name would be too long to fit. Often, this is an acronym or abbreviation of the tenant name.
 
 - Hero Banner Title: The title that will be displayed on the hero banner for this tenant. This is the large image that appears at the top of the tenant's home page.
 - Hero Banner Description: A long-form description that will be displayed on the hero banner for this tenant along with the title.
 
 The optional fields are:
 
-- Hero Banner Image: An image that will be displayed on the hero banner for this tenant. A default image will be used if this field is left empty.
+- Hero Banner Image: An image that will be displayed on the hero banner for this tenant. A default image will be used if this field is left empty. The image should be decorative and should not contain any important information.
 - Image Credit: The credit for the image that will be displayed on the hero banner for this tenant. This should contain the name of the person or organization that created the image.
 - Image Description: An _accessible_ description of the image. This will not be displayed, but will be used to describe the image for users who are using screen readers or other assistive technologies.
 
@@ -77,6 +77,6 @@ To delete a tenant, follow the steps in ["View Tenant Details"](#view-tenant-det
 
 ![A screenshot of the MET app. The top of the tenant details page for Government Digital Experience is displayed. The "Delete Tenant Instance" button has an icon of a trash can and is outlined in red.](/assets/UserGuideImages/Images/tenant-admin/tenant-admin-delete-tenant-button.png){: .light .w-75 .shadow .rounded-10}
 
-In the modal, you will be asked to confirm that you want to delete the tenant. If you are sure you want to proceed, select the **Delete Instance** button. This action is irreversible, so please be certain before proceeding.
+In the modal, you will be asked to confirm that you want to delete the tenant. If you are sure you want to proceed, select the **Delete Instance** button. All tenant data will be deleted. This includes engagements, widgets, collected responses, and any other data associated with the tenant. This action is irreversible; be certain of your decision before proceeding. Limited to 10 characters.
 
 ![A screenshot of the MET app. The "Delete Tenant" confirmation modal is displayed. The modal contains the text "Delete tenant instance?" and two buttons: "Cancel" and "Confirm". The "confirm" button is outlined in red. The details read, "Are you sure you want to delete "Government Digital Experience"? If you delete this tenant, all the data associated with it will be deleted. This action cannot be undone."](/assets/UserGuideImages/Images/tenant-admin/tenant-admin-delete-tenant-modal.png){: .light .w-75 .shadow .rounded-10}
