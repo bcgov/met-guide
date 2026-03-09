@@ -1,3 +1,8 @@
+## March 5, 2026
+
+- **Feature** Add Image Widget documentation - [DEP-135](https://citz-gdx.atlassian.net/browse/DEP-135)
+  - Added new page detailing how to use the Image Widget, including uploading and cropping images, and adding descriptions for accessibility. Added screenshots showing the widget in the admin interface and on the public engagement page.
+
 ## June 24, 2024
 
 - **Feature** Add new tenant admin documentation - [DESENG-650](https://citz-gdx.atlassian.net/browse/DESENG-650)
