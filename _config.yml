@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: "/met-guide"
+baseurl: "/dep-guide"
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -18,21 +18,21 @@ timezone: US/Pacific
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Modern Engagement Tools
+title: Digital Engagement Platform Guide # it will display as the site title and the title of the homepage
 
-tagline: User Guide for using MET # it will display as the sub-title
+tagline: A guide to the Digital Engagement Platform (DEP) for technical writers and content creators.  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://bcgov.github.io/met-guide/"
+url: "https://bcgov.github.io/dep-guide/"
 
 github:
-  username: bcgov/met-guide # change to your github username
+  username: bcgov/dep-guide # used in social links
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: twitter_username # used in social links
 
 social:
   # Change to your full name.

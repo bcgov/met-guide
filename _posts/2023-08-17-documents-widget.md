@@ -5,11 +5,12 @@ categories: [pages/features, engagement, widgets, features]
 tags: [documents, upload, link, folders]
 pin: true
 ---
+
 The **Documents Widget** allows you to add document(s) and links to your engagement, and organize them in folders if desired.
 
-![Documents Widget](/assets/UserGuideImages/Images/documents-widget/documents-widget-documents-widget-internal-with-2-folders-and-some-documents.png){: .light .shadow .rounded-10} 
+![Documents Widget](/assets/UserGuideImages/Images/documents-widget/documents-widget-documents-widget-internal-with-2-folders-and-some-documents.png){: .light .shadow .rounded-10}
 
-After an Administrator creates an engagement, Administrators and Team Members can add widgets to display on the engagement page. For more information on widgets, please go to [Widgets' page](/met-guide/posts/widgets/).
+After an Administrator creates an engagement, Administrators and Team Members can add widgets to display on the engagement page. For more information on widgets, please go to [Widgets' page](/dep-guide/posts/widgets/).
 
 After selecting the **Documents Widget**, you can either create a folder, add a document link, or upload a document.
 

@@ -13,7 +13,7 @@ function build(filename) {
     output: {
       file: `${JS_DIST}/${filename}.min.js`,
       format: 'iife',
-      name: 'MET',
+      name: 'DEP',
       sourcemap: !isProd
     },
     watch: {

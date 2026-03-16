@@ -1,3 +1,9 @@
+## March 16, 2026
+
+- **Task** Update all references to "MET" to "DEP" - [DEP-222](https://citz-gdx.atlassian.net/browse/DEP-222)
+  - Updated all instances of "MET" to "DEP" and "Modern Engagement Tools" to "Digital Engagement Platform" across the user guide. This change reflects the rebranding of the application to the Digital Engagement Platform.
+    - Also changed the URL slug for the user guide from "met-guide" to "dep-guide" to match the new name, and in anticipation of renaming the repository. Updated all internal links accordingly.
+
 ## March 5, 2026
 
 - **Feature** Add Image Widget documentation - [DEP-135](https://citz-gdx.atlassian.net/browse/DEP-135)

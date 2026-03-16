@@ -5,16 +5,17 @@ categories: [user management, roles, getting started]
 tags: [users, roles, deactivate, reactivate]
 pin: true
 ---
-As an Administrator, you can Deactivate and Reactivate users in the application.  
 
-From the [User Details](/met-guide/posts/user-details/) page, there will be a *Deactivate* or *Reactivate* button (depending on the user's status) on the top right of the screen.  
+As an Administrator, you can Deactivate and Reactivate users in the application.
 
-![Deactivate](/assets/UserGuideImages/Images/deactivate-or-reactivate-user/deactivate-or-reactivate-user/deactivate-or-reactivate-user-image-of-top-of-screen-with-deactivate-reactivate-circled.png){: .light .w-75 .shadow .rounded-10}  
+From the [User Details](/dep-guide/posts/user-details/) page, there will be a _Deactivate_ or _Reactivate_ button (depending on the user's status) on the top right of the screen.
 
-Deactivating a user will remove all their access to the application. They will no longer have login ability and their status on previously active engagements will be set to 'Deactivated'.  
+![Deactivate](/assets/UserGuideImages/Images/deactivate-or-reactivate-user/deactivate-or-reactivate-user/deactivate-or-reactivate-user-image-of-top-of-screen-with-deactivate-reactivate-circled.png){: .light .w-75 .shadow .rounded-10}
 
-Reactivating a user will regain their access to the system as their last role upon deactivation. *In other words, if someone was deactivated as a Team Member, they will be automatically reactivated as a Team Member.*  
+Deactivating a user will remove all their access to the application. They will no longer have login ability and their status on previously active engagements will be set to 'Deactivated'.
 
-If the user is reactivated as a Team Member or Reviewer, you will have to manually add them back to engagements. They will not be automatically readded to their previous engagements. 
+Reactivating a user will regain their access to the system as their last role upon deactivation. _In other words, if someone was deactivated as a Team Member, they will be automatically reactivated as a Team Member._
+
+If the user is reactivated as a Team Member or Reviewer, you will have to manually add them back to engagements. They will not be automatically readded to their previous engagements.
 
 ![Reinstate](/assets/UserGuideImages/Images/deactivate-or-reactivate-user/deactivate-or-reactivate-user/action-drop-down-reinstate.png){: .light .w-75 .shadow .rounded-10}

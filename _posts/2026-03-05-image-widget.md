@@ -8,7 +8,7 @@ pin: false
 
 The **Image Widget** allows you to display an image on your engagement page along with an optional description. This widget is ideal for showcasing photos, infographics, or any visual content that can enhance your engagement and provide additional context to your audience.
 
-After an Administrator creates an engagement, Administrators and Team Members can add widgets to display on the engagement page. For more information on widgets in general, please see the [Widgets page](/met-guide/posts/widgets/).
+After an Administrator creates an engagement, Administrators and Team Members can add widgets to display on the engagement page. For more information on widgets in general, please see the [Widgets page](/dep-guide/posts/widgets/).
 
 ![Image Widget as seen in the widget list](/assets/UserGuideImages/Images/image-widget/image-widget-admin-listing.png){: .light .shadow .rounded-10}
 
