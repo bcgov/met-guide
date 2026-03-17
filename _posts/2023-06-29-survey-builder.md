@@ -5,54 +5,52 @@ categories: [pages/features, survey, create, pages]
 tags: [survey builder, questions, question types, comments, hidden, template]
 pin: true
 ---
-The **Survey Builder** allows you to create and customize surveys from scratch, or clone existing surveys or templates and edit them. 
 
-Learn more about creating a new survey on the [Create a New Survey](/met-guide/posts/create-survey/) page or about editing a survey on the [Edit a Survey](/met-guide/posts/edit-survey/). Once you have created or cloned your survey, or want to edit your survey, you'll do this in the Survey Builder.
+The **Survey Builder** allows you to create and customize surveys from scratch, or clone existing surveys or templates and edit them.
 
-On the survey builder page, you can edit your survey name by clicking the *edit* icon next to your survey name. 
+Learn more about creating a new survey on the [Create a New Survey](/dep-guide/posts/create-survey/) page or about editing a survey on the [Edit a Survey](/dep-guide/posts/edit-survey/). Once you have created or cloned your survey, or want to edit your survey, you'll do this in the Survey Builder.
+
+On the survey builder page, you can edit your survey name by clicking the _edit_ icon next to your survey name.
 
 You can also turn on/off the multi-page option. Please note: if you toggle this option on/off after adding some content, you will lose all the content you created so far (even if you have previously saved your survey).
 
-The left panel includes all the draggable survey components you can choose to add to your survey. All survey components are powered by forms.io. For more information on forms.io, visit the [form.io help centre](https://help.form.io/). Please note, form.io has been customized to make it easier to use. The version you see on the website might differ from the one used in Modern Engagement Tools.
+The left panel includes all the draggable survey components you can choose to add to your survey. All survey components are powered by forms.io. For more information on forms.io, visit the [form.io help centre](https://help.form.io/). Please note, form.io has been customized to make it easier to use. The version you see on the website might differ from the one used on the Digital Engagement Platform.
 
 Below the left panel, you will see the options to hide your survey and make your survey a template.
 
-Learn more about hiding a survey on the [Hide a Survey](/met-guide/posts/hide-a-survey/) page.
-Learn more about saving your survey as a template on the [Save Survey as a Template](/met-guide/posts/save-survey-as-template/) page.
+Learn more about hiding a survey on the [Hide a Survey](/dep-guide/posts/hide-a-survey/) page.
+Learn more about saving your survey as a template on the [Save Survey as a Template](/dep-guide/posts/save-survey-as-template/) page.
 
-#### Survey Components  
+#### Survey Components
 
-Survey components are entirely customizable depending on your survey type. Some surveys may only use one or two components, while others may choose to use all of them.  
+Survey components are entirely customizable depending on your survey type. Some surveys may only use one or two components, while others may choose to use all of them.
 
 Each survey component will include settings respective to their function. Some components such as the Header will only have Display settings, while components such as radio buttons or checkboxes will have other sections offering more options for entering data and component customization.  
 ![Component tabs](/assets/UserGuideImages/Images/survey-builder/survey-builder-component-with-only-one-tab-of-settings-vs-one-with-all-of-them.png){: .light .shadow .rounded-10}
 
-#### Settings   
+#### Settings
 
 - **Display**: These are settings that modify the front-end UI of a component. The Display setting tab will be the first tab open when editing the component settings.
-  
 - **Values**: Values settings relate to how Values are set or how Values are interacted with between fields. Use Values Settings to set a default value or set up data calculation. For example, if you add a question that can be answered with Radio Buttons, you would set the possible answers to your question here. (For example, Yes and No). The label is what will show in your survey. The Value is auto-generated and is what the system will use. If you set a conditional question, you'll use the values to set it up.
-  
 - **Validation**: Settings found in the Validation Tab relate directly to the configurable Front-End and Back-End validations for the field. Validation covers settings such as required fields, unique data, min/max requirements, custom validations, and custom error messages.
-  
 - **Conditions**: The simple conditional option triggers a condition based on the data input of a single field on a form. For example, if the answer to question 1 is A, display Question B. You can also implement more advanced conditions by using JavaScript. Learn more about JavaScript Validation at the bottom of the page.
 
 For more information on the component settings, please visit {https://help.form.io/userguide/form-building/component-settings}.
 
-#### Survey Components 
+#### Survey Components
 
 Below are examples of the survey components available in this tool.
 
 - **Header**:
 
-This will allow you to add a pre-formatted header. 
+This will allow you to add a pre-formatted header.
 
 ![Header Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-header-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - **Paragraph**:
 
-This will allow you to add a pre-formatted paragraph. Please note, that if you want to add links or images, you will need to use the more advanced *Content* component.
-  
+This will allow you to add a pre-formatted paragraph. Please note, that if you want to add links or images, you will need to use the more advanced _Content_ component.
+
 ![Paragraph Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-paragraph-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
 - **Content**:
@@ -75,7 +73,7 @@ This is used to add a question that requires a long answer. The respondents will
 
 - **Drop-down**:
 
-This component is used to ask respondents to select one or many options from a long list of five or more options such as a list of geographic areas. 
+This component is used to ask respondents to select one or many options from a long list of five or more options such as a list of geographic areas.
 
 ![Drop Down Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-drop-down-answer-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
@@ -87,11 +85,10 @@ A Likert matrix is a type of rating scale used to measure attitudes or opinions 
 
 - **Postal Code**:
 
-Use the Portal Code component to collect the first three characters of a Canadian postal code. This can be used to understand the location of your respondents. Please note: Modern Engagement Tools does not currently support the display of the locations captured by this component on a map. A third-party software will have to be used to analyze the data collected. Please make sure you have the PIA to collect that information and hide this question from the Public Report on the Report Settings page.
+Use the Portal Code component to collect the first three characters of a Canadian postal code. This can be used to understand the location of your respondents. Please note: The Digital Engagement Platform does not currently support the display of the locations captured by this component on a map. A third-party software will have to be used to analyze the data collected. Please make sure you have the PIA to collect that information and hide this question from the Public Report on the Report Settings page.
 
 ![Postal Code Component](/assets/UserGuideImages/Images/survey-builder/survey-builder-image-of-postal-code-component.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668'}
 
-  
 - **Radio Button**:
 
 Radio Buttons allow users to select one option from a set of predefined choices. When a radio button within a group is selected, any previously selected radio button in the same group is automatically deselected, ensuring that only one choice is made. They are best used when you want to ensure the user selects only one option from a list, such as choosing a payment method or selecting a gender.
@@ -127,7 +124,7 @@ Show a subsequent question if a single sub-question within a Likert matrix has o
 `show = ["responseOption1", "responseOption2", "responseOption3"].includes(data.questionId.subQuestionId)
 e.g. show = ["effective", "veryEffective", "somewhatEffective"].includes(data.simplesurvey1.other)`
 
-Show a subsequent question if a single sub-question within a Likert matrix has a single response. 
+Show a subsequent question if a single sub-question within a Likert matrix has a single response.
 
 `show = data.questioniD.subQuestionId == "responseOption"
 e.g. show = data.simplesurvey2.other == "effective"`
@@ -137,4 +134,3 @@ Show a subsequent question when any sub-question within a likert matrix has one 
 
 `show = Object.values(data.questionId).some(value => ["responseOption1", "responseOption2"].includes(value))
 e.g. show = Object.values(data.simplesurvey4).some(value => ["important", "veryImportant"].includes(value))`
-  

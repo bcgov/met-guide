@@ -1,8 +1,8 @@
 <div align="center">
 
-  # Modern Engagement Tools User Guide
+# Digital Engagement Platform User Guide
 
-  Makes use of Chirpy - a minimal, responsive and feature-rich Jekyll theme for technical writing.
+Makes use of Chirpy - a minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 </div>
 
