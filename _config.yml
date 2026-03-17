@@ -20,7 +20,7 @@ timezone: US/Pacific
 
 title: Digital Engagement Platform Guide # it will display as the site title and the title of the homepage
 
-tagline: A guide to the Digital Engagement Platform (DEP) for technical writers and content creators.  # it will display as the sub-title
+tagline: A guide to the Digital Engagement Platform (DEP) for BC government employees.  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
